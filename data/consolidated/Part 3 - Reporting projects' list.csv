@@ -245,7 +245,7 @@ SC 38 Malampaya Gas to Field Project,JV Partner of SC 38,Chevron Malampaya LLC,N
 Malampaya Deepwater Gas-to-Power Project,JV Partner and Operator of SC38,Shell Philippines Exploration B.V.,Natural gas (2711),Production,30042,Tonnes,81977643505,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
 SC 38 Malampaya Gas to Power Project,JV Partner of SC 38,Philippine National Oil Company,Natural gas (2711),Production,11615.04,Tonnes,30059955.82,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
 Galoc Field SC14C,SC 14C,Galoc Production Company WLL - Philippine Branch,Crude oil (2709),Production,1066075,Barrels,41581268,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
-Galoc SC14C,SC 14,Nido Galoc Production,Crude oil (2709),Production,,,,,,,,,
+Galoc SC14C,SC 14,Nido Galoc Production,Crude oil (2709),Production,,,,,Philippines,PHL,2018,2018-01-01,2018-12-31
 Bankers Petroleum Albania Ltd.,Not applicable,Bankers Petroleum Albania Ltd.,Crude oil (2709),Production,793614.7,Tonnes,28321727799,ALL,Albania,ALB,2018,1/1/2018,12/31/2018
 Bankers Petroleum Albania Ltd.,Not applicable,Bankers Petroleum Albania Ltd.,Natural gas (2711),Production,88272182.3,Nm3,,,Albania,ALB,2018,1/1/2018,12/31/2018
 Anio Oil&Gas sha (ish Trans Atlantik Albania Ltd (ishStream Oil & Gas),Not applicable,Anio Oil&Gas sha (ish Trans Atlantik Albania Ltd (ishStream Oil & Gas),Crude oil (2709),Production,6688.15,Tonnes,238680009.1,ALL,Albania,ALB,2018,1/1/2018,12/31/2018
@@ -321,7 +321,6 @@ SHATV-29/213,PV-213,"""Multi Group Concern"" LLC",,,,,,,Armenia,ARM,2019,1/1/201
 SHAT-29/174,PV-174,"""Molibdeni Ashkharh"" LLC",,,,,,,Armenia,ARM,2019,1/1/2019,12/31/2019
 SHATV-29/398,PV-398,"""Marjan Mining Company"" LLC",,,,,,,Armenia,ARM,2019,1/1/2019,12/31/2019
 SHAT-29/542,P-542,"""Hrashk Metagh"" LLC",,,,,,,Armenia,ARM,2019,1/1/2019,12/31/2019
-Non applicable,Non applicable,Non applicable,Non applicable,Non applicable,Non applicable,Non applicable,Non applicable,Non applicable,,,,,
 Essakane,https://www.resourcecontracts.org/contract/ocds-591adf-4094040303/view#/,Essakane,Gold,Production,13.8,Tonnes,343040000000,XOF,Burkina Faso,BFA,2018,1/1/2018,12/31/2018
 Hounde Gold,Lien vers la convention indisponible,Hounde Gold,Gold,Production,8.59,Tonnes,213610000000,XOF,Burkina Faso,BFA,2018,1/1/2018,12/31/2018
 Bissa Gold SA,Lien vers la convention indisponible,Bissa Gold SA,Gold,Production,8.09,Tonnes,201150000000,XOF,Burkina Faso,BFA,2018,1/1/2018,12/31/2018
