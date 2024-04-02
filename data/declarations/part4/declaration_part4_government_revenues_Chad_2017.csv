@@ -1,0 +1,57 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Customs and other import duties (1151E),Mining,Contribution communautaire d'intégration (CCI),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),6073.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Mining,Droit de Douane à l’Importation (DDI),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),22619.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Mining,Redevance statistique à l'importation,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),22096.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Mining,Taxe communautaire d'intégration (TCI),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),11205.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Mining,Taxe sur la Valeur Ajoutée (douanes),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),34132.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Not applicable,PCI (Précompte sur Is),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Not applicable,Taxe de préférence communautaire (TPC),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Oil,Redevance statistique à l'importation,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),2849497.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Oil,Taxe communautaire d'intégration (TCI),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),11203.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Other,Droit de Douane à l’Importation (DDI),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),303429.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Delivered/paid to state-owned enterprise(s) (1415E32),Oil,Profil Oil collectés par la SHT PCCL,Société des Hydrocarbures du Tchad (SHT),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Delivered/paid to state-owned enterprise(s) (1415E32),Oil,Profit Oil collecté par la SHT,Société des Hydrocarbures du Tchad (SHT),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Delivered/paid to state-owned enterprise(s) (1415E32),Oil,Redevance sur production collecté par la SHT,Société des Hydrocarbures du Tchad (SHT),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Delivered/paid to state-owned enterprise(s) (1415E32),Oil,Tax Oil collecté par la SHT,Société des Hydrocarbures du Tchad (SHT),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Delivered/paid to state-owned enterprise(s) (1415E32),Oil,Vente du pétrole collectés par SHT,Société des Hydrocarbures du Tchad (SHT),253777342.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Delivered/paid to state-owned enterprise(s) (1415E32),Oil,Vente du pétrole collectés par SHT PCCL,Société des Hydrocarbures du Tchad (SHT),143659940.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Emission and pollution taxes (114522E),Not applicable,Taxe sur la Protection de l’environnement,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Excise taxes (1142E),Not applicable,DAC (Droit d'accise),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+"Extraordinary taxes on income, profits and capital gains (1112E2)",Mining,Redressements fiscaux,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),25900.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+"Extraordinary taxes on income, profits and capital gains (1112E2)",Oil,Prélèvement sur les plus-values de cession,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+"Extraordinary taxes on income, profits and capital gains (1112E2)",Oil,Redressements fiscaux,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),302976.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+"Extraordinary taxes on income, profits and capital gains (1112E2)",Other,Redressements fiscaux,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),293836.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+From government participation (equity) (1412E2),Other,Dividendes versés à l'Etat,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),2039147.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,IS libératoire,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),23963.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,TVA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),368628.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Oil,IS libératoire,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),3630693.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Other,IS libératoire,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),181920.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Mining,Appui Institutionnel,Direction Générale Technique des Mines (DGTM),38681.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Mining,Redevance superficiaire,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),199116.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Mining,Taxe Ad valorem,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Mining,Taxe de bornage,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Mining,Taxe d’extraction,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),712303.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Oil,Bonus de Signature,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Oil,Bonus d’attribution d’autorisation d’exploitation,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Oil,Droit fixe,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),1050000.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Oil,Frais de présentation du rapport annuel,Direction Générale Technique de Pétrole (DGTP),457705.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Oil,Pénalité de non-exécution de contrat,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Oil,Redevance superficiaire,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),337003.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Oil,Taxe d’extraction,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),97541.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Other,Droit de passage,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),20725585.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Other,Redevance ARSAT,Autorité de Régulation du Secteur pétrolier Aval du Tchad (ARSAT),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Other,Redevance superficiaire,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),26.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Retenue à la source (IRCM),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),33319.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil,Autres paiements significatifs,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),983788.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil,Impôt direct sur les bénéfices,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),72119703.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil,Retenue à la source (IRCM),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),127097.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Other,Autres paiements significatifs,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),336946.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Other,Impôt direct sur les bénéfices,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),20867.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Social security employer contributions (1212E),Not applicable,Cotisation patronale CNPS,Caisse Nationale de Prévoyance Sociale (CNPS),,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Taxes on exports (1152E),Oil,Redevance statistique à l'exportation,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),4171426.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Taxes on payroll and workforce (112E),Mining,Taxe d'apprentissage et formation professionnelle,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),5477.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Taxes on payroll and workforce (112E),Mining,Taxe forfaitaire,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),23697.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Taxes on payroll and workforce (112E),Oil,Contribution à la formation du personnel du MPME,Direction Générale Technique de Pétrole (DGTP),3991769.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Taxes on payroll and workforce (112E),Oil,Contribution à la formation du personnel du MPME,Direction Générale Technique des Mines (DGTM),12894.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Taxes on payroll and workforce (112E),Other,Taxe forfaitaire,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),34438339.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31
+Taxes on property (113E),Other,Contribution de la patente,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),527.0,USD,Chad,TCD,2017,2017-01-01,2017-12-31

@@ -1,0 +1,55 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Compulsory transfers to government (infrastructure and other) (1415E4),Oil & Gas,Recherche Cuvette,Direction Générale du Trésor (DGT),,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Oil & Gas,Droits d'accise (DAC),Direction Générale des Douanes et des Droits Indirects (DGDDI),21651151.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Oil & Gas,Redevance informatique,Direction Générale des Douanes et des Droits Indirects (DGDDI),3945716545.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Oil & Gas,Tarif Extérieur Commun (TEC),Direction Générale des Douanes et des Droits Indirects (DGDDI),1522304437.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Oil & Gas,Taxe sur la valeur ajoutée (TVA-DGDDI),Direction Générale des Douanes et des Droits Indirects (DGDDI),1559069219.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Delivered/paid directly to government (1415E31),Oil & Gas,Interets Yanga & Sendji (15%) -en nature-,Direction Générale des Hydrocarbures (DGH),35206052.0,USD,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Delivered/paid directly to government (1415E31),Oil & Gas,"Profit Oil, Super Profit Oil, Excess Oil -en nature-",Direction Générale des Hydrocarbures (DGH),696729389.0,USD,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Delivered/paid directly to government (1415E31),Oil & Gas,Redevance minière proportionnelle -en nature-,Direction Générale des Hydrocarbures (DGH),709923363.0,USD,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Delivered/paid to state-owned enterprise(s) (1415E32),Oil & Gas,Part d’huile de la SNPC -en nature-,Société Nationale des Pétroles du Congo (SNPC),225182569.0,USD,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+"Extraordinary taxes on income, profits and capital gains (1112E2)",Oil & Gas,Centimes Additionnels (CAD),Direction Générale des Impôts et des Domaines (DGID),252239639.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+"Fines, penalties, and forfeits (143E)",Oil & Gas,Redressements Douaniers/amendes et pénalités,Direction Générale des Douanes et des Droits Indirects (DGDDI),150917268.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+"Fines, penalties, and forfeits (143E)",Oil & Gas,Redressements fiscaux/amendes et pénalités,Direction Générale des Impôts et des Domaines (DGID),7228986431.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+"Fines, penalties, and forfeits (143E)",Other,Amendes et infractions,Ministère de l'Economie Forestière et du Développement Durables (MEFDD),582876639.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Frais de formation,Other,Frais de formation,Direction Générale des Hydrocarbures (DGH),,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+From government participation (equity) (1412E2),Mining,Dividendes versés par les sociétés minières,Direction Générale du Trésor (DGT),,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+From government participation (equity) (1412E2),Oil & Gas,Dividendes versés à L'Etat,Direction Générale du Trésor (DGT),,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+From government participation (equity) (1412E2),Oil & Gas,Dividendes versés à la SNPC,Société Nationale des Pétroles du Congo (SNPC),,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Oil & Gas,Taxe sur la Valeur Ajoutée (TVA) (DGID),Direction Générale des Impôts et des Domaines (DGID),5175220390.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Licence fees (114521E),Mining,Droits fixes,Direction Générale du Trésor (DGT),,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Motor vehicle taxes (11451E),Oil & Gas,Taxe sur les véhicules de tourisme des sociétés (TVTS),Direction Générale des Impôts et des Domaines (DGID),49452191.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Impôt sur le revenu des valeurs mobilières (IRM),Direction Générale des Impôts et des Domaines (DGID),160098439.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Impôts retenus à la source des sous-traitants,Direction Générale des Impôts et des Domaines (DGID),11878710642.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Impôts sur les sociétés,Direction Générale des Impôts et des Domaines (DGID),42459769.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Taxe spéciale sur les sociétés (y compris retenue à la source),Direction Générale des Impôts et des Domaines (DGID),1107682094.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Other taxes payable by natural resource companies (116E),Mining,Taxe sur les géomatériaux de construction,Direction Générale du Trésor (DGT),,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Autres revenues du domaine minier,Direction Générale des Impôts et des Domaines (DGID),46017222.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Autres revenus du domaine minier,Direction Générale du Trésor (DGT),129727234346.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Patente,Direction Générale des Impôts et des Domaines (DGID),190356272.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Taxe régionale,Direction Générale des Impôts et des Domaines (DGID),6427600.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Other taxes payable by natural resource companies (116E),Other,Fiscalité du champs Lianzi,Direction Générale du Trésor (DGT),18506049729.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Other taxes payable by natural resource companies (116E),Other,Taxe d'abattage,Direction Générale du Trésor (DGT),4305512335.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Other taxes payable by natural resource companies (116E),Other,Taxe de déboisement,Direction Générale du Trésor (DGT),106075187.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Other taxes payable by natural resource companies (116E),Other,Taxe de superficie,Direction Générale du Trésor (DGT),1836548898.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Other taxes payable by natural resource companies (116E),Other,Taxe sur les produits forestiers accessoires,Direction Générale du Trésor (DGT),618000.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Mining,Redevance minière,Direction Générale du Trésor (DGT),,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Oil & Gas,Bonus de production,Direction Générale du Trésor (DGT),,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Oil & Gas,Bonus de signature,Direction Générale du Trésor (DGT),7834306658.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Oil & Gas,Frais de formation,Direction Générale des Hydrocarbures (DGH),1384794486.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Oil & Gas,"Profit Oil, Super Profit Oil, Excess Oil",Direction Générale du Trésor (DGT),3594470855.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Oil & Gas,Provision pour investissements diversifiés (PID),Direction Générale du Trésor (DGT),20550995462.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Oil & Gas,Redevance pétrolière,Direction Générale du Trésor (DGT),,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Oil & Gas,Redevance superficiaire,Direction Générale du Trésor (DGT),276649278.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Oil & Gas,Redevance sur auto-consommation,Direction Générale du Trésor (DGT),1856582453.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Oil & Gas,Solde de fiscalité reversé (Hors PID et Red sur autoconsommation),Direction Générale du Trésor (DGT),3066413485.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Oil & Gas,Taxe Maritime,SOCOTRAM / Direction de la Marine Marchande / Conseil congolais des chargeurs,,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Taxes on exports (1152E),Mining,Redevance sur les diamants (RDA),Direction Générale des Douanes et des Droits Indirects (DGDDI),,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Taxes on exports (1152E),Oil & Gas,Droits accessoires à la sortie (DAS),Direction Générale des Douanes et des Droits Indirects (DGDDI),40234739.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Taxes on exports (1152E),Oil & Gas,Droits de sortie (DST),Direction Générale des Douanes et des Droits Indirects (DGDDI),3535699.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Taxes on exports (1152E),Oil & Gas,Taxe additionnelle à l'exportation (TAE),Direction Générale des Douanes et des Droits Indirects (DGDDI),,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Taxes on exports (1152E),Other,Redevance bois (RDB),Direction Générale des Douanes et des Droits Indirects (DGDDI),9254022668.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Taxes on exports (1152E),Other,Taxe à l'exportation des bois,Direction Générale des Douanes et des Droits Indirects (DGDDI),830641921.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Taxes on payroll and workforce (112E),Oil & Gas,Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),Direction Générale des Impôts et des Domaines (DGID),31890191900.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Taxes on property (113E),Oil & Gas,Taxe d'occupation des Locaux (y compris retenue à la source),Direction Générale des Impôts et des Domaines (DGID),86116011.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+Taxes on property (113E),Oil & Gas,Taxe immobilière,Direction Générale des Impôts et des Domaines (DGID),531278424.0,XAF,Republic of the Congo,COG,2017,2017-01-01,2017-12-31

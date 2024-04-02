@@ -1,0 +1,187 @@
+Company,Government entity,Revenue stream name,Levied on project (Y/N),Reported by project (Y/N),Project name,Reporting currency,Revenue value,Payment made in-kind (Y/N),In-kind volume (if applicable),Unit (if applicable),Comments,Country,ISO Code,Year,Start Date,End Date
+Agnico Eagle,Servicio de Administración Tributaria,Derecho adicional sobre minería,Not applicable,No,,MXN,73374.0,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Agnico Eagle,Servicio de Administración Tributaria,Derecho especial sobre minería,Not applicable,No,,MXN,501384064.0,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Agnico Eagle,Servicio de Administración Tributaria,Derecho extraordinario sobre minería,Not applicable,No,,MXN,18119.0,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Agnico Eagle,Servicio de Administración Tributaria,Derecho sobre minería,Not applicable,No,,MXN,104539087.0,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Agnico Eagle,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Alamos Gold,Servicio de Administración Tributaria,Derecho adicional sobre minería,Not applicable,No,,MXN,19450315.0,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Alamos Gold,Servicio de Administración Tributaria,Derecho especial sobre minería,Not applicable,No,,MXN,1388693315.0,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Alamos Gold,Servicio de Administración Tributaria,Derecho extraordinario sobre minería,Not applicable,No,,MXN,506484690.0,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Alamos Gold,Servicio de Administración Tributaria,Derecho sobre minería,Not applicable,No,,MXN,296001221.0,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Alamos Gold,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,18850000.0,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Argonaut Gold,Servicio de Administración Tributaria,Derecho adicional sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Argonaut Gold,Servicio de Administración Tributaria,Derecho especial sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Argonaut Gold,Servicio de Administración Tributaria,Derecho extraordinario sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Argonaut Gold,Servicio de Administración Tributaria,Derecho sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Argonaut Gold,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BHP - Pemex,Fondo Mexicano del Petróleo,Bono a la Firma,Yes,No,,USD,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BHP - Pemex,Fondo Mexicano del Petróleo,Cuota Contractual,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BHP - Pemex,Fondo Mexicano del Petróleo,Derecho de Exploración,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BHP - Pemex,Fondo Mexicano del Petróleo,Derecho de Extracción,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BHP - Pemex,Fondo Mexicano del Petróleo,Derecho por la Utilidad Compartida,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BHP - Pemex,Fondo Mexicano del Petróleo,Participación del Estado,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BHP - Pemex,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"BHP BILLITON PETROLEO OPERACIONES DE MEXICO, S. DE R.L. DE C.V.",Fondo Mexicano del Petróleo,Bono a la Firma,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"BHP BILLITON PETROLEO OPERACIONES DE MEXICO, S. DE R.L. DE C.V.",Fondo Mexicano del Petróleo,Cuota Contractual,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"BHP BILLITON PETROLEO OPERACIONES DE MEXICO, S. DE R.L. DE C.V.",Fondo Mexicano del Petróleo,Derecho de Exploración,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"BHP BILLITON PETROLEO OPERACIONES DE MEXICO, S. DE R.L. DE C.V.",Fondo Mexicano del Petróleo,Derecho de Extracción,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"BHP BILLITON PETROLEO OPERACIONES DE MEXICO, S. DE R.L. DE C.V.",Fondo Mexicano del Petróleo,Derecho por la Utilidad Compartida,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"BHP BILLITON PETROLEO OPERACIONES DE MEXICO, S. DE R.L. DE C.V.",Fondo Mexicano del Petróleo,Participación del Estado,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"BHP BILLITON PETROLEO OPERACIONES DE MEXICO, S. DE R.L. DE C.V.",Non-disaggregated revenue flows,Impuestos a las utilidades de actividades extractivas,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"BHP BILLITON PETROLEO OPERACIONES DE MEXICO, S. DE R.L. DE C.V.",Servicio de Administración Tributaria,Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos (IAEEH),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"BHP BILLITON PETROLEO OPERACIONES DE MEXICO, S. DE R.L. DE C.V.",Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BP Exploration Mexico SA de CV,Fondo Mexicano del Petróleo,Bono a la Firma,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BP Exploration Mexico SA de CV,Fondo Mexicano del Petróleo,Cuota Contractual,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BP Exploration Mexico SA de CV,Fondo Mexicano del Petróleo,Derecho de Exploración,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BP Exploration Mexico SA de CV,Fondo Mexicano del Petróleo,Derecho de Extracción,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BP Exploration Mexico SA de CV,Fondo Mexicano del Petróleo,Derecho por la Utilidad Compartida,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BP Exploration Mexico SA de CV,Fondo Mexicano del Petróleo,Participación del Estado,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BP Exploration Mexico SA de CV,Non-disaggregated revenue flows,Impuestos a las utilidades de actividades extractivas,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BP Exploration Mexico SA de CV,Servicio de Administración Tributaria,Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos (IAEEH),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+BP Exploration Mexico SA de CV,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Baramin,Servicio de Administración Tributaria,Derecho adicional sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Baramin,Servicio de Administración Tributaria,Derecho especial sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Baramin,Servicio de Administración Tributaria,Derecho extraordinario sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Baramin,Servicio de Administración Tributaria,Derecho sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Baramin,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Chevron Energía de México,Fondo Mexicano del Petróleo,Bono a la Firma,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Chevron Energía de México,Fondo Mexicano del Petróleo,Cuota Contractual,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Chevron Energía de México,Fondo Mexicano del Petróleo,Derecho de Exploración,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Chevron Energía de México,Fondo Mexicano del Petróleo,Derecho de Extracción,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Chevron Energía de México,Fondo Mexicano del Petróleo,Derecho por la Utilidad Compartida,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Chevron Energía de México,Fondo Mexicano del Petróleo,Participación del Estado,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Chevron Energía de México,Non-disaggregated revenue flows,Impuestos a las utilidades de actividades extractivas,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Chevron Energía de México,Servicio de Administración Tributaria,Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos (IAEEH),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Chevron Energía de México,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EQUINOR UPSTREAM MÉXICO, S.A. DE C.V.",Fondo Mexicano del Petróleo,Bono a la Firma,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EQUINOR UPSTREAM MÉXICO, S.A. DE C.V.",Fondo Mexicano del Petróleo,Cuota Contractual,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EQUINOR UPSTREAM MÉXICO, S.A. DE C.V.",Fondo Mexicano del Petróleo,Derecho de Exploración,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EQUINOR UPSTREAM MÉXICO, S.A. DE C.V.",Fondo Mexicano del Petróleo,Derecho de Extracción,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EQUINOR UPSTREAM MÉXICO, S.A. DE C.V.",Fondo Mexicano del Petróleo,Derecho por la Utilidad Compartida,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EQUINOR UPSTREAM MÉXICO, S.A. DE C.V.",Fondo Mexicano del Petróleo,Participación del Estado,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EQUINOR UPSTREAM MÉXICO, S.A. DE C.V.",Non-disaggregated revenue flows,Impuestos a las utilidades de actividades extractivas,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EQUINOR UPSTREAM MÉXICO, S.A. DE C.V.",Servicio de Administración Tributaria,Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos (IAEEH),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EQUINOR UPSTREAM MÉXICO, S.A. DE C.V.",Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EXXONMOBIL EXPLORACION Y PRODUCCION MEXICO, S.R.L DE C.V.",Fondo Mexicano del Petróleo,Bono a la Firma,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EXXONMOBIL EXPLORACION Y PRODUCCION MEXICO, S.R.L DE C.V.",Fondo Mexicano del Petróleo,Cuota Contractual,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EXXONMOBIL EXPLORACION Y PRODUCCION MEXICO, S.R.L DE C.V.",Fondo Mexicano del Petróleo,Derecho de Exploración,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EXXONMOBIL EXPLORACION Y PRODUCCION MEXICO, S.R.L DE C.V.",Fondo Mexicano del Petróleo,Derecho de Extracción,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EXXONMOBIL EXPLORACION Y PRODUCCION MEXICO, S.R.L DE C.V.",Fondo Mexicano del Petróleo,Derecho por la Utilidad Compartida,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EXXONMOBIL EXPLORACION Y PRODUCCION MEXICO, S.R.L DE C.V.",Fondo Mexicano del Petróleo,Participación del Estado,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EXXONMOBIL EXPLORACION Y PRODUCCION MEXICO, S.R.L DE C.V.",Non-disaggregated revenue flows,Impuestos a las utilidades de actividades extractivas,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EXXONMOBIL EXPLORACION Y PRODUCCION MEXICO, S.R.L DE C.V.",Servicio de Administración Tributaria,Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos (IAEEH),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"EXXONMOBIL EXPLORACION Y PRODUCCION MEXICO, S.R.L DE C.V.",Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Fieldwood Energy E&P Mexico S.de R.L de C.V,Fondo Mexicano del Petróleo,Bono a la Firma,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Fieldwood Energy E&P Mexico S.de R.L de C.V,Fondo Mexicano del Petróleo,Cuota Contractual,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Fieldwood Energy E&P Mexico S.de R.L de C.V,Fondo Mexicano del Petróleo,Derecho de Exploración,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Fieldwood Energy E&P Mexico S.de R.L de C.V,Fondo Mexicano del Petróleo,Derecho de Extracción,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Fieldwood Energy E&P Mexico S.de R.L de C.V,Fondo Mexicano del Petróleo,Derecho por la Utilidad Compartida,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Fieldwood Energy E&P Mexico S.de R.L de C.V,Fondo Mexicano del Petróleo,Participación del Estado,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Fieldwood Energy E&P Mexico S.de R.L de C.V,Non-disaggregated revenue flows,Impuestos a las utilidades de actividades extractivas,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Fieldwood Energy E&P Mexico S.de R.L de C.V,Servicio de Administración Tributaria,Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos (IAEEH),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Fieldwood Energy E&P Mexico S.de R.L de C.V,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo Fresnillo,Servicio de Administración Tributaria,Derecho adicional sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo Fresnillo,Servicio de Administración Tributaria,Derecho especial sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo Fresnillo,Servicio de Administración Tributaria,Derecho extraordinario sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo Fresnillo,Servicio de Administración Tributaria,Derecho sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo Fresnillo,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo México,Servicio de Administración Tributaria,Derecho adicional sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo México,Servicio de Administración Tributaria,Derecho especial sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo México,Servicio de Administración Tributaria,Derecho extraordinario sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo México,Servicio de Administración Tributaria,Derecho sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo México,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo Peñoles,Servicio de Administración Tributaria,Derecho adicional sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo Peñoles,Servicio de Administración Tributaria,Derecho especial sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo Peñoles,Servicio de Administración Tributaria,Derecho extraordinario sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo Peñoles,Servicio de Administración Tributaria,Derecho sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Grupo Peñoles,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Jaguar Exploración Y Producción De Hidrocarburos,Fondo Mexicano del Petróleo,Bono a la Firma,Yes,Yes,CNH-R02-L03-CS-01/2017,USD,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Jaguar Exploración Y Producción De Hidrocarburos,Fondo Mexicano del Petróleo,Bono a la Firma,Yes,Yes,CNH-R02-L03-TM-01/2017,USD,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Jaguar Exploración Y Producción De Hidrocarburos,Fondo Mexicano del Petróleo,Cuota Contractual,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Jaguar Exploración Y Producción De Hidrocarburos,Fondo Mexicano del Petróleo,Derecho de Exploración,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Jaguar Exploración Y Producción De Hidrocarburos,Fondo Mexicano del Petróleo,Derecho de Extracción,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Jaguar Exploración Y Producción De Hidrocarburos,Fondo Mexicano del Petróleo,Derecho por la Utilidad Compartida,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Jaguar Exploración Y Producción De Hidrocarburos,Fondo Mexicano del Petróleo,Participación del Estado,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Jaguar Exploración Y Producción De Hidrocarburos,Fondo Mexicano del Petróleo,Regalía Adicional,Yes,Yes,CNH-R02-L03-CS-01/2017,USD,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Jaguar Exploración Y Producción De Hidrocarburos,Fondo Mexicano del Petróleo,Regalía Adicional,Yes,Yes,CNH-R02-L03-VC-02/2017,USD,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Jaguar Exploración Y Producción De Hidrocarburos,Fondo Mexicano del Petróleo,Regalía Base,Yes,Yes,CNH-R02-L03-CS-01/2017,USD,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Jaguar Exploración Y Producción De Hidrocarburos,Fondo Mexicano del Petróleo,Regalía Base,Yes,Yes,CNH-R02-L03-VC-02/2017,USD,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Jaguar Exploración Y Producción De Hidrocarburos,Non-disaggregated revenue flows,Impuestos a las utilidades de actividades extractivas,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Jaguar Exploración Y Producción De Hidrocarburos,Servicio de Administración Tributaria,Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos (IAEEH),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Jaguar Exploración Y Producción De Hidrocarburos,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+LEA Gold,Servicio de Administración Tributaria,Derecho adicional sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+LEA Gold,Servicio de Administración Tributaria,Derecho especial sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+LEA Gold,Servicio de Administración Tributaria,Derecho extraordinario sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+LEA Gold,Servicio de Administración Tributaria,Derecho sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+LEA Gold,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Las Encinas,Servicio de Administración Tributaria,Derecho adicional sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Las Encinas,Servicio de Administración Tributaria,Derecho especial sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Las Encinas,Servicio de Administración Tributaria,Derecho extraordinario sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Las Encinas,Servicio de Administración Tributaria,Derecho sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Las Encinas,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pantera,Fondo Mexicano del Petróleo,Bono a la Firma,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pantera,Fondo Mexicano del Petróleo,Bono a la Firma,Yes,Yes,CNH-R02-L02-A7.BG/2017,USD,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pantera,Fondo Mexicano del Petróleo,Cuota Contractual,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pantera,Fondo Mexicano del Petróleo,Derecho de Exploración,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pantera,Fondo Mexicano del Petróleo,Derecho de Extracción,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pantera,Fondo Mexicano del Petróleo,Derecho por la Utilidad Compartida,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pantera,Fondo Mexicano del Petróleo,Participación del Estado,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pantera,Fondo Mexicano del Petróleo,Regalía Adicional,Yes,Yes,CNH-R02-L02-A10.CS/2017,USD,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pantera,Fondo Mexicano del Petróleo,Regalía Adicional,Yes,Yes,CNH-R02-L02-A4.BG/2017,USD,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pantera,Fondo Mexicano del Petróleo,Regalía Adicional,Yes,Yes,CNH-R02-L02-A5.BG/2017,USD,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pantera,Fondo Mexicano del Petróleo,Regalía Base,Yes,Yes,CNH-R02-L02-A10.CS/2017,USD,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pantera,Fondo Mexicano del Petróleo,Regalía Base,Yes,Yes,CNH-R02-L02-A4.BG/2017,USD,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pantera,Fondo Mexicano del Petróleo,Regalía Base,Yes,Yes,CNH-R02-L02-A5.BG/2017,USD,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pantera,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Fondo Mexicano del Petróleo,Bono a la Firma,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Fondo Mexicano del Petróleo,Cuota Contractual,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Fondo Mexicano del Petróleo,Derecho de Exploración,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Fondo Mexicano del Petróleo,Derecho de Extracción,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Fondo Mexicano del Petróleo,Derecho por la Utilidad Compartida,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Fondo Mexicano del Petróleo,Participación del Estado,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Fondo Mexicano del Petróleo,Participación del Estado,Yes,Yes,CNH-M1-EK-BALAM/2017,MXN,,S,12369,Sm3 o.e.,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Fondo Mexicano del Petróleo,Participación del Estado,Yes,Yes,CNH-M1-EK-BALAM/2017,MXN,,S,2387513,Barrels,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Fondo Mexicano del Petróleo,Participación del Estado,Yes,Yes,CNH-M1-EK-BALAM/2017,MXN,,S,5307,Barrels,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Fondo Mexicano del Petróleo,Participación del Estado,Yes,Yes,CNH-M2-Santuario-El Golpe/2017,MXN,,S,31275,Barrels,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Fondo Mexicano del Petróleo,Participación del Estado,Yes,Yes,CNH-M2-Santuario-El Golpe/2017,MXN,,S,655,Barrels,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Fondo Mexicano del Petróleo,Participación del Estado,Yes,Yes,CNH-M2-Santuario-El Golpe/2017,MXN,,S,979,Sm3 o.e.,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Non-disaggregated revenue flows,Impuestos a las utilidades de actividades extractivas,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Servicio de Administración Tributaria,Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos (IAEEH),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Pemex Exploración y Producción,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Peña Colorada,Servicio de Administración Tributaria,Derecho adicional sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Peña Colorada,Servicio de Administración Tributaria,Derecho especial sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Peña Colorada,Servicio de Administración Tributaria,Derecho extraordinario sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Peña Colorada,Servicio de Administración Tributaria,Derecho sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Peña Colorada,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Plata Panamericana,Servicio de Administración Tributaria,Derecho adicional sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Plata Panamericana,Servicio de Administración Tributaria,Derecho especial sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Plata Panamericana,Servicio de Administración Tributaria,Derecho extraordinario sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Plata Panamericana,Servicio de Administración Tributaria,Derecho sobre minería,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Plata Panamericana,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"Repsol Exploración México, S.A. de C.V.",Fondo Mexicano del Petróleo,Bono a la Firma,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"Repsol Exploración México, S.A. de C.V.",Fondo Mexicano del Petróleo,Cuota Contractual,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"Repsol Exploración México, S.A. de C.V.",Fondo Mexicano del Petróleo,Derecho de Exploración,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"Repsol Exploración México, S.A. de C.V.",Fondo Mexicano del Petróleo,Derecho de Extracción,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"Repsol Exploración México, S.A. de C.V.",Fondo Mexicano del Petróleo,Derecho por la Utilidad Compartida,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"Repsol Exploración México, S.A. de C.V.",Fondo Mexicano del Petróleo,Participación del Estado,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"Repsol Exploración México, S.A. de C.V.",Non-disaggregated revenue flows,Impuestos a las utilidades de actividades extractivas,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"Repsol Exploración México, S.A. de C.V.",Servicio de Administración Tributaria,Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos (IAEEH),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"Repsol Exploración México, S.A. de C.V.",Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"TOTAL E&P MÉXICO, S.A. DE C.V.",Fondo Mexicano del Petróleo,Bono a la Firma,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"TOTAL E&P MÉXICO, S.A. DE C.V.",Fondo Mexicano del Petróleo,Cuota Contractual,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"TOTAL E&P MÉXICO, S.A. DE C.V.",Fondo Mexicano del Petróleo,Derecho de Exploración,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"TOTAL E&P MÉXICO, S.A. DE C.V.",Fondo Mexicano del Petróleo,Derecho de Extracción,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"TOTAL E&P MÉXICO, S.A. DE C.V.",Fondo Mexicano del Petróleo,Derecho por la Utilidad Compartida,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"TOTAL E&P MÉXICO, S.A. DE C.V.",Fondo Mexicano del Petróleo,Participación del Estado,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"TOTAL E&P MÉXICO, S.A. DE C.V.",Non-disaggregated revenue flows,Impuestos a las utilidades de actividades extractivas,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"TOTAL E&P MÉXICO, S.A. DE C.V.",Servicio de Administración Tributaria,Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos (IAEEH),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+"TOTAL E&P MÉXICO, S.A. DE C.V.",Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Wintershall DEA Mexico,Fondo Mexicano del Petróleo,Bono a la Firma,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Wintershall DEA Mexico,Fondo Mexicano del Petróleo,Cuota Contractual,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Wintershall DEA Mexico,Fondo Mexicano del Petróleo,Derecho de Exploración,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Wintershall DEA Mexico,Fondo Mexicano del Petróleo,Derecho de Extracción,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Wintershall DEA Mexico,Fondo Mexicano del Petróleo,Derecho por la Utilidad Compartida,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Wintershall DEA Mexico,Fondo Mexicano del Petróleo,Participación del Estado,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Wintershall DEA Mexico,Non-disaggregated revenue flows,Impuestos a las utilidades de actividades extractivas,Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Wintershall DEA Mexico,Servicio de Administración Tributaria,Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos (IAEEH),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017
+Wintershall DEA Mexico,Servicio de Administración Tributaria,Impuesto sobre la Renta (ISR),Not applicable,No,,MXN,,,,,,Mexico,MEX,2017,1/1/2017,12/31/2017

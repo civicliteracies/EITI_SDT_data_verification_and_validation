@@ -1,0 +1,5 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+From government participation (equity) (1412E2),Oil & Gas,State partner share of field remuneration fees,Ministry of Oil,244925278.38,USD,Iraq,IRQ,2017,1/1/2017,12/31/2017
+From state-owned enterprises (1412E1),Oil & Gas,State treasury share of SOE profits,Ministry of Finance,282361644.0,USD,Iraq,IRQ,2017,1/1/2017,12/31/2017
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Corporate Income tax,Ministry of Finance,471464880.0,USD,Iraq,IRQ,2017,1/1/2017,12/31/2017
+Profits of natural resource export monopolies (1153E1),Oil & Gas,Crude oil export revenue,Ministry of Finance,59462609245.0,USD,Iraq,IRQ,2017,1/1/2017,12/31/2017

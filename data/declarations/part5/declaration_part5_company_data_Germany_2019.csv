@@ -1,0 +1,42 @@
+Company,Government entity,Revenue stream name,Levied on project (Y/N),Reported by project (Y/N),Project name,Reporting currency,Revenue value,Payment made in-kind (Y/N),In-kind volume (if applicable),Unit (if applicable),Comments,Country,ISO Code,Year,Start Date,End Date
+BEB Erdgas und Erdöl GmbH & Co. KG,"Mining Authorities (Level of state governemnt (""Länder""))",Mining and Extraction Royalties,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+BEB Erdgas und Erdöl GmbH & Co. KG,Municipalities (Level of local government),Trade Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+DEA Deutsche Erdöl AG (now: Wintershall DEA International AG),"Mining Authorities (Level of state governemnt (""Länder""))",Mining and Extraction Royalties,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+DEA Deutsche Erdöl AG (now: Wintershall DEA International AG),Municipalities (Level of local government),Trade Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+DEA Deutsche Erdöl AG (now: Wintershall DEA International AG),"Tax Offices (Level of state government (""Länder""))",Corporation Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Dyckerhoff-Gruppe,Municipalities (Level of local government),Trade Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Dyckerhoff-Gruppe,"Tax Offices (Level of state government (""Länder""))",Corporation Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+ExxonMobil Central Europe Holding GmbH,"Mining Authorities (Level of state governemnt (""Länder""))",Mining and Extraction Royalties,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+ExxonMobil Central Europe Holding GmbH,Municipalities (Level of local government),Trade Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+ExxonMobil Central Europe Holding GmbH,"Tax Offices (Level of state government (""Länder""))",Corporation Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Heidelberger Sand und Kies GmbH,Municipalities (Level of local government),Lease Payments,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Heidelberger Sand und Kies GmbH,"Tax Offices (Level of state government (""Länder""))",Corporation Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Holcim (Deutschland) GmbH,Government Agencies (Level of local government),Lease Payments,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Holcim (Deutschland) GmbH,Municipalities (Level of local government),Trade Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Holcim (Deutschland) GmbH,"Tax Offices (Level of state government (""Länder""))",Corporation Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Hülskens Holding GmbH & Co. KG,Government Agencies (Level of local government),Lease Payments,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Hülskens Holding GmbH & Co. KG,Municipalities (Level of local government),Trade Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+JTSD-Braunkohlebergbau GmbH / MIBRAG,Government Agencies (Level of local government),Lease Payments,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+JTSD-Braunkohlebergbau GmbH / MIBRAG,Municipalities (Level of local government),Trade Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+JTSD-Braunkohlebergbau GmbH / MIBRAG,"Tax Offices (Level of state government (""Länder""))",Corporation Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+K+S Minerals and Agriculture GmbH,"Mining Authorities (Level of state governemnt (""Länder""))",Mining and Extraction Royalties,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+K+S Minerals and Agriculture GmbH,Municipalities (Level of local government),Trade Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+LEAG Lausitzer Energie Bergbau AG,Government Agencies (Level of local government),Lease Payments,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+LEAG Lausitzer Energie Bergbau AG,Government Agencies (Level of local government),Payments to Improve the Infrastructure,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Neptune Energy Deutschland GmbH (former: Engie E&P Holding Germany GmbH),"Mining Authorities (Level of state governemnt (""Länder""))",Mining and Extraction Royalties,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Neptune Energy Deutschland GmbH (former: Engie E&P Holding Germany GmbH),Municipalities (Level of local government),Trade Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Neptune Energy Deutschland GmbH (former: Engie E&P Holding Germany GmbH),"Tax Offices (Level of state government (""Länder""))",Corporation Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Quarzwerke GmbH,Municipalities (Level of local government),Trade Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Quarzwerke GmbH,"Tax Offices (Level of state government (""Länder""))",Corporation Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+RWE-Gruppe / RWE Power AG,Government Agencies (Level of local government),Payments to Improve the Infrastructure,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+RWE-Gruppe / Rheinische Baustoffwerke GmbH,Government Agencies (Level of local government),Lease Payments,No,No,,EUR,,,,,No payment information available due to the existence of a consolidated tax group,Germany,DEU,2019,2019-01-01,2019-12-31
+RWE-Gruppe / Rheinische Baustoffwerke GmbH,Government Agencies (Level of local government),Payments to Improve the Infrastructure,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Sibelco Gruppe,Municipalities (Level of local government),Trade Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Sibelco Gruppe,"Tax Offices (Level of state government (""Länder""))",Corporation Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Südwestdeutsche Salzwerke AG,Municipalities (Level of local government),Trade Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Südwestdeutsche Salzwerke AG,"Tax Offices (Level of state government (""Länder""))",Corporation Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Vermilion Energy Germany GmbH & Co. KG,"Mining Authorities (Level of state governemnt (""Länder""))",Mining and Extraction Royalties,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Wacker Chemie AG,"Mining Authorities (Level of state governemnt (""Länder""))",Mining and Extraction Royalties,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Wacker Chemie AG,Municipalities (Level of local government),Trade Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Wintershall GmbH (now: Wintershall DEA Deutschland GmbH),"Mining Authorities (Level of state governemnt (""Länder""))",Mining and Extraction Royalties,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31
+Wintershall GmbH (now: Wintershall DEA Deutschland GmbH),"Tax Offices (Level of state government (""Länder""))",Corporation Tax,No,No,,EUR,,,,,,Germany,DEU,2019,2019-01-01,2019-12-31

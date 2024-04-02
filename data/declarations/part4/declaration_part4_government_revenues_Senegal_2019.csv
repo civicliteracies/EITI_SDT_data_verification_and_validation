@@ -1,0 +1,54 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Bonuses (1415E2),Gas,Bonus (DGCPT),Direction Générale de la Comptabilité Publique et du Trésor (DGCPT),5911088178.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Gas,Appui à l'équipement,Société des Pétroles du Sénégal (PETROSEN),833733650.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Gas,Appui à la formation,Société des Pétroles du Sénégal (PETROSEN),881470480.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Mining,Appui institutionnel,"Direction des Eaux, Forêts, Chasses et Conservation des Sols (DEFCCS)",243803402.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Mining,Appui institutionnel,Direction des Mines et de la Géologie (DMG),580785932.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Mining,Contribution économique locale (CEL VA et CEL VL),Direction Générale de la Comptabilité Publique et du Trésor (DGCPT),138402221.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Customs and other import duties (1151E),Gas,Droits de douane,Direction Générale des Douanes (DGD),18995243.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Customs and other import duties (1151E),Gas,Prélèvement communautaire CEDEAO,Direction Générale des Douanes (DGD),44623604.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Customs and other import duties (1151E),Gas,Prélèvement communautaire solidaire UEMOA,Direction Générale des Douanes (DGD),71397772.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Customs and other import duties (1151E),Gas,Prélèvement pour le Conseil Sénégalais des Chargeurs (COSEC),Direction Générale des Douanes (DGD),693457.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Customs and other import duties (1151E),Gas,Redevance statistique UEMOA,Direction Générale des Douanes (DGD),89235758.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Customs and other import duties (1151E),Mining,"Amendes, pénalités et redressements douaniers",Direction Générale des Douanes (DGD),5656714.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Customs and other import duties (1151E),Mining,Droits d'accises sur les vehicules,Direction Générale des Douanes (DGD),408683.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Customs and other import duties (1151E),Mining,Droits de douane,Direction Générale des Douanes (DGD),4599098076.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Customs and other import duties (1151E),Mining,Prélèvement communautaire CEDEAO,Direction Générale des Douanes (DGD),469080600.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Customs and other import duties (1151E),Mining,Prélèvement communautaire solidaire UEMOA,Direction Générale des Douanes (DGD),753673814.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Customs and other import duties (1151E),Mining,Prélèvement pour le Conseil Sénégalais des Chargeurs (COSEC),Direction Générale des Douanes (DGD),182485237.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Customs and other import duties (1151E),Mining,Redevance statistique UEMOA,Direction Générale des Douanes (DGD),944411783.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Customs and other import duties (1151E),Mining,Taxe d'acompte Bic,Direction Générale des Douanes (DGD),2336123.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Customs and other import duties (1151E),Mining,Taxe d'enregistrement des véhicules,Direction Générale des Douanes (DGD),8726161.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Delivered/paid directly to government (1415E31),Gas,Revenus issus de la commercialisation de la Part de la production de l'État,Direction Générale de la Comptabilité Publique et du Trésor (DGCPT),307818398.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Delivered/paid to state-owned enterprise(s) (1415E32),Gas,Revenus issus de la commercialisation de la Part de la production de PETROSEN,Société des Pétroles du Sénégal (PETROSEN),198304406.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Emission and pollution taxes (114522E),Mining,Taxe d'extraction,Direction des Mines et de la Géologie (DMG),146345886.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Gas,Taxe sur la valeur ajoutée,Direction Générale des Douanes (DGD),47061229.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Gas,Taxe sur la valeur ajoutée reversée,Direction Générale des Impôts et des Domaines (DGID),164280184.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,TVA TAXE SUSPENDUE,Direction Générale des Impôts et des Domaines (DGID),5325000.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Taxe spéciale sur le ciment,Direction Générale des Impôts et des Domaines (DGID),15082422419.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Taxe sur la valeur ajoutée,Direction Générale des Douanes (DGD),5913689483.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Taxe sur la valeur ajoutée reversée,Direction Générale des Impôts et des Domaines (DGID),33420917478.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Licence fees (114521E),Mining,Droits d'entrée fixes,Direction Générale de la Comptabilité Publique et du Trésor (DGCPT),65186815.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Licence fees (114521E),Mining,Droits d'entrée fixes,Direction des Mines et de la Géologie (DMG),37125000.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Licence fees (114521E),Mining,Patente,Direction Générale de la Comptabilité Publique et du Trésor (DGCPT),2008210162.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Gas,Impôt sur le revenu des valeurs mobilières,Direction Générale des Impôts et des Domaines (DGID),8642166.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Gas,Impôt sur les sociétés,Direction Générale des Impôts et des Domaines (DGID),90661093.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Gas,Redressements fiscaux,Direction Générale des Impôts et des Domaines (DGID),6204410028.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Contribution spéciale sur les produits des mines et des carrières (CSMC),Direction Générale des Impôts et des Domaines (DGID),400007905.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Impôt sur le revenu des valeurs mobilières,Direction Générale des Impôts et des Domaines (DGID),281431209.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Impôt sur les sociétés (bénéfices non pétroliers/miniers ),Direction Générale des Impôts et des Domaines (DGID),12964008942.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Locations verbales,Direction Générale des Impôts et des Domaines (DGID),400000.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Redressements fiscaux,Direction Générale des Impôts et des Domaines (DGID),6616896144.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Other taxes payable by natural resource companies (116E),Autres,Autres flux de paiements significatifs (> 25 millions de FCFA) (reconciliables),Autres,,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Other taxes payable by natural resource companies (116E),Gas,Autres dépenses environnementales,Autres bénéficiaires (paiements environnementaux),4400000.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Other taxes payable by natural resource companies (116E),Mining,Autres,Direction Générale de la Comptabilité Publique et du Trésor (DGCPT),23082500.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Other taxes payable by natural resource companies (116E),Mining,Autres dépenses environnementales,Autres bénéficiaires (paiements environnementaux),17022418.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Other taxes payable by natural resource companies (116E),Mining,Autres flux de paiements significatifs (> 25 millions de FCFA) (reconciliables),Direction des Mines et de la Géologie (DMG),91403695.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Other taxes payable by natural resource companies (116E),Mining,Taxes d'abattage,"Direction des Eaux, Forêts, Chasses et Conservation des Sols (DEFCCS)",26632000.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Royalties (1415E1),Gas,Loyer superficiaire,Société des Pétroles du Sénégal (PETROSEN),62416065.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Royalties (1415E1),Mining,Redevance minière,Direction Générale de la Comptabilité Publique et du Trésor (DGCPT),200514102.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Royalties (1415E1),Mining,Redevance superficiaire,Direction des Mines et de la Géologie (DMG),57251900.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Royalties (1415E1),Mining,Taxe superficiaire,Direction Générale de la Comptabilité Publique et du Trésor (DGCPT),94078620.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Royalties (1415E1),Mining,Taxe superficiaire,Direction de l'Environnement et des Etablissements Classés (DEEC),151299475.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Social security employer contributions (1212E),Gas,Dépenses sociales,Autres bénéficiaires (paiements sociaux),1163493892.0,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31
+Social security employer contributions (1212E),Mining,Dépenses sociales,Autres bénéficiaires (paiements sociaux),2348875004.22,XOF,Senegal,SEN,2019,2019-01-01,2019-12-31

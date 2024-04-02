@@ -1,0 +1,242 @@
+Company,Government entity,Revenue stream name,Levied on project (Y/N),Reported by project (Y/N),Project name,Reporting currency,Revenue value,Payment made in-kind (Y/N),In-kind volume (if applicable),Unit (if applicable),Comments,Country,ISO Code,Year,Start Date,End Date
+AMBATOVY MINERALS S.A.,Autres,Dons (Contribution Volontaire) en nature (Evaluation expert ou sur justificatifs),Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,18995243.0,Yes,,,see appendix 15,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Autres,Organisation sanitaire d'entreprise,Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,44623604.0,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,5656714.0,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Caisse Nationale de Prévoyance Sociale,CNAPS,Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Direction Générale des Douanes,Droits de douanes et Taxes sur les produits pétroliers (TPP),Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,85523607.0,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Direction Générale des Douanes,Redevance sur usage de la route (RUR),Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,6073.0,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Direction Générale des Douanes,TVA à l’importation et TVA sur les produits pétroliers (TVP),Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,1471747490.0,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Direction Générale des Impôts,Autres Impôts d'Etat (nature et montant indiqués en annexe),Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,186593512.0,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Direction Générale des Impôts,Droits d’enregistrement bail,Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,191958.0,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Direction Générale des Impôts,Droits d’enregistrement des actes,Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,69347798000.0,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Direction Générale des Impôts,IR non résident ou TFT,Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,61432774000.0,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Direction Générale des Impôts,Impôts sur les revenus (IR),Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,374800.0,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Direction Générale des Impôts,TVA ayant fait l'objet d'un refus de remboursement,Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,32452633.26,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Direction Générale des Impôts,TVA nette (Montant réellement payée à l'Administration Fiscale - le cas échéant),Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,22619.0,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Direction Générale des Impôts,TVA non remboursée,Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,51435524990.0,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Office Nationale pour l'Environnement,Frais d’évaluation et de suivi de l’impact environnemental,Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+AMBATOVY MINERALS S.A.,Port: Société de Manutention des Marchandises Conventionnels et/ou Madagascar International Container Terminal Services Limited,Droit de port sur les marchandises exportées,Yes,Yes,Ambatovy - AMBATOVY MINERALS S.A.,MGA,2468248471.0,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+CLASSIC REAL STONES SARL,Autres,Autres paiements communs (nature et montant indiqués en annexe),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+CLASSIC REAL STONES SARL,Bureau du Cadastre Minier de Madagascar,Frais d'instruction (BCMM),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+CLASSIC REAL STONES SARL,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+CLASSIC REAL STONES SARL,Caisse Nationale de Prévoyance Sociale,CNAPS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+CLASSIC REAL STONES SARL,Direction Générale des Douanes,Droits de douanes et Taxes sur les produits pétroliers (TPP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+CLASSIC REAL STONES SARL,Direction Générale des Douanes,TVA à l’importation et TVA sur les produits pétroliers (TVP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+CLASSIC REAL STONES SARL,Direction Générale des Impôts,Droits d’enregistrement des actes,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+CLASSIC REAL STONES SARL,Direction Générale des Impôts,Impôts sur les revenus (IR),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+CLASSIC REAL STONES SARL,Direction Générale des Impôts,TVA nette (Montant réellement payée à l'Administration Fiscale - le cas échéant),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Administration des Domaines,Redevances domaniales,Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Autres,Autres impôts locaux (nature et montant indiqués en annexe),Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Autres,Dons (Contribution Volontaire) en nature (Evaluation expert ou sur justificatifs),Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,Yes,,,see appendix 15,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Autres,Dépenses sociales en nature (Evaluation expert ou sur justificatifs),Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,Yes,,,see appendix 14,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Autres,Organisation sanitaire d'entreprise,Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Autres,Redevances de pompage d’eau (ANDEA),Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Caisse Nationale de Prévoyance Sociale,CNAPS,Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Collectivités territoriales décentralisées (Régions et/ou communes),Impôts fonciers sur les terrains (IFT),Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Direction Générale des Douanes,Droit de port sur les marchandises importées,Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Direction Générale des Douanes,Droits de douanes et Taxes sur les produits pétroliers (TPP),Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Direction Générale des Douanes,Redevance sur usage de la route (RUR),Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Direction Générale des Douanes,TVA à l’importation et TVA sur les produits pétroliers (TVP),Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Direction Générale des Impôts,Autres Impôts d'Etat (nature et montant indiqués en annexe),Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Direction Générale des Impôts,Droits d’enregistrement des actes,Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Direction Générale des Impôts,IR non résident ou TFT,Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Direction Générale des Impôts,Impôts sur les revenus (IR),Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Direction Générale des Impôts,TVA ayant fait l'objet d'un refus de remboursement,Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Direction Générale des Impôts,TVA nette (Montant réellement payée à l'Administration Fiscale - le cas échéant),Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Direction Générale des Impôts,TVA non remboursée,Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Direction Générale des Mines,Droit de conformité (DGM),Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Port: Société de Manutention des Marchandises Conventionnels et/ou Madagascar International Container Terminal Services Limited,Droit de port sur les marchandises exportées,Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Société du Port à Gestion Autonome de Toamasina,Droits d’entrée et redevances pour usage infrastructures : Port,Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+DYNATEC MADAGASCAR S.A,Société du Port à Gestion Autonome de Toamasina,Redevance sur les flux maritimes,Yes,Yes,Ambatovy - DYNATEC MADAGASCAR S.A,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Autres,Organisation sanitaire d'entreprise,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Caisse Nationale de Prévoyance Sociale,CNAPS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Douanes,Droit de port sur les marchandises importées,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Douanes,Droit d’accises,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Douanes,Droits de douanes et Taxes sur les produits pétroliers (TPP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Douanes,TVA à l’importation et TVA sur les produits pétroliers (TVP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Impôts,Autres Impôts d'Etat (nature et montant indiqués en annexe),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Impôts,Droits d’enregistrement bail,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Impôts,Droits d’enregistrement des actes,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Impôts,IR non résident ou TFT,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Impôts,Impôts sur les revenus (IR),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Impôts,Impôts sur les revenus intermittents (IRI),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Impôts,TVA intermittente,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Impôts,TVA non remboursée,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Mines,Droit de conformité (DGM),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Mines,Redevance minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Direction Générale des Mines,Ristourne minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Port: Société de Manutention des Marchandises Conventionnels et/ou Madagascar International Container Terminal Services Limited,Droit de port sur les marchandises exportées,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+ETABLISSEMENT GALLOIS,Société du Port à Gestion Autonome de Toamasina,Redevance sur les flux maritimes,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+GRAPH MADA SARL,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+GRAPH MADA SARL,Caisse Nationale de Prévoyance Sociale,CNAPS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+GRAPH MADA SARL,Direction Générale des Douanes,Droits de douanes et Taxes sur les produits pétroliers (TPP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+GRAPH MADA SARL,Direction Générale des Douanes,Redevance sur usage de la route (RUR),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+GRAPH MADA SARL,Direction Générale des Douanes,TVA à l’importation et TVA sur les produits pétroliers (TVP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+GRAPH MADA SARL,Direction Générale des Impôts,Autres Impôts d'Etat (nature et montant indiqués en annexe),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+GRAPH MADA SARL,Direction Générale des Impôts,Impôts sur les revenus (IR),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+GRAPH MADA SARL,Direction Générale des Impôts,TVA ayant fait l'objet d'un refus de remboursement,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+GRAPH MADA SARL,Direction Générale des Impôts,TVA nette (Montant réellement payée à l'Administration Fiscale - le cas échéant),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+GRAPH MADA SARL,Direction Générale des Mines,Droit de conformité (DGM),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+GRAPH MADA SARL,Direction Générale des Mines,Redevance minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+GRAPH MADA SARL,Direction Générale des Mines,Ristourne minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+GRAPH MADA SARL,Port: Société de Manutention des Marchandises Conventionnels et/ou Madagascar International Container Terminal Services Limited,Droit de port sur les marchandises exportées,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Administration des Domaines,Redevances domaniales,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Autres,Autres paiements communs (nature et montant indiqués en annexe),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Autres,Dons (Contribution Volontaire) en nature (Evaluation expert ou sur justificatifs),No,No,,MGA,,Yes,,,voir annexe 15,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Autres,Organisation sanitaire d'entreprise,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Autres,Taxes administratives : Carte d’identité étrangère (Tresor Public),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Caisse Nationale de Prévoyance Sociale,CNAPS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Collectivités territoriales décentralisées (Régions et/ou communes),Taxe de roulage,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Direction Générale des Douanes,Droit d’accises,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Direction Générale des Douanes,Droits de douanes et Taxes sur les produits pétroliers (TPP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Direction Générale des Douanes,TVA à l’importation et TVA sur les produits pétroliers (TVP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Direction Générale des Impôts,Autres Impôts d'Etat (nature et montant indiqués en annexe),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Direction Générale des Impôts,Droits d’enregistrement bail,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Direction Générale des Impôts,Droits d’enregistrement des actes,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Direction Générale des Impôts,IR non résident ou TFT,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Direction Générale des Impôts,Impôts sur les revenus (IR),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Direction Générale des Impôts,TVA intermittente,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Direction Générale des Impôts,TVA nette (Montant réellement payée à l'Administration Fiscale - le cas échéant),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Direction Générale des Mines,Redevance minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Direction Générale des Mines,Ristourne minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Société du Port à Gestion Autonome de Toamasina,Droits d’entrée et redevances pour usage infrastructures : Port,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+HOLCIM Madagascar S.A.,Société du Port à Gestion Autonome de Toamasina,Location de terrains,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Administration des Domaines,Redevances domaniales,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Autres,Autres paiements communs (nature et montant indiqués en annexe),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Autres,Organisation sanitaire d'entreprise,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Caisse Nationale de Prévoyance Sociale,CNAPS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Direction Générale des Douanes,Droits de douanes et Taxes sur les produits pétroliers (TPP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Direction Générale des Douanes,TVA à l’importation et TVA sur les produits pétroliers (TVP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Direction Générale des Impôts,Autres Impôts d'Etat (nature et montant indiqués en annexe),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Direction Générale des Impôts,Droits d’enregistrement des actes,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Direction Générale des Impôts,Impôts sur les revenus de capitaux mobiliers (IRCM),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Direction Générale des Mines,Droit de conformité (DGM),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Direction Générale des Mines,Redevance minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Direction Générale des Mines,Ristourne minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Port: Société de Manutention des Marchandises Conventionnels et/ou Madagascar International Container Terminal Services Limited,Droit de port sur les marchandises exportées,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Société du Port à Gestion Autonome de Toamasina,Droits d’entrée et redevances pour usage infrastructures : Port,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+KRAOMITA MALAGASY S.A.,Société du Port à Gestion Autonome de Toamasina,Location de terrains,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR CONSOLIDATED MINING SA,Autres,Dons (Contribution Volontaire) en numéraire,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR CONSOLIDATED MINING SA,Autres,Organisation sanitaire d'entreprise,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR CONSOLIDATED MINING SA,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR CONSOLIDATED MINING SA,Caisse Nationale de Prévoyance Sociale,CNAPS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR CONSOLIDATED MINING SA,Direction Générale des Impôts,Droits d’enregistrement bail,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR CONSOLIDATED MINING SA,Direction Générale des Impôts,Droits d’enregistrement des actes,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR CONSOLIDATED MINING SA,Direction Générale des Impôts,Impôts sur les revenus (IR),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR CONSOLIDATED MINING SA,Direction Générale des Impôts,Impôts sur les revenus de capitaux mobiliers (IRCM),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR CONSOLIDATED MINING SA,Direction Générale des Impôts,Impôts sur les revenus intermittents (IRI),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR INTERNATIONAL TAK MINING SARL,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR INTERNATIONAL TAK MINING SARL,Direction Générale des Impôts,Droits d’enregistrement des actes,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR INTERNATIONAL TAK MINING SARL,Direction Générale des Impôts,Impôts sur les revenus (IR),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR INTERNATIONAL TAK MINING SARL,Direction Générale des Impôts,TVA nette (Montant réellement payée à l'Administration Fiscale - le cas échéant),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR OIL SA,Autres,Dons (Contribution Volontaire) en nature (Evaluation expert ou sur justificatifs),No,No,,MGA,,Yes,,,voir annexe 15,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR OIL SA,Autres,Dons (Contribution Volontaire) en numéraire,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR OIL SA,Autres,Dépenses sociales en nature (Evaluation expert ou sur justificatifs),No,No,,MGA,,Yes,,,voir annexe 14,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR OIL SA,Autres,Dépenses sociales en numéraire,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR OIL SA,Autres,Organisation sanitaire d'entreprise,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR OIL SA,Caisse Nationale de Prévoyance Sociale,CNAPS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR OIL SA,Direction Générale des Douanes,Droits de douanes et Taxes sur les produits pétroliers (TPP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR OIL SA,Direction Générale des Douanes,TVA à l’importation et TVA sur les produits pétroliers (TVP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR OIL SA,Direction Générale des Impôts,Autres Impôts d'Etat (nature et montant indiqués en annexe),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR OIL SA,Direction Générale des Impôts,Droits d’enregistrement bail,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR OIL SA,Direction Générale des Impôts,Droits d’enregistrement des actes,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR OIL SA,Direction Générale des Impôts,Impôts sur les revenus (IR),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR OIL SA,Direction Générale des Impôts,Impôts sur les revenus intermittents (IRI),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MADAGASCAR OIL SA,Office des Mines Nationales et des Industries Stratégiques,Frais de formation payé à l'OMNIS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MAINLAND MINING SARLU,Autres,Autres paiements communs (nature et montant indiqués en annexe),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MAINLAND MINING SARLU,Autres,Dons (Contribution Volontaire) en numéraire,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MAINLAND MINING SARLU,Autres,Organisation sanitaire d'entreprise,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MAINLAND MINING SARLU,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MAINLAND MINING SARLU,Caisse Nationale de Prévoyance Sociale,CNAPS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MAINLAND MINING SARLU,Direction Générale des Douanes,Droits de douanes et Taxes sur les produits pétroliers (TPP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MAINLAND MINING SARLU,Direction Générale des Douanes,Redevance sur usage de la route (RUR),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MAINLAND MINING SARLU,Direction Générale des Douanes,TVA à l’importation et TVA sur les produits pétroliers (TVP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MAINLAND MINING SARLU,Direction Générale des Impôts,Droits d’enregistrement des actes,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MAINLAND MINING SARLU,Direction Générale des Impôts,Pénalités,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MAINLAND MINING SARLU,Direction Générale des Impôts,TVA non remboursée,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MASINA INDUSTRY GROUP MADAGASCAR SARL,Autres,Autres paiements communs (nature et montant indiqués en annexe),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MASINA INDUSTRY GROUP MADAGASCAR SARL,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MASINA INDUSTRY GROUP MADAGASCAR SARL,Direction Générale des Impôts,Impôts sur les revenus (IR),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MASINA INDUSTRY GROUP MADAGASCAR SARL,Direction Générale des Impôts,Pénalités,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MASINA INDUSTRY GROUP MADAGASCAR SARL,Direction Générale des Mines,Redevance minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+MASINA INDUSTRY GROUP MADAGASCAR SARL,Direction Générale des Mines,Ristourne minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+NOVA RESSOURCES SARLU,Autres,Autres paiements communs (nature et montant indiqués en annexe),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+NOVA RESSOURCES SARLU,Autres,Organisation sanitaire d'entreprise,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+NOVA RESSOURCES SARLU,Bureau du Cadastre Minier de Madagascar,Frais d'instruction (BCMM),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+NOVA RESSOURCES SARLU,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+NOVA RESSOURCES SARLU,Caisse Nationale de Prévoyance Sociale,CNAPS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+NOVA RESSOURCES SARLU,Direction Générale des Douanes,Droits de douanes et Taxes sur les produits pétroliers (TPP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+NOVA RESSOURCES SARLU,Direction Générale des Douanes,TVA à l’importation et TVA sur les produits pétroliers (TVP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+NOVA RESSOURCES SARLU,Direction Générale des Impôts,Droits d’enregistrement des actes,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+NOVA RESSOURCES SARLU,Direction Générale des Impôts,Impôts sur les revenus (IR),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+NOVA RESSOURCES SARLU,Direction Générale des Impôts,Pénalités,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+NOVA RESSOURCES SARLU,Direction Générale des Mines,Droit de conformité (DGM),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+OMV OFFSHORE MORONDAVA,Autres,Organisation sanitaire d'entreprise,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+OMV OFFSHORE MORONDAVA,Caisse Nationale de Prévoyance Sociale,CNAPS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+OMV OFFSHORE MORONDAVA,Direction Générale des Impôts,Droits d’enregistrement des actes,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+OMV OFFSHORE MORONDAVA,Direction Générale des Impôts,Impôts sur les revenus (IR),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+OMV OFFSHORE MORONDAVA,Direction Générale des Impôts,Impôts sur les revenus intermittents (IRI),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+OMV OFFSHORE MORONDAVA,Office des Mines Nationales et des Industries Stratégiques,Frais de formation payé à l'OMNIS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+OMV OFFSHORE MORONDAVA,Office des Mines Nationales et des Industries Stratégiques,Frais d’administration payé à l'OMNIS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+OYSTER MADAGASCAR LIMITED,Collectivités territoriales décentralisées (Régions et/ou communes),Autres impôts sectoriels (nature et montant indiqués en annexe),Yes,Yes,OYSTER MADAGASCAR LIMITED,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+OYSTER MADAGASCAR LIMITED,Direction Générale des Douanes,Droit d’accises,Yes,Yes,OYSTER MADAGASCAR LIMITED,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+OYSTER MADAGASCAR LIMITED,Direction Générale des Douanes,Droits de douanes et Taxes sur les produits pétroliers (TPP),Yes,Yes,OYSTER MADAGASCAR LIMITED,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+OYSTER MADAGASCAR LIMITED,Direction Générale des Douanes,TVA à l’importation et TVA sur les produits pétroliers (TVP),Yes,Yes,OYSTER MADAGASCAR LIMITED,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+OYSTER MADAGASCAR LIMITED,Direction Générale des Impôts,Impôts sur les revenus (IR),Yes,Yes,OYSTER MADAGASCAR LIMITED,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+OYSTER MADAGASCAR LIMITED,Office des Mines Nationales et des Industries Stratégiques,Frais de formation payé à l'OMNIS,Yes,Yes,OYSTER MADAGASCAR LIMITED,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+OYSTER MADAGASCAR LIMITED,Office des Mines Nationales et des Industries Stratégiques,Frais d’administration payé à l'OMNIS,Yes,Yes,OYSTER MADAGASCAR LIMITED,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+PURA VIDA ENERGY SUCCURSALE MADAGASCAR,Direction Générale des Impôts,Impôts sur les revenus (IR),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+PURA VIDA ENERGY SUCCURSALE MADAGASCAR,Office des Mines Nationales et des Industries Stratégiques,Frais de formation payé à l'OMNIS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+PURA VIDA ENERGY SUCCURSALE MADAGASCAR,Office des Mines Nationales et des Industries Stratégiques,Frais d’administration payé à l'OMNIS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Autres,Autres paiements communs (nature et montant indiqués en annexe),Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Autres,Dons (Contribution Volontaire) en nature (Evaluation expert ou sur justificatifs),Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,Yes,,,see appendix 15,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Autres,Dons (Contribution Volontaire) en numéraire,Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Autres,Dépenses sociales en nature (Evaluation expert ou sur justificatifs),Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,Yes,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Autres,Dépenses sociales en numéraire,Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Autres,Organisation sanitaire d'entreprise,Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Caisse Nationale de Prévoyance Sociale,CNAPS,Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Douanes,Droit d’accises,Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Douanes,Droits de douanes et Taxes sur les produits pétroliers (TPP),Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Douanes,Redevance sur usage de la route (RUR),Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Douanes,TVA à l’importation et TVA sur les produits pétroliers (TVP),Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Impôts,Autres Impôts d'Etat (nature et montant indiqués en annexe),Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Impôts,Droits d’enregistrement bail,Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Impôts,Droits d’enregistrement des actes,Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Impôts,IR non résident ou TFT,Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Impôts,Impôts sur les revenus (IR),Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Impôts,Impôts sur les revenus de capitaux mobiliers (IRCM),Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Impôts,TVA intermittente,Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Impôts,TVA nette (Montant réellement payée à l'Administration Fiscale - le cas échéant),Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Mines,Droit de conformité (DGM),Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Mines,Redevance minière,Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Direction Générale des Mines,Ristourne minière,Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+QIT MADAGASCAR MINERALS S.A.,Office Nationale pour l'Environnement,Frais d’évaluation et de suivi de l’impact environnemental,Yes,Yes,Rio Tinto - QIT MADAGASCAR MINERALS S.A.,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Autres,Dons (Contribution Volontaire) en nature (Evaluation expert ou sur justificatifs),No,No,,MGA,,Yes,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Autres,Organisation sanitaire d'entreprise,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Caisse Nationale de Prévoyance Sociale,CNAPS,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Direction Générale des Douanes,Droits de douanes et Taxes sur les produits pétroliers (TPP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Direction Générale des Douanes,TVA à l’importation et TVA sur les produits pétroliers (TVP),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Direction Générale des Impôts,Autres Impôts d'Etat (nature et montant indiqués en annexe),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Direction Générale des Impôts,Droits d’enregistrement bail,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Direction Générale des Impôts,IR non résident ou TFT,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Direction Générale des Impôts,Impôts sur les revenus (IR),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Direction Générale des Impôts,Impôts sur les revenus de capitaux mobiliers (IRCM),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Direction Générale des Impôts,TVA ayant fait l'objet d'un refus de remboursement,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Direction Générale des Impôts,TVA intermittente,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Direction Générale des Impôts,TVA non remboursée,No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+RED GRANITI MADAGASCAR SARL,Direction Générale des Mines,Droit de conformité (DGM),No,No,,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+SOCIETE LABRADOR MADAGASCAR SARL,Autres,Organisation sanitaire d'entreprise,Yes,Yes,SOCIETE LABRADOR MADAGASCAR SARL,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+SOCIETE LABRADOR MADAGASCAR SARL,Bureau du Cadastre Minier de Madagascar,Frais d’administration minière,Yes,Yes,SOCIETE LABRADOR MADAGASCAR SARL,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+SOCIETE LABRADOR MADAGASCAR SARL,Caisse Nationale de Prévoyance Sociale,CNAPS,Yes,Yes,SOCIETE LABRADOR MADAGASCAR SARL,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+SOCIETE LABRADOR MADAGASCAR SARL,Direction Générale des Impôts,Droits d’enregistrement des actes,Yes,Yes,SOCIETE LABRADOR MADAGASCAR SARL,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+SOCIETE LABRADOR MADAGASCAR SARL,Direction Générale des Impôts,Impôts sur les revenus (IR),Yes,Yes,SOCIETE LABRADOR MADAGASCAR SARL,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+SOCIETE LABRADOR MADAGASCAR SARL,Direction Générale des Impôts,Impôts sur les revenus intermittents (IRI),Yes,Yes,SOCIETE LABRADOR MADAGASCAR SARL,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+SOCIETE LABRADOR MADAGASCAR SARL,Direction Générale des Impôts,TVA nette (Montant réellement payée à l'Administration Fiscale - le cas échéant),Yes,Yes,SOCIETE LABRADOR MADAGASCAR SARL,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+SOCIETE LABRADOR MADAGASCAR SARL,Direction Générale des Mines,Redevance minière,Yes,Yes,SOCIETE LABRADOR MADAGASCAR SARL,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017
+SOCIETE LABRADOR MADAGASCAR SARL,Direction Générale des Mines,Ristourne minière,Yes,Yes,SOCIETE LABRADOR MADAGASCAR SARL,MGA,,No,,,,Madagascar,MDG,2017,1/1/2017,12/31/2017

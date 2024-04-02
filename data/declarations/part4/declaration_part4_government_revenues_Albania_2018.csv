@@ -1,0 +1,38 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Bonuses (1415E2),Oil & Gas,Bonuses,Albpetrol,10801000.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Bonuses (1415E2),Oil & Gas,Bonuses,National Agency of Natural Resouces (AKBN),162015000.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Other,National tariff,General Directorate of Taxes,1203623602.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Other,Regulatory tariff,Energy Regulatory Authority (ERE),32300000.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Mining,Carbon tax,Albanian Customs Administrate,85523607.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Mining,Excise,Albanian Customs Administrate,57835545.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Mining,Other payments to the State and local government units,Albanian Customs Administrate,33669036.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Oil & Gas,Carbon tax,Albanian Customs Administrate,29777696.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Oil & Gas,Circulation tax,Albanian Customs Administrate,267999263.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Oil & Gas,Excise,Albanian Customs Administrate,373668140.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Delivered/paid to state-owned enterprise(s) (1415E32),Oil & Gas,Share of Oil,Albpetrol,2020060900.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"Extraordinary taxes on income, profits and capital gains (1112E2)",Mining,Tax on dividend,General Directorate of Taxes,184680241.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"Extraordinary taxes on income, profits and capital gains (1112E2)",Other,Tax on dividend,General Directorate of Taxes,36177940.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"Fines, penalties, and forfeits (143E)",Mining,Tax penalties,General Directorate of Taxes,4086201.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"Fines, penalties, and forfeits (143E)",Other,Tax penalties,General Directorate of Taxes,946727.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Import VAT,Albanian Customs Administrate,1103150037.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,VAT,General Directorate of Taxes,3464171800.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Oil & Gas,VAT,General Directorate of Taxes,833272470.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Other,VAT,General Directorate of Taxes,6164853859.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Local Taxes,Municipality of Bulqizë,8540000.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Local Taxes,Municipality of Krujë,94160577.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Local Taxes,Municipality of Patos,236844.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Tax on profit,General Directorate of Taxes,2304749952.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Local Taxes,Municipality of Bulqizë,820000.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Local Taxes,Municipality of Lushnjë,3579840.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Local Taxes,Municipality of Rroskovec,86868292.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Tax on profit,General Directorate of Taxes,183915041.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Other,Tax on profit,General Directorate of Taxes,5049428269.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Mining,Royalties,Albanian Customs Administrate,540793045.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Mining,Royalties,General Directorate of Taxes,1272335319.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Oil & Gas,Royalty,Albanian Customs Administrate,2079824463.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Oil & Gas,Royalty,General Directorate of Taxes,672910614.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Social security employer contributions (1212E),Mining,Payments for social and health insurance,General Directorate of Taxes,4198400000.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Social security employer contributions (1212E),Mining,Personal income tax,General Directorate of Taxes,1067920706.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Social security employer contributions (1212E),Oil & Gas,Payments for social and health insurance and Personal Income Tax,General Directorate of Taxes,1100275950.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Social security employer contributions (1212E),Other,Payments for social and health insurance,General Directorate of Taxes,2114387469.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31
+Social security employer contributions (1212E),Other,Personal income tax,General Directorate of Taxes,848313990.0,ALL,Albania,ALB,2018,2018-01-01,2018-12-31

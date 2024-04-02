@@ -1,0 +1,57 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Administrative fees for government services (1422E),Oil & Gas,Frais d’inspection et de contrôle,Ministère en charge des mines,3383572.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Administrative fees for government services (1422E),Other,Frais d’inspection et de contrôle,Ministère en charge des mines,89620070.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Bonuses (1415E2),Oil & Gas,Bonus de signature,Société Nationale des Hydrocarbures (SNH),1144672000.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Oil & Gas,Dividendes SNH,"Direction Générale du Trésor, de la Coopération Financière et Monétaire (DGTCFM)",3340000000.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Oil & Gas,Transferts directs au Trésor Public par la SNH,"Direction Générale du Trésor, de la Coopération Financière et Monétaire (DGTCFM)",146505000000.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Oil & Gas,Transferts indirects au Trésor Public (Interventions directes SNH),"Direction Générale du Trésor, de la Coopération Financière et Monétaire (DGTCFM)",169588571867.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Mining,Droits de Douane,Direction Générale des Douanes (DGD),2468248471.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Mining,Redressements Douaniers/amendes et pénalités,Direction Générale des Douanes (DGD),20750000.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Other,Droits de Douane,Direction Générale des Douanes (DGD),905361652.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Other,Droits de passage du pipeline (COTCO),Direction Générale des Douanes (DGD),27888629894.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Customs and other import duties (1151E),Other,Redressements Douaniers/amendes et pénalités,Direction Générale des Douanes (DGD),47547683.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Delivered/paid to state-owned enterprise(s) (1415E32),Oil & Gas,Parts d'huile de la SNH-Etat (Condensat),Société Nationale des Hydrocarbures (SNH),,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Delivered/paid to state-owned enterprise(s) (1415E32),Oil & Gas,Parts d'huile de la SNH-Etat (Gaz),Société Nationale des Hydrocarbures (SNH),,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Delivered/paid to state-owned enterprise(s) (1415E32),Oil & Gas,Parts d'huile de la SNH-Etat (Petrole),Société Nationale des Hydrocarbures (SNH),,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Emission and pollution taxes (114522E),Carrières,Taxes Ad Valorem,Direction Générale des Impôts (DGI),381998.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Emission and pollution taxes (114522E),Carrières,Taxes à l'extraction,Direction Générale des Impôts (DGI),143357696.75,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Emission and pollution taxes (114522E),Eaux,Taxes Ad Valorem,Direction Générale des Impôts (DGI),6426541.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Emission and pollution taxes (114522E),Mining,Taxes Ad Valorem,Direction Générale des Impôts (DGI),4895452.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Emission and pollution taxes (114522E),Mining,Taxes à l'extraction,Direction Générale des Impôts (DGI),230592286.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+From government participation (equity) (1412E2),Mining,Dividendes versées à la SNI,Société Nationale d’Investissement du Cameroun (SNI),539200395.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+From government participation (equity) (1412E2),Other,Dividendes Filiales SNH,Société Nationale des Hydrocarbures (SNH),1592376399.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+From state-owned enterprises (1412E1),Oil & Gas,Dividendes Filiales SNH,Société Nationale des Hydrocarbures (SNH),15453072000.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Carrières,Contributions CFC (part patronale),Direction Générale des Impôts (DGI),2020633.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Carrières,Contributions FNE,Direction Générale des Impôts (DGI),608039.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Carrières,Droits Fixes (y compris droits pour attribution ou renouvellement de permis),Direction Générale des Impôts (DGI),22361725.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Carrières,Impôt sur le Revenu des Capitaux mobiliers (IRCM),Direction Générale des Impôts (DGI),1087.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Carrières,Impôts sur les sociétés y compris les acomptes (pétrolier et non pétrolier),Direction Générale des Impôts (DGI),9601924.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Eaux,Contributions CFC (part patronale),Direction Générale des Impôts (DGI),1301174.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Eaux,Contributions FNE,Direction Générale des Impôts (DGI),873252.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Eaux,Droits Fixes (y compris droits pour attribution ou renouvellement de permis),Direction Générale des Impôts (DGI),1630450.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Eaux,Impôt sur le Revenu des Capitaux mobiliers (IRCM),Direction Générale des Impôts (DGI),4968.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Eaux,Impôts sur les sociétés y compris les acomptes (pétrolier et non pétrolier),Direction Générale des Impôts (DGI),7519318.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Contributions CFC (part patronale),Direction Générale des Impôts (DGI),6424637.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Contributions FNE,Direction Générale des Impôts (DGI),2993750.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Droits Fixes (y compris droits pour attribution ou renouvellement de permis),Direction Générale des Impôts (DGI),84628108.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Impôt sur le Revenu des Capitaux mobiliers (IRCM),Direction Générale des Impôts (DGI),357564445.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Impôts sur les sociétés y compris les acomptes (pétrolier et non pétrolier),Direction Générale des Impôts (DGI),57991439.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Droits Fixes (y compris droits pour attribution ou renouvellement de permis),Direction Générale des Impôts (DGI),264008000.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Impôt sur le Revenu des Capitaux mobiliers (IRCM),Direction Générale des Impôts (DGI),3374629966.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Impôts sur les sociétés y compris les acomptes (pétrolier et non pétrolier),Direction Générale des Impôts (DGI),67468179881.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Redressements fiscaux/amendes et pénalités,Direction Générale des Impôts (DGI),378542439.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Taxe Spéciale sur les Revenus (TSR),Direction Générale des Impôts (DGI),10496945514.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Other,Contributions CFC (part patronale),Direction Générale des Impôts (DGI),136658501.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Other,Contributions FNE,Direction Générale des Impôts (DGI),91161068.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Other,Impôt sur le Revenu des Capitaux mobiliers (IRCM),Direction Générale des Impôts (DGI),8042525.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Other,Impôts sur les sociétés y compris les acomptes (pétrolier et non pétrolier),Direction Générale des Impôts (DGI),1131825732.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Other,Taxe Spéciale sur les Revenus (TSR),Direction Générale des Impôts (DGI),1499403343.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Other rent payments (1415E5),Oil & Gas,Frais de Formation,Société Nationale des Hydrocarbures (SNH),430442769.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Carrières,Redevance Superficiaire,Direction Générale des Impôts (DGI),54311715.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Mining,Prélèvement d'Or,CAPAM,,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Mining,Redevance Superficiaire,Direction Générale des Impôts (DGI),9412000.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Oil & Gas,Redevance Minière Négative ( à mettre en signe - ),Société Nationale des Hydrocarbures (SNH),-43646737007.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Oil & Gas,Redevance Minière Proportionnelle,Société Nationale des Hydrocarbures (SNH),4905381212.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Royalties (1415E1),Oil & Gas,Redevance Proportionnelle à la Production,Société Nationale des Hydrocarbures (SNH),1873795407.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Social security employer contributions (1212E),Mining,Cotisations à la charge de l’employeur,Caisse Nationale de Prévoyance Sociale (CNPS),1003931632.46,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Social security employer contributions (1212E),Other,Cotisations à la charge de l’employeur,Caisse Nationale de Prévoyance Sociale (CNPS),542213741.0,XAF,Cameroon,CMR,2017,2017-01-01,2017-12-31

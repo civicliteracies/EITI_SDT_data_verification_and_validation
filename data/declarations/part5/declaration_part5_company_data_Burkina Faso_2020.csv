@@ -1,0 +1,202 @@
+Company,Government entity,Revenue stream name,Levied on project (Y/N),Reported by project (Y/N),Project name,Reporting currency,Revenue value,Payment made in-kind (Y/N),In-kind volume (if applicable),Unit (if applicable),Comments,Country,ISO Code,Year,Start Date,End Date
+BISSA GOLD  SA,Bureau des Mines et de la Géologie du Burkina (BUMIGEB),Frais de prestation BUMIGEB,Yes,Yes,Bissa (Bam),XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BISSA GOLD  SA,Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BISSA GOLD  SA,Direction Générale des Douanes (DGD),Pénalités,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BISSA GOLD  SA,Direction Générale des Impôts (DGI),Acomptes Provisionnels sur IS (AP - IS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BISSA GOLD  SA,Direction Générale des Impôts (DGI),Contribution des patentes,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BISSA GOLD  SA,Direction Générale des Impôts (DGI),Droit d'enregistemeent (DE),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BISSA GOLD  SA,Direction Générale des Impôts (DGI),Impôt sur le Revenu des capitaux mobiliers (IRCM),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BISSA GOLD  SA,Direction Générale des Impôts (DGI),Taxe Patronale d'Apprentissage (TPA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BISSA GOLD  SA,Direction Générale des Impôts (DGI),Taxe de bien de mainmorte (TBMM) / Taxe Foncière sur les Sociétés (TFS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BISSA GOLD  SA,Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BISSA GOLD  SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Dividendes,Yes,Yes,Bissa (Bam),XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BISSA GOLD  SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Redevances proportionnelles (Royalties),Yes,Yes,Bissa (Bam),XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BISSA GOLD  SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Remboursements de crédit de TVA (remboursement effectif),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BISSA GOLD  SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxes superficiaires,Yes,Yes,Bissa (Bam),XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BISSA GOLD  SA,Fonds d'Intervention pour l'Environnement (FIE),Versements au Fonds de réhabilitation et de fermeture des mines,Yes,Yes,Bissa (Bam),XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BOUERE-DOHOUN GOLD OPERATION SA,Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BOUERE-DOHOUN GOLD OPERATION SA,Direction Générale des Impôts (DGI),Acomptes Provisionnels sur IS (AP - IS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BOUERE-DOHOUN GOLD OPERATION SA,Direction Générale des Impôts (DGI),Droit d'enregistemeent (DE),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BOUERE-DOHOUN GOLD OPERATION SA,Direction Générale des Impôts (DGI),Impôt sur les Sociétés (IS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BOUERE-DOHOUN GOLD OPERATION SA,Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BOUERE-DOHOUN GOLD OPERATION SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Contribution au Fonds Minier de Développement Local (1%),Yes,Yes,Bouéré,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BOUERE-DOHOUN GOLD OPERATION SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Dividendes,Yes,Yes,Bouéré,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BOUERE-DOHOUN GOLD OPERATION SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Redevances proportionnelles (Royalties),Yes,Yes,Bouéré,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BURKINA MINING COMPANY SA (BMC),Agence nationale des évaluations environnementales (ANEVE),Frais de prestation BUNEE,Yes,Yes,Burkina Mining Company,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BURKINA MINING COMPANY SA (BMC),Bureau des Mines et de la Géologie du Burkina (BUMIGEB),Frais de prestation BUMIGEB,Yes,Yes,Burkina Mining Company,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BURKINA MINING COMPANY SA (BMC),Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BURKINA MINING COMPANY SA (BMC),Direction Générale des Impôts (DGI),Acomptes Provisionnels sur IS (AP - IS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BURKINA MINING COMPANY SA (BMC),Direction Générale des Impôts (DGI),Contribution des patentes,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BURKINA MINING COMPANY SA (BMC),Direction Générale des Impôts (DGI),Impôt sur le Revenu des capitaux mobiliers (IRCM),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BURKINA MINING COMPANY SA (BMC),Direction Générale des Impôts (DGI),Taxe Patronale d'Apprentissage (TPA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BURKINA MINING COMPANY SA (BMC),Direction Générale des Impôts (DGI),Taxe de bien de mainmorte (TBMM) / Taxe Foncière sur les Sociétés (TFS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BURKINA MINING COMPANY SA (BMC),Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BURKINA MINING COMPANY SA (BMC),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Contribution au Fonds Minier de Développement Local (1%),Yes,Yes,Burkina Mining Company,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BURKINA MINING COMPANY SA (BMC),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Dividendes,Yes,Yes,Burkina Mining Company,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BURKINA MINING COMPANY SA (BMC),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Redevances proportionnelles (Royalties),Yes,Yes,Burkina Mining Company,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BURKINA MINING COMPANY SA (BMC),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Remboursements de crédit de TVA (remboursement effectif),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+BURKINA MINING COMPANY SA (BMC),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxes superficiaires,Yes,Yes,Burkina Mining Company,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Bureau des Mines et de la Géologie du Burkina (BUMIGEB),Frais de prestation BUMIGEB,Yes,Yes,Essakane (Oudalan),XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Direction Générale des Douanes (DGD),Pénalités,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Direction Générale des Impôts (DGI),Acomptes Provisionnels sur IS (AP - IS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Direction Générale des Impôts (DGI),Contribution des patentes,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Direction Générale des Impôts (DGI),Droit d'enregistemeent (DE),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Direction Générale des Impôts (DGI),Impôt sur le Revenu des capitaux mobiliers (IRCM),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Direction Générale des Impôts (DGI),Taxe Patronale d'Apprentissage (TPA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Direction Générale des Impôts (DGI),Taxe de bien de mainmorte (TBMM) / Taxe Foncière sur les Sociétés (TFS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Contribution au Fonds Minier de Développement Local (1%),Yes,Yes,Essakane (Oudalan),XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Dividendes,Yes,Yes,Essakane (Oudalan),XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Redevances proportionnelles (Royalties),Yes,Yes,Essakane (Oudalan),XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Remboursements de crédit de TVA (remboursement effectif),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxes superficiaires,Yes,Yes,Essakane (Oudalan),XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Fonds d'Intervention pour l'Environnement (FIE),Versements au Fonds de réhabilitation et de fermeture des mines,Yes,Yes,Essakane (Oudalan),XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ESSAKANE SA,Office National de Sécurisation des Sites Miniers (ONASSIM),Frais de prestation ONASSIM,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+GRYPHON MINERALS BURKINA FASO SARL,Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+GRYPHON MINERALS BURKINA FASO SARL,Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+GRYPHON MINERALS BURKINA FASO SARL,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Droits Fixes,Yes,Yes,Nogbele Sud Dierisso  Nianka Zeguedougou,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+GRYPHON MINERALS BURKINA FASO SARL,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxes superficiaires,Yes,Yes,Nogbele Sud Dierisso  Nianka Zeguedougou,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+HOUNDE GOLD OPERATION  SA,Agence de l'eau,La contribution financière en matière d’eau (CFE).,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+HOUNDE GOLD OPERATION  SA,Agence nationale des évaluations environnementales (ANEVE),Frais de prestation BUNEE,Yes,Yes,Hounde Gold,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+HOUNDE GOLD OPERATION  SA,Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+HOUNDE GOLD OPERATION  SA,Direction Générale des Douanes (DGD),Pénalités,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+HOUNDE GOLD OPERATION  SA,Direction Générale des Impôts (DGI),Acomptes Provisionnels sur IS (AP - IS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+HOUNDE GOLD OPERATION  SA,Direction Générale des Impôts (DGI),Droit d'enregistemeent (DE),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+HOUNDE GOLD OPERATION  SA,Direction Générale des Impôts (DGI),Impôt sur le Revenu des capitaux mobiliers (IRCM),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+HOUNDE GOLD OPERATION  SA,Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+HOUNDE GOLD OPERATION  SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Contribution au Fonds Minier de Développement Local (1%),Yes,Yes,Hounde Gold,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+HOUNDE GOLD OPERATION  SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Dividendes,Yes,Yes,Hounde Gold,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+HOUNDE GOLD OPERATION  SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Frais de dossier,Yes,No,Nc,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+HOUNDE GOLD OPERATION  SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Redevances proportionnelles (Royalties),Yes,Yes,Hounde Gold,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+HOUNDE GOLD OPERATION  SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Remboursements de crédit de TVA (remboursement effectif),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+HOUNDE GOLD OPERATION  SA,Fonds d'Intervention pour l'Environnement (FIE),Versements au Fonds de réhabilitation et de fermeture des mines,Yes,Yes,Hounde Gold,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Agence de l'eau,La contribution financière en matière d’eau (CFE).,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Agence nationale des évaluations environnementales (ANEVE),Frais de prestation BUNEE,Yes,Yes,Reo/kyon,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Bureau des Mines et de la Géologie du Burkina (BUMIGEB),Frais de prestation BUMIGEB,Yes,Yes,Reo/kyon,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Direction Générale des Douanes (DGD),Pénalités,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Direction Générale des Douanes (DGD),Pénalités,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Direction Générale des Impôts (DGI),Contribution des patentes,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Direction Générale des Impôts (DGI),Droit d'enregistemeent (DE),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Direction Générale des Impôts (DGI),Impôt sur le Revenu des capitaux mobiliers (IRCM),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Direction Générale des Impôts (DGI),Taxe Patronale d'Apprentissage (TPA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Direction Générale des Impôts (DGI),Taxe de bien de mainmorte (TBMM) / Taxe Foncière sur les Sociétés (TFS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Contribution au Fonds Minier de Développement Local (1%),Yes,Yes,Reo/kyon,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Redevances proportionnelles (Royalties),Yes,Yes,Reo/kyon,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Remboursements de crédit de TVA (remboursement effectif),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxes superficiaires,Yes,Yes,Reo/kyon,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NANTOU MINING BURKINA FASO SA,Fonds d'Intervention pour l'Environnement (FIE),Versements au Fonds de réhabilitation et de fermeture des mines,Yes,Yes,Reo/kyon,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NETIANA MINING COMPANY(NMC),Agence nationale des évaluations environnementales (ANEVE),Frais de prestation BUNEE,Yes,No,Nc,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NETIANA MINING COMPANY(NMC),Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NETIANA MINING COMPANY(NMC),Direction Générale des Impôts (DGI),Acomptes Provisionnels sur IS (AP - IS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NETIANA MINING COMPANY(NMC),Direction Générale des Impôts (DGI),Contribution des patentes,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NETIANA MINING COMPANY(NMC),Direction Générale des Impôts (DGI),Impôt sur le Revenu des capitaux mobiliers (IRCM),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NETIANA MINING COMPANY(NMC),Direction Générale des Impôts (DGI),Taxe Patronale d'Apprentissage (TPA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NETIANA MINING COMPANY(NMC),Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NETIANA MINING COMPANY(NMC),Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxes superficiaires,Yes,No,Nc,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NETIANA MINING COMPANY(NMC),Fonds d'Intervention pour l'Environnement (FIE),Versements au Fonds de réhabilitation et de fermeture des mines,Yes,No,Nc,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NORDGOLD SAMTENGA SA,Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NORDGOLD SAMTENGA SA,Direction Générale des Impôts (DGI),Contribution des patentes,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NORDGOLD SAMTENGA SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Contribution au Fonds Minier de Développement Local (1%),Yes,Yes,SAMTENGA,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NORDGOLD SAMTENGA SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Redevances proportionnelles (Royalties),Yes,Yes,SAMTENGA,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+NORDGOLD SAMTENGA SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxes superficiaires,Yes,Yes,SAMTENGA,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Agence de l'eau,La contribution financière en matière d’eau (CFE).,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Agence nationale des évaluations environnementales (ANEVE),Frais de prestation BUNEE,Yes,Yes,Riverstone Karma,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Bureau des Mines et de la Géologie du Burkina (BUMIGEB),Frais de prestation BUMIGEB,Yes,Yes,Riverstone Karma,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Direction Générale des Douanes (DGD),Pénalités,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Direction Générale des Impôts (DGI),Droit d'enregistemeent (DE),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Direction Générale des Impôts (DGI),Impôt sur le Revenu des capitaux mobiliers (IRCM),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Contribution au Fonds Minier de Développement Local (1%),Yes,Yes,Riverstone Karma,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Frais de dossier,Yes,Yes,Riverstone Karma,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Redevances proportionnelles (Royalties),Yes,Yes,Riverstone Karma,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Remboursements de crédit de TVA (remboursement effectif),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxes superficiaires,Yes,Yes,Riverstone Karma,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Fonds d'Intervention pour l'Environnement (FIE),Versements au Fonds de réhabilitation et de fermeture des mines,Yes,Yes,Riverstone Karma,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+RIVERSTONE KARMA SA,Office National de Sécurisation des Sites Miniers (ONASSIM),Frais de prestation ONASSIM,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ROXGOLD SANU   SA,Agence de l'eau,La contribution financière en matière d’eau (CFE).,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ROXGOLD SANU   SA,Bureau des Mines et de la Géologie du Burkina (BUMIGEB),Frais de prestation BUMIGEB,Yes,Yes,Yaramoko,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ROXGOLD SANU   SA,Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ROXGOLD SANU   SA,Direction Générale des Impôts (DGI),Acomptes Provisionnels sur IS (AP - IS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ROXGOLD SANU   SA,Direction Générale des Impôts (DGI),Droit d'enregistemeent (DE),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ROXGOLD SANU   SA,Direction Générale des Impôts (DGI),Impôt sur le Revenu des capitaux mobiliers (IRCM),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ROXGOLD SANU   SA,Direction Générale des Impôts (DGI),Impôt sur les Revenus Fonciers (IRF),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ROXGOLD SANU   SA,Direction Générale des Impôts (DGI),Impôt sur les Sociétés (IS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ROXGOLD SANU   SA,Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ROXGOLD SANU   SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Contribution au Fonds Minier de Développement Local (1%),Yes,Yes,Yaramoko,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ROXGOLD SANU   SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Redevances proportionnelles (Royalties),Yes,Yes,Yaramoko,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ROXGOLD SANU   SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Remboursements de crédit de TVA (remboursement effectif),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+ROXGOLD SANU   SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxes superficiaires,Yes,Yes,Yaramoko,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BOUNGOU SA,Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BOUNGOU SA,Direction Générale des Impôts (DGI),Acomptes Provisionnels sur IS (AP - IS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BOUNGOU SA,Direction Générale des Impôts (DGI),Droit d'enregistemeent (DE),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BOUNGOU SA,Direction Générale des Impôts (DGI),Impôt sur le Revenu des capitaux mobiliers (IRCM),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BOUNGOU SA,Direction Générale des Impôts (DGI),Impôt sur les Sociétés (IS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BOUNGOU SA,Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BOUNGOU SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Contribution au Fonds Minier de Développement Local (1%),Yes,Yes,SEMAFO Boungou,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BOUNGOU SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Redevances proportionnelles (Royalties),Yes,Yes,SEMAFO Boungou,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BOUNGOU SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Remboursements de crédit de TVA (remboursement effectif),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BOUNGOU SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxes superficiaires,Yes,Yes,SEMAFO Boungou,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Agence de l'eau,La contribution financière en matière d’eau (CFE).,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Bureau des Mines et de la Géologie du Burkina (BUMIGEB),Frais de prestation BUMIGEB,Yes,Yes,SEMAFO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Direction Générale des Impôts (DGI),Acomptes Provisionnels sur IS (AP - IS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Direction Générale des Impôts (DGI),Contribution des patentes,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Direction Générale des Impôts (DGI),Droit d'enregistemeent (DE),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Direction Générale des Impôts (DGI),Impôt sur le Revenu des capitaux mobiliers (IRCM),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Direction Générale des Impôts (DGI),Taxe Patronale d'Apprentissage (TPA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Direction Générale des Impôts (DGI),Taxe de bien de mainmorte (TBMM) / Taxe Foncière sur les Sociétés (TFS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Contribution au Fonds Minier de Développement Local (1%),Yes,Yes,SEMAFO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Dividendes,Yes,Yes,SEMAFO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Droits Fixes,Yes,Yes,SEMAFO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Redevances proportionnelles (Royalties),Yes,Yes,SEMAFO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Remboursements de crédit de TVA (remboursement effectif),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SEMAFO BURKINA FASO SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxes superficiaires,Yes,Yes,SEMAFO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SOMITA SA,Bureau des Mines et de la Géologie du Burkina (BUMIGEB),Frais de prestation BUMIGEB,Yes,Yes,TAPARKO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SOMITA SA,Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SOMITA SA,Direction Générale des Douanes (DGD),Pénalités,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SOMITA SA,Direction Générale des Impôts (DGI),Acomptes Provisionnels sur IS (AP - IS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SOMITA SA,Direction Générale des Impôts (DGI),Contribution des patentes,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SOMITA SA,Direction Générale des Impôts (DGI),Droit d'enregistemeent (DE),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SOMITA SA,Direction Générale des Impôts (DGI),Impôt sur le Revenu des capitaux mobiliers (IRCM),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SOMITA SA,Direction Générale des Impôts (DGI),Taxe Patronale d'Apprentissage (TPA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SOMITA SA,Direction Générale des Impôts (DGI),Taxe de bien de mainmorte (TBMM) / Taxe Foncière sur les Sociétés (TFS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SOMITA SA,Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SOMITA SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Redevances proportionnelles (Royalties),Yes,Yes,TAPARKO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SOMITA SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Remboursements de crédit de TVA (remboursement effectif),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SOMITA SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxes superficiaires,Yes,Yes,TAPARKO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+SOMITA SA,Fonds d'Intervention pour l'Environnement (FIE),Versements au Fonds de réhabilitation et de fermeture des mines,Yes,Yes,TAPARKO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société d'Exploitation des Phosphates du Burkina (SEPB),Agence nationale des évaluations environnementales (ANEVE),Frais de prestation BUNEE,Yes,No,Nc,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société d'Exploitation des Phosphates du Burkina (SEPB),Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société d'Exploitation des Phosphates du Burkina (SEPB),Direction Générale des Impôts (DGI),Droit d'enregistemeent (DE),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société d'Exploitation des Phosphates du Burkina (SEPB),Direction Générale des Impôts (DGI),Taxe Patronale d'Apprentissage (TPA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société des Mines de Sanbrado,Agence de l'eau,La contribution financière en matière d’eau (CFE).,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société des Mines de Sanbrado,Agence nationale des évaluations environnementales (ANEVE),Frais de prestation BUNEE,Yes,Yes,SANBRADO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société des Mines de Sanbrado,Bureau des Mines et de la Géologie du Burkina (BUMIGEB),Frais de prestation BUMIGEB,Yes,Yes,SANBRADO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société des Mines de Sanbrado,Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société des Mines de Sanbrado,Direction Générale des Douanes (DGD),Pénalités,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société des Mines de Sanbrado,Direction Générale des Douanes (DGD),Pénalités,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société des Mines de Sanbrado,Direction Générale des Impôts (DGI),Impôt sur le Revenu des capitaux mobiliers (IRCM),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société des Mines de Sanbrado,Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société des Mines de Sanbrado,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Contribution au Fonds Minier de Développement Local (1%),Yes,Yes,SANBRADO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société des Mines de Sanbrado,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Droits Fixes,Yes,Yes,SANBRADO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société des Mines de Sanbrado,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Redevances proportionnelles (Royalties),Yes,Yes,SANBRADO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+Société des Mines de Sanbrado,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxes superficiaires,Yes,Yes,SANBRADO,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+WAHGNION GOLD OPERATIONS SA,Agence de l'eau,La contribution financière en matière d’eau (CFE).,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+WAHGNION GOLD OPERATIONS SA,Agence nationale des évaluations environnementales (ANEVE),Frais de prestation BUNEE,Yes,Yes,WAHGNION GOLD OP SA,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+WAHGNION GOLD OPERATIONS SA,Bureau des Mines et de la Géologie du Burkina (BUMIGEB),Frais de prestation BUMIGEB,Yes,Yes,WAHGNION GOLD OP SA,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+WAHGNION GOLD OPERATIONS SA,Direction Générale des Douanes (DGD),Droits de Douane et taxes assimilées,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+WAHGNION GOLD OPERATIONS SA,Direction Générale des Douanes (DGD),Pénalités,No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+WAHGNION GOLD OPERATIONS SA,Direction Générale des Impôts (DGI),Acomptes Provisionnels sur IS (AP - IS),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+WAHGNION GOLD OPERATIONS SA,Direction Générale des Impôts (DGI),Droit d'enregistemeent (DE),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+WAHGNION GOLD OPERATIONS SA,Direction Générale des Impôts (DGI),Impôt sur le Revenu des capitaux mobiliers (IRCM),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+WAHGNION GOLD OPERATIONS SA,Direction Générale des Impôts (DGI),Taxe sur la Valeur Ajoutée (TVA),No,No,,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+WAHGNION GOLD OPERATIONS SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Contribution au Fonds Minier de Développement Local (1%),Yes,Yes,WAHGNION GOLD OP SA,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+WAHGNION GOLD OPERATIONS SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Droits Fixes,Yes,Yes,WAHGNION GOLD OP SA,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+WAHGNION GOLD OPERATIONS SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Redevances proportionnelles (Royalties),Yes,Yes,WAHGNION GOLD OP SA,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+WAHGNION GOLD OPERATIONS SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxe sur les plus-values de cession de titres miniers (TPVM),Yes,Yes,WAHGNION GOLD OP SA,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31
+WAHGNION GOLD OPERATIONS SA,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),Taxes superficiaires,Yes,Yes,WAHGNION GOLD OP SA,XOF,,,,,TRUE,Burkina Faso,BFA,2020,2020-12-01,2020-12-31

@@ -1,0 +1,29 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Administrative fees for government services (1422E),Mining,Impuesto a los Créditos y Débitos Bancarios,Administración Federal de Ingresos Públicos (AFIP),494458428.97,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Administrative fees for government services (1422E),Oil & Gas,Impuesto a los Créditos y Débitos Bancarios,Administración Federal de Ingresos Públicos (AFIP),13013127440.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Administrative fees for government services (1422E),Oil & Gas,Venta de Pliegos,"Secretaría de Energía (SEN), Ministerio de Economía",20560000.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Oil & Gas,Canon de Concesiones de explotación offshore,"Secretaría de Energía (SEN), Ministerio de Economía",24300000.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Oil & Gas,Canon de Permisos de Explotacion offshore,"Secretaría de Energía (SEN), Ministerio de Economía",13700000.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Mining,Derechos de Importacion,Administración Federal de Ingresos Públicos (AFIP),32452633.26,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Oil & Gas,Derechos de Importacion,Administración Federal de Ingresos Públicos (AFIP),1118599109.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Emission and pollution taxes (114522E),Oil & Gas,Impuesto al Dioxido de Carbono,Administración Federal de Ingresos Públicos (AFIP),25471093.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Excise taxes (1142E),Oil & Gas,Fondo Fiduciario para el subsidio a los consumos residenciales de Gas natural y GLP,Administración Federal de Ingresos Públicos (AFIP),9297122.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Excise taxes (1142E),Oil & Gas,Impuesto a los Combutible Liquidos y GNC,Administración Federal de Ingresos Públicos (AFIP),226697787.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+From government participation (equity) (1412E2),Oil & Gas,Dividendos YPF,"Secretaría de Energía (SEN), Ministerio de Economía",612003052.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Impuesto al Valor Agregado (IVA),Administración Federal de Ingresos Públicos (AFIP),48998100.02,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Oil & Gas,Impuesto al Valor Agregado (IVA),Administración Federal de Ingresos Públicos (AFIP),35706550769.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Tasa Estadistica,Administración Federal de Ingresos Públicos (AFIP),506254.69,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Oil & Gas,Tasa Estadistica,Administración Federal de Ingresos Públicos (AFIP),9013070.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Impuesto a las Ganancias Sociedades,Administración Federal de Ingresos Públicos (AFIP),5234633935.78,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Impuesto a las Ganancias de las Personas Fisicas y Sucesiones Indivisas,Administración Federal de Ingresos Públicos (AFIP),7021700.57,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Impuesto a las Ganancias Sociedades,Administración Federal de Ingresos Públicos (AFIP),12018783945.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Impuesto a las Ganancias de las Personas Fisicas y Sucesiones Indivisas,Administración Federal de Ingresos Públicos (AFIP),133303648.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Mining,Tasa Ambiental Anual,"Secretaría de Control y Monitoreo Ambiental, Ministerio de Ambiente y Desarrollo Sustentable",466111.2,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Tasa Ambiental Anual,"Secretaría de Control y Monitoreo Ambiental, Ministerio de Ambiente y Desarrollo Sustentable",637846.22,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Oil & Gas,Regalias,"Secretaría de Energía (SEN), Ministerio de Economía",2754772442.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Social security employer contributions (1212E),Mining,Aportes a la Seguridad Social,Administración Federal de Ingresos Públicos (AFIP),1325698441.97,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Social security employer contributions (1212E),Mining,Contribuciones a la Seguridad Social,Administración Federal de Ingresos Públicos (AFIP),2113830470.37,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Social security employer contributions (1212E),Oil & Gas,Aportes a la Seguridad Social,Administración Federal de Ingresos Públicos (AFIP),2867560727.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Social security employer contributions (1212E),Oil & Gas,Contribuciones a la Seguridad Social,Administración Federal de Ingresos Públicos (AFIP),6243392420.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Taxes on exports (1152E),Mining,Derechos de Exportación,Administración Federal de Ingresos Públicos (AFIP),2966637864.17,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31
+Taxes on exports (1152E),Oil & Gas,Derechos de Exportación,Administración Federal de Ingresos Públicos (AFIP),4178948776.0,ARS,Argentina,ARG,2018,2018-01-01,2018-12-31

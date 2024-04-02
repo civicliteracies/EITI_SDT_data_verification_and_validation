@@ -1,0 +1,447 @@
+Company,Government entity,Revenue stream name,Levied on project (Y/N),Reported by project (Y/N),Project name,Reporting currency,Revenue value,Payment made in-kind (Y/N),In-kind volume (if applicable),Unit (if applicable),Comments,Country,ISO Code,Year,Start Date,End Date
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,14568491.93,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale des Hydrocarbures (DGH),Frais de formation,No,No,,XAF,40889891688.67,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale des Impôts et des Domaines (DGID),Centimes Additionnels (CAD),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,12451400.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,448000.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale des Impôts et des Domaines (DGID),Taxe régionale,No,No,,XAF,73000.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,179000.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale des Impôts et des Domaines (DGID),Taxe sur les véhicules de tourisme des sociétés (TVTS),No,No,,XAF,1651426.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale du Trésor (DGT),"Profit Oil, Super Profit Oil, Excess Oil -en nature-",No,No,,USD,500000.0,Yes,2346,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale du Trésor (DGT),Redevance minière proportionnelle -en nature-,No,No,,USD,858480.0,Yes,6756,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale du Trésor (DGT),Redevance sur auto-consommation,No,No,,XAF,2232017.02,Yes,9102,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRICA OIL AND GAS CORPORATION (AOGC),Direction Générale du Trésor (DGT),Redevance sur auto-consommation,No,No,,XAF,549860.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRIWOOD INDUSTRIE,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance bois (RDB),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRIWOOD INDUSTRIE,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRIWOOD INDUSTRIE,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRIWOOD INDUSTRIE,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRIWOOD INDUSTRIE,Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRIWOOD INDUSTRIE,Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+AFRIWOOD INDUSTRIE,Ministère de l'Economie Forestière et du Développement Durables (MEFDD),Amendes et infractions,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ASIA CONGO INDUSTRIES,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance bois (RDB),No,No,,XAF,905361652.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ASIA CONGO INDUSTRIES,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,15573905932.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ASIA CONGO INDUSTRIES,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,15998140251.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ASIA CONGO INDUSTRIES,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,27888629894.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ASIA CONGO INDUSTRIES,Direction Générale des Impôts et des Domaines (DGID),Centimes Additionnels (CAD),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ASIA CONGO INDUSTRIES,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,9292061612.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ASIA CONGO INDUSTRIES,Direction Générale des Impôts et des Domaines (DGID),Taxe spéciale sur les sociétés (y compris retenue à la source),No,No,,XAF,230888.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ASIA CONGO INDUSTRIES,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,47547683.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ASIA CONGO INDUSTRIES,Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ASIA CONGO INDUSTRIES,Direction Générale du Trésor (DGT),Taxe de déboisement,No,No,,XAF,3600000.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ASIA CONGO INDUSTRIES,Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,3569015012.8,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ASIA CONGO INDUSTRIES,Ministère de l'Economie Forestière et du Développement Durables (MEFDD),Amendes et infractions,No,No,,XAF,7250000.0,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+BOIS ET PLACAGE DE LOPOLA,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance bois (RDB),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+BOIS ET PLACAGE DE LOPOLA,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+BOIS ET PLACAGE DE LOPOLA,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+BOIS ET PLACAGE DE LOPOLA,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+BOIS ET PLACAGE DE LOPOLA,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe à l'exportation des bois,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+BOIS ET PLACAGE DE LOPOLA,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+BOIS ET PLACAGE DE LOPOLA,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+BOIS ET PLACAGE DE LOPOLA,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+BOIS ET PLACAGE DE LOPOLA,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+BOIS ET PLACAGE DE LOPOLA,Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+BOIS ET PLACAGE DE LOPOLA,Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHEVRON OVERSEAS CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHEVRON OVERSEAS CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHEVRON OVERSEAS CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHEVRON OVERSEAS CONGO,Direction Générale des Impôts et des Domaines (DGID),Centimes Additionnels (CAD),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHEVRON OVERSEAS CONGO,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHEVRON OVERSEAS CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHEVRON OVERSEAS CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHEVRON OVERSEAS CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la Valeur Ajoutée (TVA) (DGID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHEVRON OVERSEAS CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHEVRON OVERSEAS CONGO,Direction Générale du Trésor (DGT),Provision pour investissements diversifiés (PID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHEVRON OVERSEAS CONGO,Direction Générale du Trésor (DGT),Redevance sur auto-consommation,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHINA NATIONAL OFFSHORE CORPORATION (CNOOC),Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHINA NATIONAL OFFSHORE CORPORATION (CNOOC),Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHINA NATIONAL OFFSHORE CORPORATION (CNOOC),Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHINA NATIONAL OFFSHORE CORPORATION (CNOOC),Direction Générale des Hydrocarbures (DGH),Frais de formation,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHINA NATIONAL OFFSHORE CORPORATION (CNOOC),Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHINA NATIONAL OFFSHORE CORPORATION (CNOOC),Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHINA NATIONAL OFFSHORE CORPORATION (CNOOC),Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CHINA NATIONAL OFFSHORE CORPORATION (CNOOC),Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CMS NOMECO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits de sortie (DST),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CMS NOMECO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CMS NOMECO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CMS NOMECO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+COMINCO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redressements Douaniers/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+COMINCO,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+COMINCO,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+COMINCO,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+COMINCO,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+COMINCO,Direction Générale des Impôts et des Domaines (DGID),Taxe spéciale sur les sociétés (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+COMINCO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+COMINCO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les véhicules de tourisme des sociétés (TVTS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO DEJIA WOOD INDUSTRY,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance bois (RDB),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO DEJIA WOOD INDUSTRY,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO DEJIA WOOD INDUSTRY,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redressements Douaniers/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO DEJIA WOOD INDUSTRY,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe à l'exportation des bois,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO DEJIA WOOD INDUSTRY,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO DEJIA WOOD INDUSTRY,Direction Générale des Impôts et des Domaines (DGID),Taxe spéciale sur les sociétés (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO DEJIA WOOD INDUSTRY,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO IRON,Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits accessoires à la sortie (DAS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO IRON,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO IRON,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO IRON,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO IRON,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO IRON,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO IRON,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO IRON,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO IRON,Direction Générale des Impôts et des Domaines (DGID),Taxe régionale,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO IRON,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO IRON,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les véhicules de tourisme des sociétés (TVTS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO MINING LTD,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO MINING LTD,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO MINING LTD,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO MINING LTD,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO MINING LTD,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGO MINING LTD,Direction Générale du Trésor (DGT),Redevance superficiaire,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits accessoires à la sortie (DAS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits d'accise (DAC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits de sortie (DST),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance bois (RDB),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Impôts et des Domaines (DGID),Centimes Additionnels (CAD),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Impôts et des Domaines (DGID),Impôts retenus à la source des sous-traitants,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Impôts et des Domaines (DGID),Taxe sur la Valeur Ajoutée (TVA) (DGID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale des Impôts et des Domaines (DGID),Taxe sur les véhicules de tourisme des sociétés (TVTS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale du Trésor (DGT),Taxe de déboisement,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOLAISE INDUSTRIELLE DES BOIS (CIB),Ministère de l'Economie Forestière et du Développement Durables (MEFDD),Amendes et infractions,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits de sortie (DST),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Direction Générale des Hydrocarbures (DGH),Frais de formation,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Direction Générale des Impôts et des Domaines (DGID),Impôts retenus à la source des sous-traitants,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Direction Générale des Impôts et des Domaines (DGID),Taxe régionale,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Direction Générale du Trésor (DGT),"Profit Oil, Super Profit Oil, Excess Oil -en nature-",No,No,,USD,,Yes,2962046,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Direction Générale du Trésor (DGT),Provision pour investissements diversifiés (PID),No,No,,XAF,,Yes,4397063,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Direction Générale du Trésor (DGT),Redevance minière proportionnelle -en nature-,No,No,,USD,,Yes,1435017,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+CONGOREP,Société Nationale des Pétroles du Congo (SNPC),Dividendes versés à la SNPC,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+DMC IRON CONGO EXXARO (racheté par SAPRO en 2016),Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits de sortie (DST),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+DMC IRON CONGO EXXARO (racheté par SAPRO en 2016),Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+DMC IRON CONGO EXXARO (racheté par SAPRO en 2016),Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+DMC IRON CONGO EXXARO (racheté par SAPRO en 2016),Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits de sortie (DST),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale des Hydrocarbures (DGH),Frais de formation,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale des Impôts et des Domaines (DGID),Centimes Additionnels (CAD),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale des Impôts et des Domaines (DGID),Impôts retenus à la source des sous-traitants,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe régionale,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la Valeur Ajoutée (TVA) (DGID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale du Trésor (DGT),Autres revenus du domaine minier,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale du Trésor (DGT),"Profit Oil, Super Profit Oil, Excess Oil",No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale du Trésor (DGT),"Profit Oil, Super Profit Oil, Excess Oil -en nature-",No,No,,USD,,Yes,2911526,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale du Trésor (DGT),Provision pour investissements diversifiés (PID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale du Trésor (DGT),Redevance minière proportionnelle -en nature-,No,No,,USD,,Yes,2847896,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale du Trésor (DGT),Redevance superficiaire,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO,Direction Générale du Trésor (DGT),Redevance sur auto-consommation,No,No,,XAF,,Yes,5759422,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENI CONGO SA,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENTREPRISE CHRISTELLE (E.C),Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENTREPRISE CHRISTELLE (E.C),Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ENTREPRISE CHRISTELLE (E.C),Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+HEMLA,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+HEMLA,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+HEMLA,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+HEMLA,Direction Générale du Trésor (DGT),Bonus de signature,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+HEMLA,Direction Générale du Trésor (DGT),Provision pour investissements diversifiés (PID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits accessoires à la sortie (DAS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits d'accise (DAC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits de sortie (DST),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance bois (RDB),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Douanes et des Droits Indirects (DGDDI),Redressements Douaniers/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Impôts et des Domaines (DGID),Centimes Additionnels (CAD),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Impôts et des Domaines (DGID),Impôts retenus à la source des sous-traitants,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Impôts et des Domaines (DGID),Taxe sur la Valeur Ajoutée (TVA) (DGID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale des Impôts et des Domaines (DGID),Taxe sur les véhicules de tourisme des sociétés (TVTS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale du Trésor (DGT),Taxe de déboisement,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+INDUSTRIE FORESTIERE DE OUESSO (IFO),Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+KOLA POTASH MINING,Direction Générale des Impôts et des Domaines (DGID),Impôts sur les sociétés,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+KOLA POTASH MINING,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+KOLA POTASH MINING,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+KONTINENT CONGO,Direction Générale du Trésor (DGT),Provision pour investissements diversifiés (PID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+KONTINENT CONGO,Direction Générale du Trésor (DGT),Redevance sur auto-consommation,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+LIKOUALA TIMBER S.A,Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits d'accise (DAC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+LIKOUALA TIMBER S.A,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redressements Douaniers/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+LIKOUALA TIMBER S.A,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+LIKOUALA TIMBER S.A,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+LIKOUALA TIMBER S.A,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe à l'exportation des bois,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+LIKOUALA TIMBER S.A,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+LIKOUALA TIMBER S.A,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+LIKOUALA TIMBER S.A,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la Valeur Ajoutée (TVA) (DGID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+LIKOUALA TIMBER S.A,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+LULU MINING,Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits accessoires à la sortie (DAS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+LULU MINING,Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits de sortie (DST),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+LULU MINING,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+LUYUAN DES MINES CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MAGMINERALS POTASSES CONGO (MPC),Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MAGMINERALS POTASSES CONGO (MPC),Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MAGMINERALS POTASSES CONGO (MPC),Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MAGMINERALS POTASSES CONGO (MPC),Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MILLION WELL HOLDING,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MILLION WELL HOLDING,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MILLION WELL HOLDING,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale des Impôts et des Domaines (DGID),Centimes Additionnels (CAD),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières (IRM),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale des Impôts et des Domaines (DGID),Taxe spéciale sur les sociétés (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la Valeur Ajoutée (TVA) (DGID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les véhicules de tourisme des sociétés (TVTS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MOKABI S A,Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MPD CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MPD CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redressements Douaniers/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MPD CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MPD CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MPD CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MPD CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MPD CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MPD CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les véhicules de tourisme des sociétés (TVTS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+MPD CONGO,Direction Générale du Trésor (DGT),Redevance superficiaire,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+NEW AGE CONGO,Direction Générale des Hydrocarbures (DGH),Frais de formation,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+NEW AGE CONGO,Direction Générale des Impôts et des Domaines (DGID),Centimes Additionnels (CAD),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+NEW AGE CONGO,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières (IRM),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+NEW AGE CONGO,Direction Générale des Impôts et des Domaines (DGID),Impôts retenus à la source des sous-traitants,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+NEW AGE CONGO,Direction Générale des Impôts et des Domaines (DGID),Impôts sur les sociétés,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+NEW AGE CONGO,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+NEW AGE CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+NEW AGE CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la Valeur Ajoutée (TVA) (DGID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+NEW AGE CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+NEW AGE CONGO,Direction Générale du Trésor (DGT),Provision pour investissements diversifiés (PID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ORYX PETROLEUM,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ORYX PETROLEUM,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ORYX PETROLEUM,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ORYX PETROLEUM,Direction Générale des Impôts et des Domaines (DGID),Taxe régionale,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+ORYX PETROLEUM,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PERENCO EXPLOITATION & PRODUCTION CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PERENCO EXPLOITATION & PRODUCTION CONGO,Direction Générale des Hydrocarbures (DGH),Frais de formation,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PERENCO EXPLOITATION & PRODUCTION CONGO,Direction Générale des Impôts et des Domaines (DGID),Impôts retenus à la source des sous-traitants,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PERENCO EXPLOITATION & PRODUCTION CONGO,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PERENCO EXPLOITATION & PRODUCTION CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PERENCO EXPLOITATION & PRODUCTION CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PERENCO EXPLOITATION & PRODUCTION CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe régionale,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PERENCO EXPLOITATION & PRODUCTION CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PERENCO EXPLOITATION & PRODUCTION CONGO,Direction Générale du Trésor (DGT),Bonus de signature,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PERENCO EXPLOITATION & PRODUCTION CONGO,Direction Générale du Trésor (DGT),"Profit Oil, Super Profit Oil, Excess Oil -en nature-",No,No,,USD,,Yes,2190184,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PERENCO EXPLOITATION & PRODUCTION CONGO,Direction Générale du Trésor (DGT),Provision pour investissements diversifiés (PID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PERENCO EXPLOITATION & PRODUCTION CONGO,Direction Générale du Trésor (DGT),Redevance minière proportionnelle -en nature-,No,No,,USD,,Yes,1282980,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PERENCO EXPLOITATION & PRODUCTION CONGO,Direction Générale du Trésor (DGT),Redevance superficiaire,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PERENCO EXPLOITATION & PRODUCTION CONGO,Direction Générale du Trésor (DGT),Redevance sur auto-consommation,No,No,,XAF,,Yes,3473164,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO CONGO,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières (IRM),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO CONGO,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO CONGO,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe régionale,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO CONGO,Direction Générale du Trésor (DGT),Bonus de signature,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO CONGO,Direction Générale du Trésor (DGT),Provision pour investissements diversifiés (PID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO CONGO,Direction Générale du Trésor (DGT),Redevance sur auto-consommation,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO KOUILOU,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO KOUILOU,Direction Générale des Hydrocarbures (DGH),Frais de formation,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO KOUILOU,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO KOUILOU,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO KOUILOU,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO KOUILOU,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO KOUILOU,Direction Générale des Impôts et des Domaines (DGID),Taxe régionale,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO KOUILOU,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO KOUILOU,Direction Générale du Trésor (DGT),"Profit Oil, Super Profit Oil, Excess Oil",No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO KOUILOU,Direction Générale du Trésor (DGT),"Profit Oil, Super Profit Oil, Excess Oil -en nature-",No,No,,USD,,Yes,508,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO KOUILOU,Direction Générale du Trésor (DGT),Provision pour investissements diversifiés (PID),No,No,,XAF,,Yes,2324,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO KOUILOU,Direction Générale du Trésor (DGT),Redevance minière proportionnelle -en nature-,No,No,,USD,,Yes,1816,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PETRO KOUILOU,Direction Générale du Trésor (DGT),Redevance superficiaire,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+PHILIA,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SEFYD,Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits accessoires à la sortie (DAS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SEFYD,Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits d'accise (DAC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SEFYD,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SEFYD,Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SEFYD,Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SEFYD,Ministère de l'Economie Forestière et du Développement Durables (MEFDD),Amendes et infractions,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SFIB,Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SFIB,Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SIFCO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance bois (RDB),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SIFCO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SIFCO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redressements Douaniers/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SIFCO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe à l'exportation des bois,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SIFCO,Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SIFCO,Direction Générale du Trésor (DGT),Taxe de déboisement,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SIFCO,Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINO CONGO RESSOURCES,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance bois (RDB),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINO CONGO RESSOURCES,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINO CONGO RESSOURCES,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINO CONGO RESSOURCES,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINO CONGO RESSOURCES,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINO CONGO RESSOURCES,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINO CONGO RESSOURCES,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINO CONGO RESSOURCES,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINO CONGO RESSOURCES,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINO CONGO RESSOURCES,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINO CONGO RESSOURCES,Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINO CONGO RESSOURCES,Direction Générale du Trésor (DGT),Taxe de déboisement,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINO CONGO RESSOURCES,Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINTOUKOLA POTASH,Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits accessoires à la sortie (DAS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINTOUKOLA POTASH,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINTOUKOLA POTASH,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINTOUKOLA POTASH,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINTOUKOLA POTASH,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINTOUKOLA POTASH,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINTOUKOLA POTASH,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINTOUKOLA POTASH,Direction Générale des Impôts et des Domaines (DGID),Taxe régionale,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINTOUKOLA POTASH,Direction Générale des Impôts et des Domaines (DGID),Taxe spéciale sur les sociétés (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SINTOUKOLA POTASH,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE AGIL-CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits accessoires à la sortie (DAS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE AGIL-CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits de sortie (DST),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE AGIL-CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE AGIL-CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE AGIL-CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE CONGOLAISE INDUSTRIELLE DES BOIS DU NIARI (CIBN),Direction Générale des Impôts et des Domaines (DGID),Centimes Additionnels (CAD),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE CONGOLAISE INDUSTRIELLE DES BOIS DU NIARI (CIBN),Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières (IRM),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE CONGOLAISE INDUSTRIELLE DES BOIS DU NIARI (CIBN),Direction Générale des Impôts et des Domaines (DGID),Impôts sur les sociétés,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE CONGOLAISE INDUSTRIELLE DES BOIS DU NIARI (CIBN),Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE CONGOLAISE INDUSTRIELLE DES BOIS DU NIARI (CIBN),Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE CONGOLAISE INDUSTRIELLE DES BOIS DU NIARI (CIBN),Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE CONGOLAISE INDUSTRIELLE DES BOIS DU NIARI (CIBN),Direction Générale des Impôts et des Domaines (DGID),Taxe spéciale sur les sociétés (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE CONGOLAISE INDUSTRIELLE DES BOIS DU NIARI (CIBN),Direction Générale des Impôts et des Domaines (DGID),Taxe sur la Valeur Ajoutée (TVA) (DGID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE CONGOLAISE INDUSTRIELLE DES BOIS DU NIARI (CIBN),Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE CONGOLAISE INDUSTRIELLE DES BOIS DU NIARI (CIBN),Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE CONGOLAISE INDUSTRIELLE DES BOIS DU NIARI (CIBN),Direction Générale du Trésor (DGT),Taxe de déboisement,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE CONGOLAISE INDUSTRIELLE DES BOIS DU NIARI (CIBN),Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE CONGOLAISE INDUSTRIELLE DES BOIS DU NIARI (CIBN),Ministère de l'Economie Forestière et du Développement Durables (MEFDD),Amendes et infractions,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE INDUSTRIELLE DE BOIS TRANSPORT,Direction Générale des Impôts et des Domaines (DGID),Centimes Additionnels (CAD),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE INDUSTRIELLE DE BOIS TRANSPORT,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières (IRM),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE INDUSTRIELLE DE BOIS TRANSPORT,Direction Générale des Impôts et des Domaines (DGID),Impôts sur les sociétés,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE INDUSTRIELLE DE BOIS TRANSPORT,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE INDUSTRIELLE DE BOIS TRANSPORT,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE INDUSTRIELLE DE BOIS TRANSPORT,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE INDUSTRIELLE DE BOIS TRANSPORT,Direction Générale des Impôts et des Domaines (DGID),Taxe spéciale sur les sociétés (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE INDUSTRIELLE DE BOIS TRANSPORT,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la Valeur Ajoutée (TVA) (DGID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE INDUSTRIELLE DE BOIS TRANSPORT,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE NATIONAL DES PETROLES DU CONGO (SNPC),Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE NATIONAL DES PETROLES DU CONGO (SNPC),Direction Générale des Impôts et des Domaines (DGID),Centimes Additionnels (CAD),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE NATIONAL DES PETROLES DU CONGO (SNPC),Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières (IRM),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE NATIONAL DES PETROLES DU CONGO (SNPC),Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE NATIONAL DES PETROLES DU CONGO (SNPC),Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE NATIONAL DES PETROLES DU CONGO (SNPC),Direction Générale des Impôts et des Domaines (DGID),Taxe sur la Valeur Ajoutée (TVA) (DGID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE NATIONAL DES PETROLES DU CONGO (SNPC),Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE NATIONAL DES PETROLES DU CONGO (SNPC),Direction Générale du Trésor (DGT),"Profit Oil, Super Profit Oil, Excess Oil",No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE NATIONAL DES PETROLES DU CONGO (SNPC),Direction Générale du Trésor (DGT),"Profit Oil, Super Profit Oil, Excess Oil -en nature-",No,No,,USD,,,17246,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCIETE NATIONAL DES PETROLES DU CONGO (SNPC),Direction Générale du Trésor (DGT),Redevance minière proportionnelle -en nature-,No,No,,USD,,,28331,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCO EXPLORATION AND PRODUCTION CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCO EXPLORATION AND PRODUCTION CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCO EXPLORATION AND PRODUCTION CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCO EXPLORATION AND PRODUCTION CONGO,Direction Générale des Impôts et des Domaines (DGID),Impôts retenus à la source des sous-traitants,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOCOMIP,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOFIA (STE INDUSTLLE ET FORESTIERE),Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance bois (RDB),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOFIA (STE INDUSTLLE ET FORESTIERE),Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOFIA (STE INDUSTLLE ET FORESTIERE),Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOFIA (STE INDUSTLLE ET FORESTIERE),Direction Générale du Trésor (DGT),Taxe de déboisement,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOFIA (STE INDUSTLLE ET FORESTIERE),Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOFIA (STE INDUSTLLE ET FORESTIERE),Ministère de l'Economie Forestière et du Développement Durables (MEFDD),Amendes et infractions,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOFIL,Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOFIL,Direction Générale du Trésor (DGT),Taxe de déboisement,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOFIL,Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOFIL,Ministère de l'Economie Forestière et du Développement Durables (MEFDD),Amendes et infractions,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOREMI,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOREMI,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redressements Douaniers/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOREMI,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOREMI,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOREMI,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOREMI,Direction Générale des Impôts et des Domaines (DGID),Taxe régionale,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOREMI,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOREMI,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les véhicules de tourisme des sociétés (TVTS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+SOREMI,Direction Générale du Trésor (DGT),Redevance superficiaire,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance bois (RDB),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale des Impôts et des Domaines (DGID),Centimes Additionnels (CAD),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières (IRM),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale des Impôts et des Domaines (DGID),Taxe spéciale sur les sociétés (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les véhicules de tourisme des sociétés (TVTS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale du Trésor (DGT),Taxe de déboisement,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TAMAN INDUSTRIES LIMITED,Ministère de l'Economie Forestière et du Développement Durables (MEFDD),Amendes et infractions,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+THANRY-CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance bois (RDB),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+THANRY-CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redressements Douaniers/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+THANRY-CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe à l'exportation des bois,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+THANRY-CONGO,Direction Générale des Impôts et des Domaines (DGID),Centimes Additionnels (CAD),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+THANRY-CONGO,Direction Générale des Impôts et des Domaines (DGID),Impôts retenus à la source des sous-traitants,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+THANRY-CONGO,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+THANRY-CONGO,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+THANRY-CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+THANRY-CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+THANRY-CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe spéciale sur les sociétés (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+THANRY-CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+THANRY-CONGO,Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+THANRY-CONGO,Direction Générale du Trésor (DGT),Taxe de superficie,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits d'accise (DAC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Droits de sortie (DST),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Redevance informatique,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Tarif Extérieur Commun (TEC),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale des Douanes et des Droits Indirects (DGDDI),Taxe sur la valeur ajoutée (TVA-DGDDI),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale des Hydrocarbures (DGH),Frais de formation,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale des Impôts et des Domaines (DGID),Centimes Additionnels (CAD),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale des Impôts et des Domaines (DGID),Impôts retenus à la source des sous-traitants,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux/amendes et pénalités,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe immobilière,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la Valeur Ajoutée (TVA) (DGID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale du Trésor (DGT),Autres revenus du domaine minier,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale du Trésor (DGT),Interets Yanga & Sendji (15%) -en nature-,No,No,,USD,,Yes,656215,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale du Trésor (DGT),"Profit Oil, Super Profit Oil, Excess Oil -en nature-",No,No,,USD,,Yes,4864949,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale du Trésor (DGT),Provision pour investissements diversifiés (PID),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale du Trésor (DGT),Redevance minière proportionnelle -en nature-,No,No,,USD,,Yes,7598043,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale du Trésor (DGT),Redevance sur auto-consommation,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+TOTAL E&P CONGO,Direction Générale du Trésor (DGT),Solde de fiscalité reversé (Hors PID et Red sur autoconsommation),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+WANG SA,Direction Générale du Trésor (DGT),Taxe d'abattage,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+WANG SA,Direction Générale du Trésor (DGT),Taxe de déboisement,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+WING WAH,Direction Générale des Impôts et des Domaines (DGID),Patente,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+WING WAH,Direction Générale des Impôts et des Domaines (DGID),Taxe d'occupation des Locaux (y compris retenue à la source),No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+WING WAH,Direction Générale des Impôts et des Domaines (DGID),Taxe régionale,No,No,,XAF,,,,,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+WING WAH,Direction Générale des Impôts et des Domaines (DGID),Taxe sur les salaires (IRPP-TF-TA-FNH-TUS),No,No,,XAF,,Yes,69330,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+WING WAH,Direction Générale du Trésor (DGT),Interets Yanga & Sendji (15%) -en nature-,No,No,,USD,,Yes,31612,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31
+WING WAH,Direction Générale du Trésor (DGT),"Profit Oil, Super Profit Oil, Excess Oil -en nature-",No,No,,USD,,Yes,37719,Barrels,,Republic of the Congo,COG,2017,2017-01-01,2017-12-31

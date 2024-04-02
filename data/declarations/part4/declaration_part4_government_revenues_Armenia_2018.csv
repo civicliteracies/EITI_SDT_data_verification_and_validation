@@ -1,0 +1,23 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Customs and other import duties (1151E),Mining,Custom duties,Tax Revenue Authority,1225599600.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Emission and pollution taxes (114522E),Mining,Contribution payment to the Environmental protection fund,Ministry of Environment,286453088.6,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Emission and pollution taxes (114522E),Mining,Environmental fees for goods imported from EEU member states,Tax Revenue Authority,7473744.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Emission and pollution taxes (114522E),Mining,Environmental fees for goods imported from non EEU member states,Tax Revenue Authority,24721328.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Emission and pollution taxes (114522E),Mining,Environmental payments (taxes),Tax Revenue Authority,50486325.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Emission and pollution taxes (114522E),Mining,Monitoring payment,Ministry of Environment,22576865.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Emission and pollution taxes (114522E),Mining,Nature utilisation fee,Tax Revenue Authority,65722685.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Excise taxes (1142E),Mining,Excise taxes,Tax Revenue Authority,186941022.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Excise taxes (1142E),Mining,Import Excise taxes,Tax Revenue Authority,,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+"Fines, penalties, and forfeits (143E)",Mining,Penalties,Tax Revenue Authority,700000.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Import VAT,Tax Revenue Authority,,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,VAT,Tax Revenue Authority,6113920576.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Income tax,Tax Revenue Authority,17847545387.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Profit tax,Tax Revenue Authority,15880462396.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Profit tax for non-residents,Tax Revenue Authority,2054460899.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Other rent payments (1415E5),Mining,Rent fee,Ministry of Territorial Administration and Development,939394521.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Mining,Land disposal,Ministry of Territorial Administration and Development,16240000.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Mining,Social obligations envisaged by the Contract,Ministry of Territorial Administration and Development,132952400.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Mining,State duty for mining permit,Tax Revenue Authority,260050000.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Mining,Mining Royalties,Tax Revenue Authority,34545800265.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Land tax,Ministry of Territorial Administration and Development,23157244.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Property tax,Ministry of Territorial Administration and Development,60122774.0,AMD,Armenia,ARM,2018,2018-01-01,2018-12-31

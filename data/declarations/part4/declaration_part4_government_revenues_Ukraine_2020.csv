@@ -1,0 +1,25 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Customs and other import duties (1151E),Mining,VAT of goods imported into Ukraine,State Customs Service of Ukraine,4244835929.63,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Customs and other import duties (1151E),Oil & Gas,VAT of goods imported into Ukraine,State Customs Service of Ukraine,1260466468.91,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Emission and pollution taxes (114522E),Mining,Environmental tax,State Tax Service of Ukraine,888157155.34,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Emission and pollution taxes (114522E),Oil & Gas,Environmental tax,State Tax Service of Ukraine,84104488.67,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+From government participation (equity) (1412E2),Mining,Dividends and payment of a share of net profit,State Tax Service of Ukraine,52194385.39,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+From government participation (equity) (1412E2),Oil & Gas,Dividends and payment of a share of net profit,State Tax Service of Ukraine,39626280323.0,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Budget reimbursement of value added tax,State Tax Service of Ukraine,-14815973150.23,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,VAT on goods and services produced in Ukraine (excluding budget reimbursement of VAT),State Tax Service of Ukraine,2770091632.59,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Oil & Gas,Budget reimbursement of value added tax,State Tax Service of Ukraine,-219187938.0,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Oil & Gas,VAT on goods and services produced in Ukraine (excluding budget reimbursement of VAT),State Tax Service of Ukraine,38205280708.73,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Licence fees (114521E),Mining,Fees for granting or extending special permits for the use of subsoil and revenues from the sale of such permits,The State Service of Geology and Subsoil of Ukraine (Derzhgeonadra),131490.0,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Licence fees (114521E),Oil & Gas,Fees for granting or extending special permits for the use of subsoil and revenues from the sale of such permits,The State Service of Geology and Subsoil of Ukraine (Derzhgeonadra),750577070.0,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Corporate income tax,State Tax Service of Ukraine,7812324783.73,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Corporate income tax,State Tax Service of Ukraine,32365229689.1,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Other taxes payable by natural resource companies (116E),Mining,Other taxes and duties (companies and payments below materiality threshold),State Tax Service of Ukraine,25658116.61,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Other taxes payable by natural resource companies (116E),Mining,Other taxes and duties (companies and payments below materiality threshold),The State Service of Geology and Subsoil of Ukraine (Derzhgeonadra),697943.89,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Other taxes and duties (companies and payments below materiality threshold),State Tax Service of Ukraine,2777232850.0,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Other taxes and duties (companies and payments below materiality threshold),The State Service of Geology and Subsoil of Ukraine (Derzhgeonadra),14132047.08,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Royalties (1415E1),Mining,Land fee,State Tax Service of Ukraine,1188791008.45,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Royalties (1415E1),Mining,Production royalty,State Tax Service of Ukraine,4459017693.25,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Royalties (1415E1),Oil & Gas,Land fee,State Tax Service of Ukraine,392301204.81,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Royalties (1415E1),Oil & Gas,Production royalty,State Tax Service of Ukraine,44527992617.52,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Social security employer contributions (1212E),Mining,Unified social contribution,State Tax Service of Ukraine,6749768144.65,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31
+Social security employer contributions (1212E),Oil & Gas,Unified social contribution,State Tax Service of Ukraine,3299906373.47,UAH,Ukraine,UKR,2020,2020-01-01,2020-12-31

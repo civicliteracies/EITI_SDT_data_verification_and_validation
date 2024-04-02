@@ -1,0 +1,6 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Compulsory transfers to government (infrastructure and other) (1415E4),Not applicable,Payments to Improve the Infrastructure,Government Agencies (Level of local government),23230056.76,EUR,Germany,DEU,2020,2020-01-01,2020-12-31
+"Extraordinary taxes on income, profits and capital gains (1112E2)",Not applicable,Trade Tax,Municipalities (Level of local government),41907255.97,EUR,Germany,DEU,2020,2020-01-01,2020-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Not applicable,Corporation Tax,"Tax Offices (Level of state government (""Länder""))",28754271.26,EUR,Germany,DEU,2020,2020-01-01,2020-12-31
+Other rent payments (1415E5),Not applicable,Lease Payments,Municipalities (Level of local government),3447542.2,EUR,Germany,DEU,2020,2020-01-01,2020-12-31
+Royalties (1415E1),Mining,Mining and Extraction Royalties,"Mining Authorities (Level of state government (""Länder""))",99297607.94,EUR,Germany,DEU,2020,2020-01-01,2020-12-31

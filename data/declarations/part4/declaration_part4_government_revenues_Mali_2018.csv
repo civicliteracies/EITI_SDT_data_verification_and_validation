@@ -1,0 +1,32 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Administrative fees for government services (1422E),Mining,Droit d'enregistrement,Direction des Grandes Entreprises (DGE),301464969.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Administrative fees for government services (1422E),Mining,Droit de Timbre,Direction des Grandes Entreprises (DGE),3300912514.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Administrative fees for government services (1422E),Mining,Retenues IRF,Direction des Grandes Entreprises (DGE),93750.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Customs and other import duties (1151E),Mining,Droit de douane,Direction Générale de la Douane (DGD),45944400148.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+"Fines, penalties, and forfeits (143E)",Mining,Pénalités,Direction Nationale de la Géologie et des Mines (DNGM),,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+From government participation (equity) (1412E2),Mining,Dividendes,Direction Nationale des Domaines et du Cadastre (DNDC),7046174882.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Impôt spécial sur certains produits (ISCP),Direction des Grandes Entreprises (DGE),38329022549.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Impôt sur le Revenu des Valeurs Mobilières (IRVM),Direction des Grandes Entreprises (DGE),1549171652.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Retenues BIC,Direction des Grandes Entreprises (DGE),12262527472.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Taxe de transfert,Direction Nationale de la Géologie et des Mines (DNGM),,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Taxe d’assurance,Direction des Grandes Entreprises (DGE),,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Taxe sur la Valeur Ajoutée (TVA),Direction des Grandes Entreprises (DGE),10330477646.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Taxe sur plus value sur transfert de titre,Direction Nationale de la Géologie et des Mines (DNGM),,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Licence fees (114521E),Mining,Redevances superficiaires DNDC,Direction Nationale des Domaines et du Cadastre (DNDC),141077625.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Licence fees (114521E),Mining,Redevances superficiaires DNGM,Direction Nationale de la Géologie et des Mines (DNGM),700551537.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Licence fees (114521E),Mining,Taxe de convention,Direction Nationale de la Géologie et des Mines (DNGM),15000000.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Licence fees (114521E),Mining,Taxe de délivrance (DNGM),Direction Nationale de la Géologie et des Mines (DNGM),20000000.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Licence fees (114521E),Mining,Taxe de renouvellement (DNGM),Direction Nationale de la Géologie et des Mines (DNGM),5000000.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Licence fees (114521E),Oil,Taxe de renouvellement (AUREP),Autorité pour la promotion de la Recherche Pétrolière (AUREP),,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Licence fees (114521E),Oil,Taxe superficiaire,Autorité pour la promotion de la Recherche Pétrolière (AUREP),107935000.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Licence fees (114521E),Oil,Taxes de délivrance (AUREP),Autorité pour la promotion de la Recherche Pétrolière (AUREP),,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Impôt sur les sociétés,Direction des Grandes Entreprises (DGE),74414941236.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Royalties (1415E1),Mining,Taxe ad valorem,Direction Nationale des Domaines et du Cadastre (DNDC),27192331142.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Royalties (1415E1),Mining,Taxe d’extraction,Direction Nationale de la Géologie et des Mines (DNGM),48624921.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Royalties (1415E1),Oil,Fonds de promotion et de formation,Autorité pour la promotion de la Recherche Pétrolière (AUREP),125000000.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Taxes on payroll and workforce (112E),Mining,Contribution forfaitaire à la charge de l’employeur,Direction des Grandes Entreprises (DGE),4388903816.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Taxes on payroll and workforce (112E),Mining,Taxe de formation professionnelle,Direction des Grandes Entreprises (DGE),1340684818.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Taxes on payroll and workforce (112E),Mining,Taxe de logement,Direction des Grandes Entreprises (DGE),1015497838.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Taxes on payroll and workforce (112E),Mining,Taxe emploi jeune,Direction des Grandes Entreprises (DGE),1374237842.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Taxes on property (113E),Mining,Patentes (DGE),Direction des Grandes Entreprises (DGE),41568413.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018
+Taxes on property (113E),Mining,Patentes (DRI),Directions Régionales des Impôts (DRI),7628729705.0,XOF,Mali,MLI,2018,1/1/2018,12/31/2018

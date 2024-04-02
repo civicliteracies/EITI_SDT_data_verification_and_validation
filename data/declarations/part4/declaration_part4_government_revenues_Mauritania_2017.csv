@@ -1,0 +1,25 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Bonuses (1415E2),Oil & Gas,Bonus de signature,Direction du Trésor et de la Comptabilité Publique (DGTCP),8201800000.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+Compulsory transfers to government (infrastructure and other) (1415E4),Oil & Gas,Contributions au Fonds de Formation (Contribution administrative),Direction du Trésor et de la Comptabilité Publique (DGTCP),917700750.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+Delivered/paid directly to government (1415E31),Oil & Gas,Profit Oil Etat - Puissance Publique,Direction du Trésor et de la Comptabilité Publique (DGTCP),4499473714.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+Delivered/paid to state-owned enterprise(s) (1415E32),Oil & Gas,Profit-Oil Etat-Puissance Publique - Pétrole (bbl),Société Mauritanienne des Hydrocarbures et du Patrimoine Minier (SMHPM),,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+Delivered/paid to state-owned enterprise(s) (1415E32),Oil & Gas,Profit-Oil et Cost-Oil Etat-Associé - Pétrole (bbl),Société Mauritanienne des Hydrocarbures et du Patrimoine Minier (SMHPM),,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+Emission and pollution taxes (114522E),Oil & Gas,Commission Environnementale,Direction du Trésor et de la Comptabilité Publique (DGTCP),463580000.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+"Fines, penalties, and forfeits (143E)",Mining,Prime intéressement DGI,Direction du Trésor et de la Comptabilité Publique (DGTCP),1555162689.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+"Fines, penalties, and forfeits (143E)",Mining,Pénalités,Direction du Trésor et de la Comptabilité Publique (DGTCP),1147787778.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Crédit de TVA imputé sur la Redevance Unique (en signe-),Direction du Trésor et de la Comptabilité Publique (DGTCP),,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,TVA - INT,Direction du Trésor et de la Comptabilité Publique (DGTCP),104539087.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,BIC ( y compris les acomptes provisionnels) (Mines),Direction du Trésor et de la Comptabilité Publique (DGTCP),1386450394.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Impôt sur le Revenu Foncier (IRF),Direction du Trésor et de la Comptabilité Publique (DGTCP),43539524.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Redevance annuelle unique (Montant brut),Direction du Trésor et de la Comptabilité Publique (DGTCP),12488011086.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,BIC ( y compris les acomptes provisionnels) (Mines),Direction du Trésor et de la Comptabilité Publique (DGTCP),2139205908.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Impôt minimum forfaitaire (IMF),Direction du Trésor et de la Comptabilité Publique (DGTCP),24614130.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Impôt sur le Revenu Foncier (IRF),Direction du Trésor et de la Comptabilité Publique (DGTCP),5551735.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Retenues à la source (hors retenues sur salaires),Direction du Trésor et de la Comptabilité Publique (DGTCP),4709119931.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Régime Spécial d’Imposition,Direction du Trésor et de la Comptabilité Publique (DGTCP),20368520.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+Other taxes payable by natural resource companies (116E),Mining,Remboursements (en signe -),Direction du Trésor et de la Comptabilité Publique (DGTCP),,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+Royalties (1415E1),Mining,Redevance Superficiaire,Direction du Trésor et de la Comptabilité Publique (DGTCP),260450000.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+Royalties (1415E1),Mining,Redevance d'exploitation,Direction du Trésor et de la Comptabilité Publique (DGTCP),5354551681.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+Royalties (1415E1),Mining,Taxe Rémunératoire,Direction du Trésor et de la Comptabilité Publique (DGTCP),41466000.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+Royalties (1415E1),Oil & Gas,Redevances Superficiaires,Direction du Trésor et de la Comptabilité Publique (DGTCP),125257534.0,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017
+Taxes on property (113E),Mining,Impôt sur le Revenu des Capitaux Mobiliers (IRCM),Direction du Trésor et de la Comptabilité Publique (DGTCP),390525322.48,MRO,Mauritania,MRT,2017,1/1/2017,12/31/2017

@@ -1,0 +1,15 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Delivered/paid directly to government (1415E31),Gas,Institutional Support,National Petroleum Institute,7250000.0,USD,Mozambique,MOZ,2019,1/1/2019,12/31/2019
+Delivered/paid to state-owned enterprise(s) (1415E32),Gas,Institutional Support,"Empresa Nacional de Hidrocarbonetos, EP (ENH)",3477636.7,MZN,Mozambique,MOZ,2019,1/1/2019,12/31/2019
+Delivered/paid to state-owned enterprise(s) (1415E32),Gas,Institutional Support,"Empresa Nacional de Hidrocarbonetos, EP (ENH)",50000.0,USD,Mozambique,MOZ,2019,1/1/2019,12/31/2019
+From government participation (equity) (1412E2),Gas,Dividends,Institute for Management of State Shareholdings,530648972.46,MZN,Mozambique,MOZ,2019,1/1/2019,12/31/2019
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Not applicable,VAT,Tax Revenue Authority,175872819.0,MZN,Mozambique,MOZ,2019,1/1/2019,12/31/2019
+Licence fees (114521E),Mining,License fees,National Mining Institute,7000.0,MZN,Mozambique,MOZ,2019,1/1/2019,12/31/2019
+"Ordinary taxes on income, profits and capital gains (1112E1)",Not applicable,IRPC,Tax Revenue Authority,7355670554.92,MZN,Mozambique,MOZ,2019,1/1/2019,12/31/2019
+"Ordinary taxes on income, profits and capital gains (1112E1)",Not applicable,IRPS,Tax Revenue Authority,3634592836.0,MZN,Mozambique,MOZ,2019,1/1/2019,12/31/2019
+"Ordinary taxes on income, profits and capital gains (1112E1)",Not applicable,ISPC,Tax Revenue Authority,118415.0,MZN,Mozambique,MOZ,2019,1/1/2019,12/31/2019
+"Ordinary taxes on income, profits and capital gains (1112E1)",Not applicable,M/B Geral- Other taxes,Tax Revenue Authority,267869608.0,MZN,Mozambique,MOZ,2019,1/1/2019,12/31/2019
+Other rent payments (1415E5),Mining,ISS - Mining surface tax,Tax Revenue Authority,178907288.0,MZN,Mozambique,MOZ,2019,1/1/2019,12/31/2019
+Royalties (1415E1),Gas,IPP- Oil/gas royalty,Tax Revenue Authority,737634316.0,MZN,Mozambique,MOZ,2019,1/1/2019,12/31/2019
+Royalties (1415E1),Gas,Royalty gas in kind,National Petroleum Institute,,MZN,Mozambique,MOZ,2019,1/1/2019,12/31/2019
+Royalties (1415E1),Mining,IPM - Mining royalties,Tax Revenue Authority,2205121273.0,MZN,Mozambique,MOZ,2019,1/1/2019,12/31/2019

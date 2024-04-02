@@ -1,0 +1,665 @@
+Company,Government entity,Revenue stream name,Levied on project (Y/N),Reported by project (Y/N),Project name,Reporting currency,Revenue value,Payment made in-kind (Y/N),In-kind volume (if applicable),Unit (if applicable),Comments,Country,ISO Code,Year,Start Date,End Date
+ANASURIA HIBISCUS UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,20070885938.0,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Aggregate Industries UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Corporation Tax,Not applicable,Not applicable,Not applicable,GBP,3143564119.0,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Aggregate Industries UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Corporation Tax,Not applicable,Not applicable,Not applicable,GBP,5756436924.0,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Aggregate Industries UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,No,Not available,GBP,-4311349295.73,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Albion Stone,Her Majesty’s Revenue and Customs (HMRC),Corporation Tax,Not applicable,Not applicable,Not applicable,GBP,300000.0,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Albion Stone,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Admiralty Quarry,GBP,199116.0,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Albion Stone,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Drill Hall 02020599,GBP,29182.0,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Albion Stone,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Portland Land and Minerals,GBP,19025225.0,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Albion Stone,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Portland Quarries,GBP,586873557.0,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Alpha Petroleum,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,9013070.0,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Alpha Petroleum,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1034,GBP,17393302.94,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Alpha Petroleum,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1062,GBP,4990328.56,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Alpha Petroleum,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1070,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Alpha Petroleum,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P683,GBP,30718669.41,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P087,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1621,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1622,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1763,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1764,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1820,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1982,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1985,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1986,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1998,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2335,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2338,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2346,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2353,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2354,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2355,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2375,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P246,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P254,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Apache Corporation,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P337,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BHP Billiton Petroleum Great Britain Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,"Boom anchor blocks (AB-24-5), The Snub, Rvr Ythan",GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Oil Pipeline - Clair Pipeline,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Oil Pipeline - Cruden Bay Short,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Oil Pipeline - Orka Voe - West of Shetland,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Forties,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Fulmar,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Magnus,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Miller,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Miller,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,South Valiant,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Thistle,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Vulcan,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,E442,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P057,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P059,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P092,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P111,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1570,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P165,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P168,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1777,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1937,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P198,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P209,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2111,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2125,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2127,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2167,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2189,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2199,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2200,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2285,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2293,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2325,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2336,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2347,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P236,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2395,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2410,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2413,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2452,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P276,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P358,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P363,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P556,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P558,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P566,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P803,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+BP UK Group,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P975,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Breedon Group PLC,Her Majesty’s Revenue and Customs (HMRC),Corporation Tax,Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Breedon Group PLC,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Clearwell Qry Plant Agri&Recyc,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Breedon Group PLC,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Clearwell Qry Plant Basic/Wayl,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Breedon Group PLC,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Clearwell Quarry - Surface,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Breedon Group PLC,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Manod & Graig Ddu Quarry,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Breedon Group PLC,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Stowe Hill Cert/Surf Rnt & Roy,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Breedon Group PLC,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Stowe Hill Option Area,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Brett Group,Her Majesty’s Revenue and Customs (HMRC),Corporation Tax,Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Britannia Aggregates Ltd,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,No,Not available,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,E441,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P066,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P101,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P110,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2074,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2140,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2330,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2371,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2374,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2383,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2389,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2408,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2455,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P355,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P356,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CHRYSAOR  Holdings Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P591,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CNR International UK Investments Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Ninian,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CNR International UK Investments Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CNR International UK Investments Ltd,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CNR International UK Investments Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P114,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CNR International UK Investments Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P199,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CNR International UK Investments Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P202,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CNR International UK Investments Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P203,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CNR International UK Investments Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P204,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CNR International UK Investments Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P224,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CNR International UK Investments Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P329,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CNR International UK Investments Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P748,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+CalEnergy Gas Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Victor,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Cemex UK Materials Ltd,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,No,Not available,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Cemex UK Materials Ltd,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Jetty minerals commercial,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Cemex UK Materials Ltd,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Llysfaen,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Cemex UK Materials Ltd,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Pant y Pwll Dwr Quarry,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Brae,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Morecambe S,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Victor,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P104,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1060,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1246,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1354,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1483,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P153,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1724,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1727,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P212,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2126,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2128,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2181,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2270,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2290,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2301,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2327,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2430,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2457,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P293,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P323,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P354,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P455,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P468,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P543,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P612,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P774,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P776,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P901,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PL234,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Gas Pipeline - Morecambe Bay North Pipeline,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Gas Pipeline - Morecambe Bay South,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Centrica,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Gas Pipeline - Seabed rental Rough field,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Chevron North Sea Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Murchison,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Chevron North Sea Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Chevron North Sea Ltd,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Chevron North Sea Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1026,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Chevron North Sea Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P119,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Chevron North Sea Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1191,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Chevron North Sea Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1272,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Chevron North Sea Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P213,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Chevron North Sea Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2345,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Chevron North Sea Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2356,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Chevron North Sea Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2373,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Chevron North Sea Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P264,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Chevron North Sea Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P345,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Cleveland Potash Ltd,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,No,Not available,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Cleveland Potash Ltd,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Boulby (BG601908561),GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Oil Pipeline - Britannia Field to St Fergus,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Miller,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Thistle,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Victor,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P028,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P032,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P033,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P079,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P099,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1006,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P103,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1058,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P130,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1589,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P170,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1821,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2220,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2221,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P225,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2269,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2302,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2399,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2456,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P251,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P287,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P347,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P450,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P451,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P452,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P459,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P519,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P547,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P590,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P672,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P691,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P706,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P741,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Hydrocarbon Pipeline - River Fields Pipeline,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Hydrocarbon Pipeline - Victor Viking,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Hydrocarbon Pipeline - Viking Field,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Oil Pipeline - Seaton Sands - Ekofisk,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Oil Pipeline - Theddlethorpe Caister Murdoch,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ConocoPhillips UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Oil Pipeline - Theddlethorpe Viking Pipeline,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+DEME Building Materials Ltd,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,No,Not available,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+DYAS UK Limited,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Dana Petroleum Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Victor,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Dana Petroleum Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Dana Petroleum Ltd,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Dana Petroleum Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P021,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Dana Petroleum Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1051,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Dana Petroleum Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1720,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Dana Petroleum Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1896,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Dana Petroleum Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P215,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Dana Petroleum Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2349,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Dana Petroleum Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P353,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Dana Petroleum Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P361,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Dana Petroleum Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P472,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Dana Petroleum Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P570,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Claymore,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Orwell,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,E451,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P112,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1620,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1964,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1965,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2191,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2251,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2292,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2385,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2443,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P710,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P791,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,F/S & Seabed at Bacton,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Hydrocarbon Pipeline - Liverpool Bay,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Natural Gas Pipeline - PL21,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ENI UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Pipeline - Oil & Gas Pipelines (England),GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Gas Pipeline - Orka Voe -East of Shetland,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1077,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1107,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1200,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1617,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1765,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1825,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P193,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2137,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2176,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2177,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2334,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P238,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P242,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P475,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P585,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+EnQuest PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P902,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Endeavour Energy UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Alba,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,E445,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1758,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2097,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2151,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2152,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2163,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2170,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2207,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2275,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2313,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2314,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2315,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2318,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2319,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P234,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2343,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2449,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2460,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P312,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P335,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P493,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P726,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P920,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P977,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Equinor UK Ltd (Statoil UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P979,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ExxonMobil International Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Brent,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ExxonMobil International Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Fulmar,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ExxonMobil International Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Victor,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+ExxonMobil International Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Hanson UK Group,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,No,Not available,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Hess Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Fulmar,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Hurricane Energy Plc,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Hurricane Energy plc,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1368,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Hurricane Energy plc,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2294,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Hurricane Energy plc,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2308,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,AL009,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,DL002,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,DL004,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,EXL288,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,ML003,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,ML004,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,ML006,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,ML007,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,ML018,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,ML021,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1270,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL006,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL012,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL021,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL056,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL070,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL139,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL140,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL146,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL147,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL184,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL188,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL189,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL190,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL200,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL210,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL235,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL257,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL273,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL278,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL305,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL316,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL317,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL326,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL337,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PL178,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PL179,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PL182,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PL199,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PL205,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PL211,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PL220,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+IGas Energy PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PL233,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Hound Point,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Oil Pipeline - Forties Field to Cruden Bay,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Rvr Forth Grangemouth,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Victor,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,EXL273,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,LX002,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1013,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1230,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1328,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1630,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1909,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2211,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2306,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2333,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P607,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL120,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Breagh Pipeline/RvTeesCrossing - Rv Tees Seal SandsCoathamSands,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+INEOS Industries,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Pipeline Lease - Breagh Field Pipeline,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Irish Salt Mining & Exploration Co. Ltd,Her Majesty’s Revenue and Customs (HMRC),Corporation Tax,Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Ithaca energy UK,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Hydrocarbon Infrastructure - Jacky B Project,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Ithaca energy UK,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Ithaca energy UK,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1293,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Ithaca energy UK,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1383,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Ithaca energy UK,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1392,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Ithaca energy UK,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1588,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Ithaca energy UK,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1665,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Ithaca energy UK,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1823,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Ithaca energy UK,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2190,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Llanelli Sand Dredging Ltd,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,No,Not available,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Marathon Oil UK LLC,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Brae,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Marathon Oil UK LLC,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Marathon Oil UK LLC,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Marathon Oil UK LLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P108,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Marathon Oil UK LLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P340,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Marathon Oil UK LLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P483,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Marubeni Oil & Gas UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Ninian,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+NSMP Operations Ltd,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Oil Pipeline - Frigg Field to Rattray Bay,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+NSMP Operations Ltd,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Pipeline Lease - Laggan Tormore Export Pipe,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Neptune Energy (Engie E&P UK Ltd),Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Neptune Energy (Engie E&P UK Ltd),Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Neptune Energy (Engie E&P UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1055,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Neptune Energy (Engie E&P UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1731,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Neptune Energy (Engie E&P UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1936,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Neptune Energy (Engie E&P UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2130,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Neptune Energy (Engie E&P UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2141,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Neptune Energy (Engie E&P UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2272,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Neptune Energy (Engie E&P UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2274,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Neptune Energy (Engie E&P UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2429,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Neptune Energy (Engie E&P UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P454,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Neptune Energy (Engie E&P UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P611,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Neptune Energy (Engie E&P UK Ltd),Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P614,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Scott,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1298,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1598,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1615,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2062,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2155,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2171,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2174,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P218,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2215,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P226,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2279,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2283,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2298,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P300,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P928,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Nexen Petroleum UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P986,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Oranje-Nassau Energie Resources Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Oranje-Nassau Energie Resources Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1914,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Oranje-Nassau Energie Resources Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2133,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Oranje-Nassau Energie Resources Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2309,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,ML005,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P001,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P016,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P024,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P030,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P037,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P064,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1061,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P133,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P138,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P142,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2114,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2210,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P302,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P460,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P461,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P463,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P534,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P606,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P609,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P685,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P780,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P787,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P844,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P947,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PEDL328,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PL089,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,PL259,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Furzey Island Pipeline,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Furzey Island Slipways,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Hydrocarbon Pipeline - LASMO Eagles ETS Pipeline,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Hydrocarbon Pipeline - Leman Field,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Oil Pipeline - Amoco Pipeline,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Oil Pipeline - Bacton Lancelot,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Oil Pipeline - Easington Amethyst,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Oil Pipeline - Paston Amoco,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Perenco UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate O&G,Yes,Yes,Oil Pipeline - Pickerill Pipeline,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1042,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1114,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1330,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1430,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P164,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P201,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2070,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2077,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2212,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2305,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2453,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2454,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P380,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P456,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P686,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P766,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Premier Oil PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P771,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Claymore,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Claymore,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Piper,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Piper,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P073,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1031,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P116,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P185,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P219,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P220,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P237,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P240,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P241,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P244,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P249,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P250,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P256,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P263,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P266,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P297,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P324,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P344,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P593,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P729,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P810,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Repsol Sinopec Resources UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P983,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Gas Pipeline - Fulmar,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Hydrocarbon Pipeline - Atlantic Cromarty,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Hydrocarbon Pipeline - Goldeneye,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Oil Pipeline - Brent St Fergus,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Brent,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Fulmar,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Miller,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P007,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P008,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P011,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P012,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P013,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P054,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P069,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P077,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P084,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P088,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P096,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P098,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1015,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1117,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P117,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P132,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1664,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P169,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1792,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1807,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P188,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2323,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2324,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P233,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2340,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2351,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2376,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2377,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2380,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2391,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P255,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P257,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P295,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P296,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P359,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P465,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P523,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P559,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P598,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P664,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Royal Dutch Shell PLC,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P886,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+SSE E&P UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+SUMMIT Exploration and Production,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Siccar Point Energy (Holdings) Ltd [incl. OMV (U.K.) Ltd],Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Siccar Point Energy (Holdings) Ltd [incl. OMV (U.K.) Ltd],Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Siccar Point Energy (Holdings) Ltd [incl. OMV (U.K.) Ltd],Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1028,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Siccar Point Energy (Holdings) Ltd [incl. OMV (U.K.) Ltd],Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1830,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Siccar Point Energy (Holdings) Ltd [incl. OMV (U.K.) Ltd],Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1854,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Siccar Point Energy (Holdings) Ltd [incl. OMV (U.K.) Ltd],Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1935,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Siccar Point Energy (Holdings) Ltd [incl. OMV (U.K.) Ltd],Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2138,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Siccar Point Energy (Holdings) Ltd [incl. OMV (U.K.) Ltd],Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2139,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Siccar Point Energy (Holdings) Ltd [incl. OMV (U.K.) Ltd],Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2403,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Siccar Point Energy (Holdings) Ltd [incl. OMV (U.K.) Ltd],Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2461,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Siccar Point Energy (Holdings) Ltd [incl. OMV (U.K.) Ltd],Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P974,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Suncor Energy UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Brae,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,East Brae,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,N Cormorant,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Her Majesty’s Revenue and Customs (HMRC),Petroleum Revenue Tax (PRT),Yes,Yes,Tern,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1064,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2015,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P205,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2198,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P232,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P258,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P338,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P478,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P945,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+TAQA Bratani Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P980,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Tarmac Holdings Limited,Her Majesty’s Revenue and Customs (HMRC),Corporation Tax,Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Tarmac Holdings Limited,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,No,Not available,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Tarmac Holdings Limited,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Crown Farm & Delamere Quarries,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Tarmac Holdings Limited,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Pant Quarry,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Tarmac Holdings Limited,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,Yes,Stainton Quarry,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+The Banks Group,Her Majesty’s Revenue and Customs (HMRC),Corporation Tax,Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Crown Estate Scotland (CES),Payments to Crown Estate Scotland O&G,Yes,Yes,Pipeline Lease - Laggan Tomore Import Pipes,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Ring Fence CT and Supplementary Charge (RFCT & SC),Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Oil & Gas Authority (OGA) Levy,Yes,No,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,E450,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,E455,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P090,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1041,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1159,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P118,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1195,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1424,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1453,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1464,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1678,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1891,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P1970,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2017,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2047,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2051,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2068,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2072,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P208,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2131,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2158,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2214,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2277,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2295,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2344,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2386,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P239,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2405,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2411,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2415,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2418,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P2450,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P268,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P281,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P284,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P362,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P416,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P491,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P496,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P622,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P666,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P701,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P724,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P735,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P752,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P911,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Total E&P UK Ltd,Oil & Gas Authority (OGA),Petroleum Licence Fees,Yes,Yes,P967,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Van Oord UK Ltd,Her Majesty’s Revenue and Customs (HMRC),Corporation Tax,Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Van Oord UK Ltd,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,No,Not available,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Volker Dredging Ltd,Her Majesty’s Revenue and Customs (HMRC),Corporation Tax,Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Volker Dredging Ltd,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,No,Not available,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Westminster Gravels Ltd,Her Majesty’s Revenue and Customs (HMRC),Corporation Tax,Not applicable,Not applicable,Not applicable,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31
+Westminster Gravels Ltd,The Crown Estate (TCE),Payments to the Crown Estate M&Q,Yes,No,Not available,GBP,,Not applicable,Not applicable,Not applicable,,United Kingdom,GBR,2018,2018-01-01,2018-12-31

@@ -1,0 +1,47 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+From government participation (equity) (1412E2),Mining,Dividend,Ministry of Finance,112070960.0,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+From government participation (equity) (1412E2),Oil & Gas,Dividends,Ghana Revenue Authority,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+From state-owned enterprises (1412E1),Oil & Gas,Participating Interest,Ghana Revenue Authority,754837087.47,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Ground Rent,Office of the Administrator of Stool Lands,7809541.0,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Mineral Right Licence,Minerals Commission,13933425.03,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Mineral Right Licence-ML (No Production yet),Minerals Commission,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Mineral Right Licence-ML (Production),Minerals Commission,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Mineral Right Licence-ML (Reconnaisance),Minerals Commission,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Mineral Right Licence-ML(Prospecting),Minerals Commission,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Other Fees and Licence,Minerals Commission,34132259.78,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Permit Licence,Minerals Commission,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Oil & Gas,Surface rental,Ghana Revenue Authority,723114.43,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Oil & Gas,Training/Technology,Petroleum Commission,17839287.28,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Corporate Tax,Ghana Revenue Authority,877526992.43,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Corporate Tax,Ghana Revenue Authority,686126182.24,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Mining,EPA Processing/Permit Fees,Environmental Protection Agency,9008043.0,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Mining,Transportation Revenues,Ghana Railway Authority,17864451.13,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Application For Security Clearance For Vessels,Petroleum Commission,257976.95,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Differential-Jubilee Fields,Petroleum Commission,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Drilling &Well Designation Permit (Per Well),Petroleum Commission,21565.35,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Environmental Processing /Permit fees,Environmental Protection Agency,6770800.06,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Exploration and Development Permit fees,Petroleum Commission,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Exploration and Development Renewable Permit fees(Foreign Operator),Petroleum Commission,2737860.0,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Exploration and Development Renewable Permit fees(local operator),Petroleum Commission,720060.0,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Extension of Exploration Working Periods,Petroleum Commission,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Facility Installation Charges-Storage: Foreign,Petroleum Commission,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,"Production Permit-Over 100,000 Boe",Petroleum Commission,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Registration Fee-Initial,Petroleum Commission,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Registration Fee-Renewal,Petroleum Commission,799165.48,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Mining,Mineral Royalty,Ghana Revenue Authority,662561332.64,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Oil & Gas,Gas Revenue,Ghana Revenue Authority,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Oil & Gas,Royalty,Ghana Revenue Authority,1226675724.05,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Sales of goods and services by government units (1421E),Oil & Gas,Data Licence Fees,Ghana National Petroleum Company,23128519.17,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Property rate,Amansie South District Assemly,241900.0,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Property rate,Asutifi District Assembly,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Property rate,Bibiani /Ahwiaso /Bekwai District Assembly,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Property rate,Birim North Assembly,434500.0,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Property rate,Denkyira District Assembly,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Property rate,Ellembelle,50000.0,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Property rate,"Metropolitan, Municipal and District Assemblies",,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Property rate,Mpohor Wassa East,44206.0,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Property rate,Prestea Huni Valley,126556.0,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Property rate,Sefwi District Assembly,130563.0,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Property rate,Tarkwa Nsuaem,470801.82,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Property rate,Yilo Krobo District Assembly,,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Oil & Gas,Carried Interest,Ghana Revenue Authority,1777592863.64,GHS,Ghana,GHA,2018,2018-01-01,2018-12-31

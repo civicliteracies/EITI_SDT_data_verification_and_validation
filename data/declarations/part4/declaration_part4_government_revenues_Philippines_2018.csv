@@ -1,0 +1,57 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Administrative fees for government services (1422E),Mining,Field Based Investigation Fee,National Commission on Indigenous People (NCIP),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Coal,Customs duties,Bureau of Customs (BOC),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Coal,Excise tax on imported goods,Bureau of Customs (BOC),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Coal,VAT on imported materials and equipment,Bureau of Customs (BOC),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Coal,Wharfage Fees,Philippine Ports Authority (PPA),58924153.51,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Mining,Customs duties,Bureau of Customs (BOC),186593512.0,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Mining,Excise tax on imported goods,Bureau of Customs (BOC),57045282.0,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Mining,VAT on imported materials and equipment,Bureau of Customs (BOC),2062570610.0,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Mining,Wharfage Fees,Philippine Ports Authority (PPA),219837317.53,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Oil & Gas,Customs duties,Bureau of Customs (BOC),4640306.0,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Oil & Gas,Excise tax on imported goods,Bureau of Customs (BOC),2647.0,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Oil & Gas,VAT on imported materials and equipment,Bureau of Customs (BOC),11817340.0,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Oil & Gas,Wharfage Fees,Philippine Ports Authority (PPA),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Delivered/paid directly to government (1415E31),Coal,Government share from oil and gas production,Department of Energey (DOE),3569015012.8,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Delivered/paid directly to government (1415E31),Oil & Gas,Government share from oil and gas production,Department of Energey (DOE),26007588888.81,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Excise taxes (1142E),Mining,Excise tax on minerals,Bureau of Internal Revenue (BIR),3943143290.66,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Excise taxes (1142E),Oil & Gas,Excise tax on minerals,Bureau of Internal Revenue (BIR),305765.5,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+"Extraordinary taxes on income, profits and capital gains (1112E2)",Mining,Final Withholding tax - Improperly accumulated retained earnings tax (IAET),Bureau of Internal Revenue (BIR),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+"Extraordinary taxes on income, profits and capital gains (1112E2)",Oil & Gas,Final Withholding tax - Improperly accumulated retained earnings tax (IAET),Bureau of Internal Revenue (BIR),854743894.38,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Output VAT,Bureau of Internal Revenue (BIR),6187525636.53,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Coal,Local business tax,Bureau of Local Government and Finance (BLGF),80672838.62,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Coal,Mayor's permit,Bureau of Local Government and Finance (BLGF),250000.0,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Coal,Occupation fees,Bureau of Local Government and Finance (BLGF),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Coal,"Tax on sand, gravel and other quarry resources",Bureau of Local Government and Finance (BLGF),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Local business tax,Bureau of Local Government and Finance (BLGF),513790863.57,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Mayor's permit,Bureau of Local Government and Finance (BLGF),19800703.93,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Occupation fees,Bureau of Local Government and Finance (BLGF),10368623.7,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Occupation fees,Mines and Geosciences Bureau (MGB),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,"Tax on sand, gravel and other quarry resources",Bureau of Local Government and Finance (BLGF),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Oil & Gas,Local business tax,Bureau of Local Government and Finance (BLGF),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Oil & Gas,Mayor's permit,Bureau of Local Government and Finance (BLGF),4600.0,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Oil & Gas,Occupation fees,Bureau of Local Government and Finance (BLGF),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Oil & Gas,"Tax on sand, gravel and other quarry resources",Bureau of Local Government and Finance (BLGF),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Corporate income tax,Bureau of Internal Revenue (BIR),5937202070.39,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Final Withholding tax - Foreign shareholder dividends,Bureau of Internal Revenue (BIR),168968104.51,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Final Withholding tax - Others,Bureau of Internal Revenue (BIR),288977673.79,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Final Withholding tax - Profit remittance to principal,Bureau of Internal Revenue (BIR),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Corporate income tax,Bureau of Internal Revenue (BIR),5266864759.0,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Final Withholding tax - Foreign shareholder dividends,Bureau of Internal Revenue (BIR),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Final Withholding tax - Others,Bureau of Internal Revenue (BIR),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Final Withholding tax - Profit remittance to principal,Bureau of Internal Revenue (BIR),3433279746.34,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Other rent payments (1415E5),Coal,Annual rental fees for retained area after exploration,Department of Energey (DOE),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Other rent payments (1415E5),Oil & Gas,Annual rental fees for retained area after exploration,Department of Energey (DOE),1400000.0,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Coal,Community tax,Bureau of Local Government and Finance (BLGF),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Mining,Community tax,Bureau of Local Government and Finance (BLGF),213286.28,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Community tax,Bureau of Local Government and Finance (BLGF),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Mining,Final Withholding tax - Royalties to claim owners,Bureau of Internal Revenue (BIR),262590848.65,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Mining,Royalty for Indigenous People,National Commission on Indigenous People (NCIP),58010632.42,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Mining,Royalty on mineral reservation,Mines and Geosciences Bureau (MGB),1187312323.37,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Oil & Gas,Final Withholding tax - Royalties to claim owners,Bureau of Internal Revenue (BIR),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Coal,Real property tax - Basic,Bureau of Local Government and Finance (BLGF),1072562.28,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Coal,Real property tax - Special Education Fund (SEF),Bureau of Local Government and Finance (BLGF),1072562.15,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Real property tax - Basic,Bureau of Local Government and Finance (BLGF),192860212.67,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Real property tax - Special Education Fund (SEF),Bureau of Local Government and Finance (BLGF),226272922.86,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Oil & Gas,Real property tax - Basic,Bureau of Local Government and Finance (BLGF),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Oil & Gas,Real property tax - Special Education Fund (SEF),Bureau of Local Government and Finance (BLGF),,PHP,Philippines,PHL,2018,2018-01-01,2018-12-31

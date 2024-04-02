@@ -1,0 +1,45 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Bonuses (1415E2),Oil & Gas,Bonus de signature,Direction Générale des Impôts (DGI),6038626780.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Mining,Contribution Budget Formation Mines,Direction Générale des Mines et de la Géologie (DGMG),210000000.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Mining,Versements au fonds de financement des actions de développement socio-économique local,Localité de Bondoukou,19449399.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Mining,Versements au fonds de financement des actions de développement socio-économique local,Localité de Lauzoua Divo,70479706.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Mining,Versements au fonds de financement des actions de développement socio-économique local,Localité d’Agbaou-Divo,636531600.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Mining,Versements au fonds de financement des actions de développement socio-économique local,Localité d’Hiré,501830662.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Mining,Versements au fonds de financement des actions de développement socio-économique local,Localité d’Ity-Zouhan-Hounien,220037096.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Compulsory transfers to government (infrastructure and other) (1415E4),Oil & Gas,Contribution à la formation,Direction Générale des Hydrocarbures (DGH),1311172726.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Mining,Droits de Douane et taxes assimilées,Direction Générale des Douanes (DGD),7845154830.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Mining,Pénalités DGD,Direction Générale des Douanes (DGD),156363767.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Customs and other import duties (1151E),Oil & Gas,Droits de Douane et taxes assimilées,Direction Générale des Douanes (DGD),5424097136.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Delivered/paid directly to government (1415E31),Oil & Gas,Profit Oil Etat Puissance Publique,Direction Générale des Impôts (DGI),29342953218.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Delivered/paid directly to government (1415E31),Oil & Gas,Taxe d’Exploitation Pétrolière (TEP),Direction Générale des Impôts (DGI),12575551379.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Delivered/paid to state-owned enterprise(s) (1415E32),Oil & Gas,Profit Oil et Cost Oil Etat Associé,Société Nationale d'Opérations Pétrolières de Côte d'Ivoire (PETROCI),57696675052.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Excise taxes (1142E),Mining,Droits Fixes,Direction Générale des Mines et de la Géologie (DGMG),405861935.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+From government participation (equity) (1412E2),Mining,Dividendes issus des participations de l'Etat,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),8400563354.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+From state-owned enterprises (1412E1),Oil & Gas,Dividendes issus des participations de l'Etat,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),8500000000.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Taxe sur la valeur ajoutée (TVA),Direction Générale des Impôts (DGI),497113073.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Oil & Gas,Taxe sur la valeur ajoutée (TVA),Direction Générale des Impôts (DGI),4013837195.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Droit d'option,Direction Générale des Mines et de la Géologie (DGMG),435822585.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Pénalités DGMG,Direction Générale des Mines et de la Géologie (DGMG),300000.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Redevances Superficiaires,Direction Générale des Mines et de la Géologie (DGMG),586873557.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Taxe d'extraction (d'exploitation) des carrières,Direction Générale des Mines et de la Géologie (DGMG),706777370.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Licence fees (114521E),Mining,Taxe d'inspection et de contrôle,Direction Générale des Mines et de la Géologie (DGMG),1200000.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Impôt sur le Revenu des Valeurs Mobilières (IRVM),Direction Générale des Impôts (DGI),12015355971.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Impôt sur le revenu du secteur informel - AIRSI,Direction Générale des Impôts (DGI),276429358.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Impôt sur les bénéfices Industriels et commerciaux (BIC),Direction Générale des Impôts (DGI),13810210525.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Impôts sur les Bénéfices non Commerciaux - BNC,Direction Générale des Impôts (DGI),963915612.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Acomptes Provisionnels sur BIC (AP - BIC),Direction Générale des Impôts (DGI),2233798.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Impôt sur le Revenu des Valeurs Mobilières (IRVM),Direction Générale des Impôts (DGI),1517196020.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Impôt sur le revenu du secteur informel - AIRSI,Direction Générale des Impôts (DGI),609596.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+"Ordinary taxes on income, profits and capital gains (1112E1)",Oil & Gas,Impôt sur les bénéfices Industriels et commerciaux (BIC),Direction Générale des Impôts (DGI),35000000.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Mining,Autres impôts,Direction Générale des Impôts (DGI),5575939.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Mining,Forfait de contrôle,Direction Générale des Mines et de la Géologie (DGMG),178547500.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Mining,Frais delivrances carte,Direction Générale des Mines et de la Géologie (DGMG),2410000.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Mining,Taxes forfaitaires,Direction Générale des Mines et de la Géologie (DGMG),2480000.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Other taxes payable by natural resource companies (116E),Oil & Gas,Mise à disposition des équipements par les sociétés pétrolières à la DHG,Direction Générale des Hydrocarbures (DGH),1363247334.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Mining,Taxes ad-valorem (Royalties),Direction Générale des Impôts (DGI),13827192860.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Royalties (1415E1),Mining,Taxes ad-valorem (Royalties),Direction Générale des Mines et de la Géologie (DGMG),2498076691.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Taxes on payroll and workforce (112E),Mining,Fonds de développement de la formation Professionnelle (FDFP),Direction Générale des Impôts (DGI),531718602.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Taxes on payroll and workforce (112E),Oil & Gas,Fonds de développement de la formation Professionnelle (FDFP),Direction Générale des Impôts (DGI),67852829.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Contribution des patentes,Direction Générale des Impôts (DGI),30478299.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Mining,Impôt sur le Revenu des Capitaux Mobiliers (IRC),Direction Générale des Impôts (DGI),1885385109.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31
+Taxes on property (113E),Oil & Gas,Contribution des patentes,Direction Générale des Impôts (DGI),535550225.0,XOF,Cote d'Ivoire,CIV,2018,2018-01-01,2018-12-31

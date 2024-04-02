@@ -1,0 +1,122 @@
+Company,Government entity,Revenue stream name,Levied on project (Y/N),Reported by project (Y/N),Project name,Reporting currency,Revenue value,Payment made in-kind (Y/N),In-kind volume (if applicable),Unit (if applicable),Comments,Country,ISO Code,Year,Start Date,End Date
+AFRIG SA,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+AFRIG SA,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+AFRIG SA,Direction Générale des Impôts et des Domaines (DGID),Impôt sur les sociétés,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+AFRIG SA,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+AFRIG SA,Direction des Mines et de la Géologie (DMG),Droits d'entrée/fixes,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+AFRIG SA,Direction des Mines et de la Géologie (DMG),Redevance superficiaire,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Agem Sénégal Exploration SUARL,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,2550000000.0,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Agem Sénégal Exploration SUARL,"Direction des Eaux, Forêts, Chasses et Conservation des Sols (DEFCCS)",Taxes d'abattage,Yes,No,,XOF,850000000.0,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Agem Sénégal Exploration SUARL,Direction des Mines et de la Géologie (DMG),Appui institutionnel,Yes,No,,XOF,31387.0,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Agem Sénégal Exploration SUARL,Direction des Mines et de la Géologie (DMG),Droits d'entrée/fixes,Yes,No,,XOF,205288440.0,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Agem Sénégal Exploration SUARL,Direction des Mines et de la Géologie (DMG),Redevance superficiaire,Yes,No,,XOF,64790925000.0,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+BP Senegal Investments Limited,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,Yes,GTA,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+BP Senegal Investments Limited,Société des Pétroles du Sénégal (PETROSEN),Appui à la formation et Appui à la promotion de la recherche et de l'exploitation,Yes,Yes,GTA,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+BP Senegal Investments Limited,Société des Pétroles du Sénégal (PETROSEN),Loyer superficiel,Yes,Yes,GTA,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Capricorn Senegal Limited (succursale),Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Capricorn Senegal Limited (succursale),Société des Pétroles du Sénégal (PETROSEN),Appui à la formation et Appui à la promotion de la recherche et de l'exploitation,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Capricorn Senegal Limited (succursale),Société des Pétroles du Sénégal (PETROSEN),Loyer superficiel,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Ciments du Sahel - CDS,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Ciments du Sahel - CDS,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Ciments du Sahel - CDS,Direction Générale des Impôts et des Domaines (DGID),Taxe spéciale sur le ciment,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Ciments du Sahel - CDS,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la valeur ajoutée reversée,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Ciments du Sahel - CDS,Direction de l'Environnement et des Etablissements Classés (DEEC),Taxe superficiaire,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Ciments du Sahel - CDS,Direction des Mines et de la Géologie (DMG),Redevance minière (y compris la taxe à l’extraction),Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Compagnie Générale d'Exploitation de Carrière - COGECA,Direction Générale de la Comptabilité Publique et du Trésor (DGCPT),Contribution économique locale Valeur Ajoutée (CEL-VA),No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Compagnie Générale d'Exploitation de Carrière - COGECA,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Compagnie Générale d'Exploitation de Carrière - COGECA,Direction Générale des Impôts et des Domaines (DGID),Contribution spéciale sur les produits des mines et des carrières (CSMC),No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Compagnie Générale d'Exploitation de Carrière - COGECA,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Compagnie Générale d'Exploitation de Carrière - COGECA,Direction Générale des Impôts et des Domaines (DGID),Impôt sur les sociétés,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Compagnie Générale d'Exploitation de Carrière - COGECA,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la valeur ajoutée reversée,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Compagnie Générale d'Exploitation de Carrière - COGECA,Direction de l'Environnement et des Etablissements Classés (DEEC),Taxe superficiaire,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Compagnie Générale d'Exploitation de Carrière - COGECA,Direction des Mines et de la Géologie (DMG),Redevance minière (y compris la taxe à l’extraction),Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Dangote Industries Sénégal SA,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Dangote Industries Sénégal SA,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Dangote Industries Sénégal SA,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Dangote Industries Sénégal SA,Direction Générale des Impôts et des Domaines (DGID),Taxe spéciale sur le ciment,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Dangote Industries Sénégal SA,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la valeur ajoutée reversée,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Dangote Industries Sénégal SA,Direction de l'Environnement et des Etablissements Classés (DEEC),Taxe superficiaire,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Dangote Industries Sénégal SA,Direction des Mines et de la Géologie (DMG),Redevance minière (y compris la taxe à l’extraction),Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+FORTESA (succursale),Direction Générale de la Comptabilité Publique et du Trésor (DGCPT),Revenus issus de la commercialisation de la Part de la production de l'État,Yes,No,,XOF,,Yes,1012.016,Sm3 o.e.,,Senegal,SEN,2018,2018-01-01,2018-12-31
+FORTESA (succursale),Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+FORTESA (succursale),Société des Pétroles du Sénégal (PETROSEN),Revenus issus de la commercialisation de la Part de la production de PETROSEN,Yes,No,,XOF,,Yes,603.433,Sm3 o.e.,,Senegal,SEN,2018,2018-01-01,2018-12-31
+GECAMINES SA,Direction Générale de la Comptabilité Publique et du Trésor (DGCPT),Patente,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+GECAMINES SA,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+GECAMINES SA,Direction Générale des Impôts et des Domaines (DGID),Autres flux de paiements significatifs (> 25 millions de  FCFA) (reconciliables),No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+GECAMINES SA,Direction Générale des Impôts et des Domaines (DGID),Contribution spéciale sur les produits des mines et des carrières (CSMC),No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+GECAMINES SA,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+GECAMINES SA,Direction Générale des Impôts et des Domaines (DGID),Impôt sur les sociétés,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+GECAMINES SA,Direction Générale des Impôts et des Domaines (DGID),Impôt sur les sociétés (bénéfices non pétroliers/miniers ),No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+GECAMINES SA,Direction de l'Environnement et des Etablissements Classés (DEEC),Taxe superficiaire,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+GECAMINES SA,Direction des Mines et de la Géologie (DMG),Redevance minière (y compris la taxe à l’extraction),Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Grande Côte Opérations - GCO,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Grande Côte Opérations - GCO,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Grande Côte Opérations - GCO,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Grande Côte Opérations - GCO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la valeur ajoutée reversée,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Grande Côte Opérations - GCO,Direction des Mines et de la Géologie (DMG),Appui institutionnel,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Grande Côte Opérations - GCO,Direction des Mines et de la Géologie (DMG),Redevance minière (y compris la taxe à l’extraction),Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Industries Chimiques du Sénégal - ICS,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Industries Chimiques du Sénégal - ICS,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la valeur ajoutée reversée,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Kosmos Energy Senegal,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Oranto Petroleum Limited,Société des Pétroles du Sénégal (PETROSEN),Appui à la formation et Appui à la promotion de la recherche et de l'exploitation,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Oranto Petroleum Limited,Société des Pétroles du Sénégal (PETROSEN),Loyer superficiel,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Petowal Mining Company S.A.,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Petowal Mining Company S.A.,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Petowal Mining Company S.A.,Direction de l'Environnement et des Etablissements Classés (DEEC),Taxe superficiaire,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Petowal Mining Company S.A.,Direction des Mines et de la Géologie (DMG),Appui institutionnel,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Petowal Mining Company S.A.,Direction des Mines et de la Géologie (DMG),Redevance minière (y compris la taxe à l’extraction),Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+SOCOCIM INDUSTRIES,Direction Générale de la Comptabilité Publique et du Trésor (DGCPT),Patente,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+SOCOCIM INDUSTRIES,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+SOCOCIM INDUSTRIES,Direction Générale des Impôts et des Domaines (DGID),Taxe spéciale sur le ciment,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+SOCOCIM INDUSTRIES,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la valeur ajoutée reversée,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+SOCOCIM INDUSTRIES,Direction de l'Environnement et des Etablissements Classés (DEEC),Taxe superficiaire,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+SOCOCIM INDUSTRIES,Direction des Mines et de la Géologie (DMG),Redevance minière (y compris la taxe à l’extraction),Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sabodala Gold Operations - SGO,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,Yes,Sabodala,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sabodala Gold Operations - SGO,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières,No,Yes,Sabodala,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sabodala Gold Operations - SGO,Direction Générale des Impôts et des Domaines (DGID),Impôt sur les sociétés,No,Yes,Sabodala,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sabodala Gold Operations - SGO,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la valeur ajoutée reversée,No,Yes,Sabodala,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sabodala Gold Operations - SGO,Direction de l'Environnement et des Etablissements Classés (DEEC),Taxe superficiaire,Yes,Yes,Sabodala,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sabodala Gold Operations - SGO,"Direction des Eaux, Forêts, Chasses et Conservation des Sols (DEFCCS)",Appui Institutionnel (Fonds d'appui au Mini. De l'Env),No,Yes,Sabodala,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sabodala Gold Operations - SGO,Direction des Mines et de la Géologie (DMG),Appui institutionnel,Yes,Yes,Sabodala,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sabodala Gold Operations - SGO,Direction des Mines et de la Géologie (DMG),Redevance minière (y compris la taxe à l’extraction),Yes,Yes,Sabodala,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sabodala Mining Company,"Direction des Eaux, Forêts, Chasses et Conservation des Sols (DEFCCS)",Appui Institutionnel (Fonds d'appui au Mini. De l'Env),No,Yes,Sabodala,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sabodala Mining Company,Direction des Mines et de la Géologie (DMG),Appui institutionnel,Yes,Yes,Sabodala,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sabodala Mining Company,Direction des Mines et de la Géologie (DMG),Droits d'entrée/fixes,Yes,Yes,Sabodala,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sabodala Mining Company,Direction des Mines et de la Géologie (DMG),Redevance superficiaire,Yes,Yes,Sabodala,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sephos Senegal SA,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sephos Senegal SA,Direction Générale des Impôts et des Domaines (DGID),Impôt sur les sociétés,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sephos Senegal SA,Direction Générale des Impôts et des Domaines (DGID),Redressements fiscaux,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sephos Senegal SA,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la valeur ajoutée reversée,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Sephos Senegal SA,Direction des Mines et de la Géologie (DMG),Appui institutionnel,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société Minière de la Vallée du fleuve Sénégal – SOMIVA,Direction Générale des Douanes (DGD),"Amendes, pénalités et redressements douaniers",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société Minière de la Vallée du fleuve Sénégal – SOMIVA,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société Minière de la Vallée du fleuve Sénégal – SOMIVA,Direction Générale des Impôts et des Domaines (DGID),Autres flux de paiements significatifs (> 25 millions de  FCFA) (reconciliables),No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société Minière de la Vallée du fleuve Sénégal – SOMIVA,Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société Minière de la Vallée du fleuve Sénégal – SOMIVA,Direction de l'Environnement et des Etablissements Classés (DEEC),Taxe superficiaire,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société Minière de la Vallée du fleuve Sénégal – SOMIVA,Direction des Mines et de la Géologie (DMG),Redevance minière (y compris la taxe à l’extraction),Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société Sénégalaise des Phosphates de Thiès - SSPT,Direction Générale des Impôts et des Domaines (DGID),Impôt sur les sociétés,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société Sénégalaise des Phosphates de Thiès - SSPT,Direction Générale des Impôts et des Domaines (DGID),Taxe sur la valeur ajoutée reversée,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société Sénégalaise des Phosphates de Thiès - SSPT,Direction de l'Environnement et des Etablissements Classés (DEEC),Taxe superficiaire,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société Sénégalaise des Phosphates de Thiès - SSPT,"Direction des Eaux, Forêts, Chasses et Conservation des Sols (DEFCCS)",Appui Institutionnel (Fonds d'appui au Mini. De l'Env),No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société Sénégalaise des Phosphates de Thiès - SSPT,Direction des Mines et de la Géologie (DMG),Appui institutionnel,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société Sénégalaise des Phosphates de Thiès - SSPT,Direction des Mines et de la Géologie (DMG),Droits d'entrée/fixes,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société Sénégalaise des Phosphates de Thiès - SSPT,Direction des Mines et de la Géologie (DMG),Redevance minière (y compris la taxe à l’extraction),Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société Sénégalaise des Phosphates de Thiès - SSPT,Direction des Mines et de la Géologie (DMG),Redevance superficiaire,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société des pétroles du Sénégal (PETROSEN.SA),Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société des pétroles du Sénégal (PETROSEN.SA),Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société des pétroles du Sénégal (PETROSEN.SA),Direction Générale des Impôts et des Domaines (DGID),Impôt sur les sociétés,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Société des pétroles du Sénégal (PETROSEN.SA),Direction Générale des Impôts et des Domaines (DGID),Taxe sur la valeur ajoutée reversée,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+"Société pour le Développement de l'Industrie, du Tourisme et de l'Habitat au Sénégal - SODEVIT",Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+"Société pour le Développement de l'Industrie, du Tourisme et de l'Habitat au Sénégal - SODEVIT",Direction Générale des Impôts et des Domaines (DGID),Autres flux de paiements significatifs (> 25 millions de  FCFA) (reconciliables),No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+"Société pour le Développement de l'Industrie, du Tourisme et de l'Habitat au Sénégal - SODEVIT",Direction Générale des Impôts et des Domaines (DGID),Contribution spéciale sur les produits des mines et des carrières (CSMC),No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+"Société pour le Développement de l'Industrie, du Tourisme et de l'Habitat au Sénégal - SODEVIT",Direction Générale des Impôts et des Domaines (DGID),Impôt sur le revenu des valeurs mobilières,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+"Société pour le Développement de l'Industrie, du Tourisme et de l'Habitat au Sénégal - SODEVIT",Direction Générale des Impôts et des Domaines (DGID),Impôt sur les sociétés,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+"Société pour le Développement de l'Industrie, du Tourisme et de l'Habitat au Sénégal - SODEVIT",Direction Générale des Impôts et des Domaines (DGID),Taxe sur la valeur ajoutée reversée,No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+"Société pour le Développement de l'Industrie, du Tourisme et de l'Habitat au Sénégal - SODEVIT",Direction de l'Environnement et des Etablissements Classés (DEEC),Taxe superficiaire,Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+"Société pour le Développement de l'Industrie, du Tourisme et de l'Habitat au Sénégal - SODEVIT","Direction des Eaux, Forêts, Chasses et Conservation des Sols (DEFCCS)",Appui Institutionnel (Fonds d'appui au Mini. De l'Env),No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+"Société pour le Développement de l'Industrie, du Tourisme et de l'Habitat au Sénégal - SODEVIT",Direction des Mines et de la Géologie (DMG),Redevance minière (y compris la taxe à l’extraction),Yes,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Total E&P Senegal,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,No,,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Total E&P Senegal,Société des Pétroles du Sénégal (PETROSEN),Appui à l'équipement,Yes,Yes,ROP,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Total E&P Senegal,Société des Pétroles du Sénégal (PETROSEN),Appui à la formation et Appui à la promotion de la recherche et de l'exploitation,Yes,Yes,ROP,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+Total E&P Senegal,Société des Pétroles du Sénégal (PETROSEN),Loyer superficiel,Yes,Yes,ROP,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31
+WOODSIDE ENERGY,Direction Générale des Douanes (DGD),"Droits de douane, TVA douanière et taxes assimilées",No,Yes,Sangomar,XOF,,No,Not applicable,,,Senegal,SEN,2018,2018-01-01,2018-12-31

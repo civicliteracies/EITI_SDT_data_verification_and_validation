@@ -1,0 +1,14 @@
+GFS Classification,Sector,Revenue stream name,Government entity,Revenue value,Currency,Country,ISO Code,Year,Start Date,End Date
+Excise taxes (1142E),Mining,Excise Tax,Ethiopian Revenues and Customs Authority (ERCA),1058763.0,ETB,Ethiopia,ETH,2017,2016-07-08,2017-07-07
+"Fines, penalties, and forfeits (143E)",Mining,Penalities,Ethiopian Revenues and Customs Authority (ERCA),2642812.0,ETB,Ethiopia,ETH,2017,2016-07-08,2017-07-07
+"General taxes on goods and services (VAT, sales tax, turnover tax) (1141E)",Mining,Value Add Tax (VAT),Ethiopian Revenues and Customs Authority (ERCA),885615684.0,ETB,Ethiopia,ETH,2017,2016-07-08,2017-07-07
+Licence fees (114521E),Mining,Licence Fees,Ministry of Mines and Petroleum (MoMP),484185.0,ETB,Ethiopia,ETH,2017,2016-07-08,2017-07-07
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Capital gains,Ethiopian Revenues and Customs Authority (ERCA),26413074.0,ETB,Ethiopia,ETH,2017,2016-07-08,2017-07-07
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Income tax : Schedule C (Mining),Ethiopian Revenues and Customs Authority (ERCA),405647840.0,ETB,Ethiopia,ETH,2017,2016-07-08,2017-07-07
+"Ordinary taxes on income, profits and capital gains (1112E1)",Mining,Income tax : Schedule C (Normal),Ethiopian Revenues and Customs Authority (ERCA),231376950.0,ETB,Ethiopia,ETH,2017,2016-07-08,2017-07-07
+Other rent payments (1415E5),Mining,Land Rentals,Ministry of Mines and Petroleum (MoMP),23807407.0,ETB,Ethiopia,ETH,2017,2016-07-08,2017-07-07
+Other rent payments (1415E5),Mining,Other material payments,Ministry of Mines and Petroleum (MoMP),12471505.0,ETB,Ethiopia,ETH,2017,2016-07-08,2017-07-07
+Other rent payments (1415E5),Oil & Gas,Training Fees,Ministry of Mines and Petroleum (MoMP),13315985.0,ETB,Ethiopia,ETH,2017,2016-07-08,2017-07-07
+Other taxes payable by natural resource companies (116E),Mining,Dividend Tax,Ethiopian Revenues and Customs Authority (ERCA),141925952.0,ETB,Ethiopia,ETH,2017,2016-07-08,2017-07-07
+Other taxes payable by natural resource companies (116E),Mining,Other material payments,Ethiopian Revenues and Customs Authority (ERCA),670829.0,ETB,Ethiopia,ETH,2017,2016-07-08,2017-07-07
+Royalties (1415E1),Mining,Mining royalties,Ministry of Mines and Petroleum (MoMP),158708209.0,ETB,Ethiopia,ETH,2017,2016-07-08,2017-07-07

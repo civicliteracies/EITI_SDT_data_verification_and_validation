@@ -1,0 +1,140 @@
+Company,Government entity,Revenue stream name,Levied on project (Y/N),Reported by project (Y/N),Project name,Reporting currency,Revenue value,Payment made in-kind (Y/N),In-kind volume (if applicable),Unit (if applicable),Comments,Country,ISO Code,Year,Start Date,End Date
+APCC,Caisse Nationale de Prévoyance Sociale (CNPS),Cotisations à la charge de l’employeur,,,,XAF,656255679.94,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCC,Direction Générale des Douanes (DGD),Droits de Douane,,,,XAF,33669036.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCC,Direction Générale des Douanes (DGD),Redressements Douaniers/amendes et pénalités,,,,XAF,1515161.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCC,Direction Générale des Impôts (DGI),Contributions CFC (part patronale),,,,XAF,14183105.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCC,Direction Générale des Impôts (DGI),Contributions FNE,,,,XAF,30403595.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCC,Direction Générale des Impôts (DGI),Impôts sur les sociétés y compris les acomptes (pétrolier et non pétrolier),,,,XAF,469080600.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCC,Direction Générale des Impôts (DGI),Redevance Superficiaire,,,,XAF,753673814.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCC,Direction Générale des Impôts (DGI),Taxe Spéciale sur les Revenus (TSR),,,,XAF,182485237.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCC,Société Nationale des Hydrocarbures (SNH),Dividendes Filiales SNH,,,,XAF,227687038.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCC,Société Nationale des Hydrocarbures (SNH),Parts d'huile de la SNH-Etat (Petrole),,,,XAF,156363767.0,Yes,4116380,Barrels,The value of this  in-kind payment form part of the following revenue streams: Transferts directs au Trésor Public par la  SNH and Transferts indirects au Trésor Public (Interventions directes SNH).,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCC,Société Nationale des Hydrocarbures (SNH),Redevance Minière Négative ( à mettre en signe - ),,,,XAF,944411783.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCC,Société Nationale des Hydrocarbures (SNH),Redevance Minière Proportionnelle,,,,XAF,22096.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCL,Caisse Nationale de Prévoyance Sociale (CNPS),Cotisations à la charge de l’employeur,,,,XAF,20750000.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCL,Direction Générale des Douanes (DGD),Droits de Douane,,,,XAF,11205.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCL,Direction Générale des Douanes (DGD),Redressements Douaniers/amendes et pénalités,,,,XAF,2336123.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCL,Direction Générale des Impôts (DGI),Contributions CFC (part patronale),,,,XAF,8726161.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCL,Direction Générale des Impôts (DGI),Contributions FNE,,,,XAF,34132.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCL,Direction Générale des Impôts (DGI),Droits Fixes (y compris droits pour attribution ou renouvellement de permis),,,,XAF,4244835929.63,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCL,Direction Générale des Impôts (DGI),Impôts sur les sociétés y compris les acomptes (pétrolier et non pétrolier),,,,XAF,5546183030.17,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCL,Direction Générale des Impôts (DGI),Redevance Superficiaire,,,,XAF,5691703497.94,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCL,Direction Générale des Impôts (DGI),Redressements fiscaux/amendes et pénalités,,,,XAF,5354849661.53,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCL,Direction Générale des Impôts (DGI),Taxe Spéciale sur les Revenus (TSR),,,,XAF,2062570610.0,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCL,Société Nationale des Hydrocarbures (SNH),Frais de Formation,,,,XAF,219837317.53,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+APCL,Société Nationale des Hydrocarbures (SNH),Parts d'huile de la SNH-Etat (Petrole),,,,XAF,162000.0,Yes,1139511,Barrels,The value of this  in-kind payment form part of the following revenue streams: Transferts directs au Trésor Public par la  SNH and Transferts indirects au Trésor Public (Interventions directes SNH).,Cameroon,CMR,2017,2017-01-01,2017-12-31
+Autres (Secteur artisanal),CAPAM,Prélèvement d'Or,,,,XAF,,Yes,0.1231,Tonnes,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+CAMINEX S.A,Caisse Nationale de Prévoyance Sociale (CNPS),Cotisations à la charge de l’employeur,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+CAMINEX S.A,Direction Générale des Douanes (DGD),Droits de Douane,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+CAMINEX S.A,Direction Générale des Impôts (DGI),Contributions CFC (part patronale),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+CAMINEX S.A,Direction Générale des Impôts (DGI),Contributions FNE,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+CAMINEX S.A,Direction Générale des Impôts (DGI),Impôt sur le Revenu des Capitaux mobiliers (IRCM),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+CAMINEX S.A,Direction Générale des Impôts (DGI),Impôts sur les sociétés y compris les acomptes (pétrolier et non pétrolier),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+CAMINEX S.A,Direction Générale des Impôts (DGI),Redevance Superficiaire,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+CIMENCAM,Caisse Nationale de Prévoyance Sociale (CNPS),Cotisations à la charge de l’employeur,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+CIMENCAM,Direction Générale des Impôts (DGI),Redevance Superficiaire,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+CIMENCAM,Direction Générale des Impôts (DGI),Taxes à l'extraction,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+CIMENCAM,Société Nationale d’Investissement du Cameroun (SNI),Dividendes versées à la SNI,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+COTCO,Caisse Nationale de Prévoyance Sociale (CNPS),Cotisations à la charge de l’employeur,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+COTCO,Direction Générale des Douanes (DGD),Droits de Douane,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+COTCO,Direction Générale des Douanes (DGD),Droits de passage du pipeline (COTCO),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+COTCO,Direction Générale des Douanes (DGD),Redressements Douaniers/amendes et pénalités,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+COTCO,Direction Générale des Impôts (DGI),Contributions CFC (part patronale),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+COTCO,Direction Générale des Impôts (DGI),Contributions FNE,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+COTCO,Direction Générale des Impôts (DGI),Impôt sur le Revenu des Capitaux mobiliers (IRCM),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+COTCO,Direction Générale des Impôts (DGI),Impôts sur les sociétés y compris les acomptes (pétrolier et non pétrolier),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+COTCO,Direction Générale des Impôts (DGI),Taxe Spéciale sur les Revenus (TSR),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+COTCO,Ministère en charge des mines,Frais d’inspection et de contrôle,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+COTCO,Société Nationale des Hydrocarbures (SNH),Dividendes Filiales SNH,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+DANGOTE CEMENT CAM.SA,Direction Générale des Impôts (DGI),Redevance Superficiaire,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+DANGOTE CEMENT CAM.SA,Direction Générale des Impôts (DGI),Taxes à l'extraction,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+EUROIL,Caisse Nationale de Prévoyance Sociale (CNPS),Cotisations à la charge de l’employeur,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+EUROIL,Direction Générale des Douanes (DGD),Droits de Douane,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+EUROIL,Direction Générale des Douanes (DGD),Redressements Douaniers/amendes et pénalités,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+EUROIL,Direction Générale des Impôts (DGI),Contributions CFC (part patronale),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+EUROIL,Direction Générale des Impôts (DGI),Contributions FNE,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+EUROIL,Direction Générale des Impôts (DGI),Droits Fixes (y compris droits pour attribution ou renouvellement de permis),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+EUROIL,Direction Générale des Impôts (DGI),Impôt sur le Revenu des Capitaux mobiliers (IRCM),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+EUROIL,Direction Générale des Impôts (DGI),Redevance Superficiaire,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+EUROIL,Direction Générale des Impôts (DGI),Redressements fiscaux/amendes et pénalités,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+EUROIL,Société Nationale des Hydrocarbures (SNH),Frais de Formation,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GDC,Caisse Nationale de Prévoyance Sociale (CNPS),Cotisations à la charge de l’employeur,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GDC,Direction Générale des Douanes (DGD),Droits de Douane,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GDC,Direction Générale des Impôts (DGI),Contributions CFC (part patronale),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GDC,Direction Générale des Impôts (DGI),Contributions FNE,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GDC,Direction Générale des Impôts (DGI),Impôts sur les sociétés y compris les acomptes (pétrolier et non pétrolier),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GDC,Direction Générale des Impôts (DGI),Redevance Superficiaire,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GDC,Direction Générale des Impôts (DGI),Redressements fiscaux/amendes et pénalités,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GDC,Direction Générale des Impôts (DGI),Taxe Spéciale sur les Revenus (TSR),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GDC,Ministère en charge des mines,Frais d’inspection et de contrôle,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GDC,Société Nationale des Hydrocarbures (SNH),Frais de Formation,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GLENCORE EXPLORATION LTD,Caisse Nationale de Prévoyance Sociale (CNPS),Cotisations à la charge de l’employeur,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GLENCORE EXPLORATION LTD,Direction Générale des Douanes (DGD),Droits de Douane,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GLENCORE EXPLORATION LTD,Direction Générale des Impôts (DGI),Contributions CFC (part patronale),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GLENCORE EXPLORATION LTD,Direction Générale des Impôts (DGI),Contributions FNE,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GLENCORE EXPLORATION LTD,Direction Générale des Impôts (DGI),Redevance Superficiaire,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GLENCORE EXPLORATION LTD,Direction Générale des Impôts (DGI),Taxe Spéciale sur les Revenus (TSR),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GLENCORE EXPLORATION LTD,Société Nationale des Hydrocarbures (SNH),Frais de Formation,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GRACAM,Caisse Nationale de Prévoyance Sociale (CNPS),Cotisations à la charge de l’employeur,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GRACAM,Direction Générale des Douanes (DGD),Droits de Douane,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GRACAM,Direction Générale des Douanes (DGD),Redressements Douaniers/amendes et pénalités,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GRACAM,Direction Générale des Impôts (DGI),Droits Fixes (y compris droits pour attribution ou renouvellement de permis),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GRACAM,Direction Générale des Impôts (DGI),Impôts sur les sociétés y compris les acomptes (pétrolier et non pétrolier),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GRACAM,Direction Générale des Impôts (DGI),Redevance Superficiaire,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+GRACAM,Direction Générale des Impôts (DGI),Taxes à l'extraction,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NEW AGE,Direction Générale des Douanes (DGD),Droits de Douane,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NEW AGE,Direction Générale des Impôts (DGI),Contributions CFC (part patronale),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NEW AGE,Direction Générale des Impôts (DGI),Contributions FNE,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NEW AGE,Direction Générale des Impôts (DGI),Droits Fixes (y compris droits pour attribution ou renouvellement de permis),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NEW AGE,Direction Générale des Impôts (DGI),Impôt sur le Revenu des Capitaux mobiliers (IRCM),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NEW AGE,Direction Générale des Impôts (DGI),Redevance Superficiaire,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NEW AGE,Direction Générale des Impôts (DGI),Taxe Spéciale sur les Revenus (TSR),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NEW AGE,Société Nationale des Hydrocarbures (SNH),Frais de Formation,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NOBLE ENERGY CAM LIMITED,Caisse Nationale de Prévoyance Sociale (CNPS),Cotisations à la charge de l’employeur,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NOBLE ENERGY CAM LIMITED,Direction Générale des Douanes (DGD),Droits de Douane,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NOBLE ENERGY CAM LIMITED,Direction Générale des Impôts (DGI),Contributions CFC (part patronale),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NOBLE ENERGY CAM LIMITED,Direction Générale des Impôts (DGI),Contributions FNE,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NOBLE ENERGY CAM LIMITED,Direction Générale des Impôts (DGI),Redevance Superficiaire,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NOBLE ENERGY CAM LIMITED,Société Nationale des Hydrocarbures (SNH),Bonus de signature,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+NOBLE ENERGY CAM LIMITED,Société Nationale des Hydrocarbures (SNH),Frais de Formation,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO CAM,Caisse Nationale de Prévoyance Sociale (CNPS),Cotisations à la charge de l’employeur,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO CAM,Direction Générale des Douanes (DGD),Droits de Douane,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO CAM,Direction Générale des Douanes (DGD),Redressements Douaniers/amendes et pénalités,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO CAM,Direction Générale des Impôts (DGI),Droits Fixes (y compris droits pour attribution ou renouvellement de permis),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO CAM,Direction Générale des Impôts (DGI),Impôt sur le Revenu des Capitaux mobiliers (IRCM),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO CAM,Direction Générale des Impôts (DGI),Impôts sur les sociétés y compris les acomptes (pétrolier et non pétrolier),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO CAM,Direction Générale des Impôts (DGI),Redevance Superficiaire,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO CAM,Direction Générale des Impôts (DGI),Taxe Spéciale sur les Revenus (TSR),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO CAM,Société Nationale des Hydrocarbures (SNH),Parts d'huile de la SNH-Etat (Condensat),,,,XAF,,Yes,42915,Barrels,The value of this  in-kind payment form part of the following revenue streams: Transferts directs au Trésor Public par la  SNH and Transferts indirects au Trésor Public (Interventions directes SNH).,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO CAM,Société Nationale des Hydrocarbures (SNH),Parts d'huile de la SNH-Etat (Gaz),,,,XAF,,Yes,2871939,MSCF,The value of this  in-kind payment form part of the following revenue streams: Transferts directs au Trésor Public par la  SNH and Transferts indirects au Trésor Public (Interventions directes SNH).,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO CAM,Société Nationale des Hydrocarbures (SNH),Parts d'huile de la SNH-Etat (Petrole),,,,XAF,,Yes,611848,Barrels,The value of this  in-kind payment form part of the following revenue streams: Transferts directs au Trésor Public par la  SNH and Transferts indirects au Trésor Public (Interventions directes SNH).,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO CAM,Société Nationale des Hydrocarbures (SNH),Redevance Proportionnelle à la Production,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO RDR,Caisse Nationale de Prévoyance Sociale (CNPS),Cotisations à la charge de l’employeur,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO RDR,Direction Générale des Douanes (DGD),Droits de Douane,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO RDR,Direction Générale des Douanes (DGD),Redressements Douaniers/amendes et pénalités,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO RDR,Direction Générale des Impôts (DGI),Contributions CFC (part patronale),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO RDR,Direction Générale des Impôts (DGI),Contributions FNE,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO RDR,Direction Générale des Impôts (DGI),Impôts sur les sociétés y compris les acomptes (pétrolier et non pétrolier),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO RDR,Direction Générale des Impôts (DGI),Redevance Superficiaire,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO RDR,Direction Générale des Impôts (DGI),Taxe Spéciale sur les Revenus (TSR),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO RDR,Société Nationale des Hydrocarbures (SNH),Dividendes Filiales SNH,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO RDR,Société Nationale des Hydrocarbures (SNH),Parts d'huile de la SNH-Etat (Petrole),,,,XAF,,Yes,9935156,Barrels,The value of this  in-kind payment form part of the following revenue streams: Transferts directs au Trésor Public par la  SNH and Transferts indirects au Trésor Public (Interventions directes SNH).,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO RDR,Société Nationale des Hydrocarbures (SNH),Redevance Minière Négative ( à mettre en signe - ),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+PERENCO RDR,Société Nationale des Hydrocarbures (SNH),Redevance Minière Proportionnelle,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+RAZEL,Direction Générale des Impôts (DGI),Redevance Superficiaire,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+RAZEL,Direction Générale des Impôts (DGI),Taxes à l'extraction,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+SNH,Caisse Nationale de Prévoyance Sociale (CNPS),Cotisations à la charge de l’employeur,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+SNH,Direction Générale des Douanes (DGD),Droits de Douane,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+SNH,Direction Générale des Impôts (DGI),Contributions CFC (part patronale),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+SNH,Direction Générale des Impôts (DGI),Contributions FNE,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+SNH,Direction Générale des Impôts (DGI),Impôt sur le Revenu des Capitaux mobiliers (IRCM),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+SNH,Direction Générale des Impôts (DGI),Impôts sur les sociétés y compris les acomptes (pétrolier et non pétrolier),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+SNH,Direction Générale des Impôts (DGI),Taxe Spéciale sur les Revenus (TSR),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+SNH,"Direction Générale du Trésor, de la Coopération Financière et Monétaire (DGTCFM)",Dividendes SNH,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+SNH,"Direction Générale du Trésor, de la Coopération Financière et Monétaire (DGTCFM)",Transferts directs au Trésor Public par la  SNH,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+SNH,"Direction Générale du Trésor, de la Coopération Financière et Monétaire (DGTCFM)",Transferts indirects au Trésor Public (Interventions directes SNH),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+SNH,Société Nationale des Hydrocarbures (SNH),Parts d'huile de la SNH-Etat (Petrole),,,,XAF,,Yes,960,Barrels,The value of this  in-kind payment form part of the following revenue streams: Transferts directs au Trésor Public par la  SNH and Transferts indirects au Trésor Public (Interventions directes SNH).,Cameroon,CMR,2017,2017-01-01,2017-12-31
+TOWER RESOURCES,Caisse Nationale de Prévoyance Sociale (CNPS),Cotisations à la charge de l’employeur,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+TOWER RESOURCES,Direction Générale des Impôts (DGI),Contributions CFC (part patronale),,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+TOWER RESOURCES,Direction Générale des Impôts (DGI),Contributions FNE,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31
+TOWER RESOURCES,Société Nationale des Hydrocarbures (SNH),Bonus de signature,,,,XAF,,,,,,Cameroon,CMR,2017,2017-01-01,2017-12-31

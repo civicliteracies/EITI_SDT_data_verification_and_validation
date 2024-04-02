@@ -1,0 +1,793 @@
+Company,Government entity,Revenue stream name,Levied on project (Y/N),Reported by project (Y/N),Project name,Reporting currency,Revenue value,Payment made in-kind (Y/N),In-kind volume (if applicable),Unit (if applicable),Comments,Country,ISO Code,Year,Start Date,End Date
+A & B Global Service Ltd,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,327.28,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+A & B Global Service Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+A & B Global Service Ltd,Federal Inland Revenue Service,Others,Yes,No,,USD,142040.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+A & B Global Service Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,407350.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+A & B Global Service Ltd,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,377249.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+A & B Global Service Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,4053388.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+A & B Global Service Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,2392.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Development Nigeria Limited(APDNL),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,1179400.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Development Nigeria Limited(APDNL),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,5780000.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Development Nigeria Limited(APDNL),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,4189.17,Yes,535119,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Development Nigeria Limited(APDNL),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,800000.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Development Nigeria Limited(APDNL),Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,1080.02,Yes,2554144,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Development Nigeria Limited(APDNL),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,2000000.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Development Nigeria Limited(APDNL),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Development Nigeria Limited(APDNL),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,597340.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Exploration Nigeria Limited (APENL),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Exploration Nigeria Limited (APENL),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Exploration Nigeria Limited (APENL),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Exploration Nigeria Limited (APENL),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Exploration Nigeria Limited (APENL),Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Exploration Nigeria Limited (APENL),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Exploration Nigeria Limited (APENL),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,1111763.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ADDAX Petroleum Exploration Nigeria Limited (APENL),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,93750.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+AITEO Eastern Exploration & Production Company Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,1616615353.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+AITEO Eastern Exploration & Production Company Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,100000.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+AITEO Eastern Exploration & Production Company Limited,Department of Petroleum Resources,Signature Bonus,Yes,No,,USD,6300000.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+AITEO Eastern Exploration & Production Company Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,19330000.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+AITEO Eastern Exploration & Production Company Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,19449399.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+AITEO Eastern Exploration & Production Company Limited,Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,70479706.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Agip Exloration Natural Resources (AENR),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,799331.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Agip Exloration Natural Resources (AENR),Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,35546481.0,Yes,1630,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Agip Exloration Natural Resources (AENR),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,6187525636.53,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Agip Exloration Natural Resources (AENR),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,-89215058751.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Agip Exloration Natural Resources (AENR),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,-72126211634.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Agip Exloration Natural Resources (AENR),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,-82651528585.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Agip Exloration Natural Resources (AENR),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,12262527472.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Amni International Petroleum Development Company Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Amni International Petroleum Development Company Limited,Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,34438339.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Amni International Petroleum Development Company Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Amni International Petroleum Development Company Limited,Department of Petroleum Resources,Signature Bonus,Yes,No,,USD,189783.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Amni International Petroleum Development Company Limited,Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,337896000.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Amni International Petroleum Development Company Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,498167552.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Amni International Petroleum Development Company Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,655425859.0,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Amni International Petroleum Development Company Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,1072562.28,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Arab Constractors Ltd,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Arab Constractors Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Arab Constractors Ltd,Federal Inland Revenue Service,Others,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Arab Constractors Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Arab Constractors Ltd,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Arab Constractors Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Arab Constractors Ltd,Mining Cadastral Office,Penalty fee for late renewal of mining titles (application),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Arab Constractors Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Arab Constractors Ltd,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Arab Constractors Ltd,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Arab Constractors Ltd,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Arab Constractors Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Ashphalt Unity Const. Ltd,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Ashphalt Unity Const. Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Ashphalt Unity Const. Ltd,Federal Inland Revenue Service,Others,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Ashphalt Unity Const. Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Ashphalt Unity Const. Ltd,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Ashphalt Unity Const. Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Ashphalt Unity Const. Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Ashphalt Unity Const. Ltd,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Ashphalt Unity Const. Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Ashphalt Unity Const. Ltd,,,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Ashphalt Unity Const. Ltd,,,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Astro Mineral Nigeria Limited,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Astro Mineral Nigeria Limited,Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Astro Mineral Nigeria Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Astro Mineral Nigeria Limited,Mining Inspectorate Division,Permit to export minerals for commercial purposes,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Astro Mineral Nigeria Limited,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Atlas Petroleum International Limited,Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Atlas Petroleum International Limited,Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Atlas Petroleum International Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Atlas Petroleum International Limited,Department of Petroleum Resources,Signature Bonus,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Atlas Petroleum International Limited,Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Atlas Petroleum International Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Atlas Petroleum International Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+BUA International Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+BUA International Ltd,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+BUA International Ltd,Mining Cadastral Office,Application for relinquishment of mining title fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+BUA International Ltd,Mining Cadastral Office,Application for transfer mining titles fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+BUA International Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+BUA International Ltd,Mining Cadastral Office,Mining titles(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+BUA International Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+BUA International Ltd,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+BUA International Ltd,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+BUA International Ltd,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+BUA International Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Belema Oil Producing Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Belema Oil Producing Limited,Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Belema Oil Producing Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Belema Oil Producing Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Belema Oil Producing Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Belema Oil Producing Limited,Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Brasoil Oil Services Company Nigeria Limited (Brasoil),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Brasoil Oil Services Company Nigeria Limited (Brasoil),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Brasoil Oil Services Company Nigeria Limited (Brasoil),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Brasoil Oil Services Company Nigeria Limited (Brasoil),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Brittania-U Nigeria Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Brittania-U Nigeria Limited,Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Brittania-U Nigeria Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Brittania-U Nigeria Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Brittania-U Nigeria Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+C.G.C Nigeria Ltd,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+C.G.C Nigeria Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+C.G.C Nigeria Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+C.G.C Nigeria Ltd,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+C.G.C Nigeria Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+C.G.C Nigeria Ltd,Mining Cadastral Office,Mining titles(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+C.G.C Nigeria Ltd,Mining Cadastral Office,Penalty fee for late renewal of mining titles (application),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+C.G.C Nigeria Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+C.G.C Nigeria Ltd,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+C.G.C Nigeria Ltd,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+C.G.C Nigeria Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCECC Nigeria Limited,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCECC Nigeria Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCECC Nigeria Limited,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCECC Nigeria Limited,Mining Cadastral Office,Mining title(s) fee for processing of renewal application,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCECC Nigeria Limited,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCECC Nigeria Limited,Mining Cadastral Office,Mining titles(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCECC Nigeria Limited,Mining Cadastral Office,Penalty fee for late renewal of mining titles (application),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCECC Nigeria Limited,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCECC Nigeria Limited,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCECC Nigeria Limited,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCECC Nigeria Limited,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCNN,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCNN,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCNN,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCNN,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCNN,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCNN,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCNN,Mining Inspectorate Division,Others Fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CCNN,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CLC Technical Ltd,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CLC Technical Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CLC Technical Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CLC Technical Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CLC Technical Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CLC Technical Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Engeering Company Limited,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Engeering Company Limited,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Engeering Company Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Engeering Company Limited,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Engeering Company Limited,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Engeering Company Limited,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Engeering Company Limited,Mining Inspectorate Division,Others Fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Engeering Company Limited,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Engeering Company Limited,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Mining Company Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Mining Company Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Mining Company Ltd,Mining Inspectorate Division,Others Fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Mining Company Ltd,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Mining Company Ltd,Mining Inspectorate Division,Permit to posses and purchase minerals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+CNC Mining Company Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Chevron Nigeria Limited (CNL),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Chevron Nigeria Limited (CNL),Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Chevron Nigeria Limited (CNL),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Chevron Nigeria Limited (CNL),Department of Petroleum Resources,Royalty Gas,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Chevron Nigeria Limited (CNL),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Chevron Nigeria Limited (CNL),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Chevron Nigeria Limited (CNL),Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Chevron Nigeria Limited (CNL),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Chevron Nigeria Limited (CNL),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Chevron Nigeria Limited (CNL),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Coltan Minerals Nig Ltd,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Coltan Minerals Nig Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Coltan Minerals Nig Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Coltan Minerals Nig Ltd,Mining Inspectorate Division,Permit to export minerals for commercial purposes,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Coltan Minerals Nig Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Conoil Producing Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Conoil Producing Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Conoil Producing Limited,Department of Petroleum Resources,Signature Bonus,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Conoil Producing Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Conoil Producing Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Conrok Nigeria Limited,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Conrok Nigeria Limited,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Conrok Nigeria Limited,Federal Inland Revenue Service,Others,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Conrok Nigeria Limited,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Conrok Nigeria Limited,Mining Inspectorate Division,Detonator Magazine Licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Conrok Nigeria Limited,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Conrok Nigeria Limited,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Conrok Nigeria Limited,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Continental Oil and Gas Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Continental Oil and Gas Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Crushed Rock Industries (Nig) Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Crushed Rock Industries (Nig) Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Crushed Rock Industries (Nig) Ltd,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Crushed Rock Industries (Nig) Ltd,Mining Cadastral Office,Mining title(s) fee for processing of renewal application,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Crushed Rock Industries (Nig) Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Crushed Rock Industries (Nig) Ltd,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Crushed Rock Industries (Nig) Ltd,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Crushed Rock Industries (Nig) Ltd,Mining Inspectorate Division,Permit to erect a magazine,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Crushed Rock Industries (Nig) Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dangote Cement Nigeria Limited,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dangote Cement Nigeria Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dangote Cement Nigeria Limited,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dangote Cement Nigeria Limited,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dangote Cement Nigeria Limited,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dangote Cement Nigeria Limited,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dangote Cement Nigeria Limited,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dangote Cement Nigeria Limited,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dangote Cement Nigeria Limited,Mining Inspectorate Division,Permit to posses and purchase minerals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dangote Cement Nigeria Limited,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dantata & Sawoa Nig. Ltd.,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dantata & Sawoa Nig. Ltd.,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dantata & Sawoa Nig. Ltd.,Mining Cadastral Office,Mining title(s) fee for processing of renewal application,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dantata & Sawoa Nig. Ltd.,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dantata & Sawoa Nig. Ltd.,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dubri Oil Company Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dubri Oil Company Limited,Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dubri Oil Company Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dubri Oil Company Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dubri Oil Company Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Dubri Oil Company Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+E.B.H Granite Ltd,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+E.B.H Granite Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+E.B.H Granite Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+E.B.H Granite Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+E.B.H Granite Ltd,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+E.B.H Granite Ltd,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+E.B.H Granite Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria (Deepwater) Limited (Esso others),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria (Deepwater) Limited (Esso others),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria (Deepwater) Limited (Esso others),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria (Deepwater) Limited (Esso others),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria (Offshore East) Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria (Offshore East) Limited,Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria (Offshore East) Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,Yes,535119,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria (Offshore East) Limited,Department of Petroleum Resources,Signature Bonus,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria (Offshore East) Limited,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria (Offshore East) Limited,Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria (Offshore East) Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria (Offshore East) Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria (Offshore East) Limited,Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria Limited (Erha)/(EEPNL),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria Limited (Erha)/(EEPNL),Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,Yes,600,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria Limited (Erha)/(EEPNL),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,Yes,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria Limited (Erha)/(EEPNL),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,Yes,800000,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria Limited (Erha)/(EEPNL),Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria Limited (Erha)/(EEPNL),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria Limited (Erha)/(EEPNL),Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,Yes,15767127,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria Limited (Erha)/(EEPNL),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria Limited (Erha)/(EEPNL),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ESSO Exploration and Production Nigeria Limited (Erha)/(EEPNL),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Energia Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Energia Limited,Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Energia Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Energia Limited,Department of Petroleum Resources,Signature Bonus,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Energia Limited,Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Energia Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Energia Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Energia Limited,Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Equinor Nigeria Energy Company Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Equinor Nigeria Energy Company Limited,Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,Yes,600,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Equinor Nigeria Energy Company Limited,Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Equinor Nigeria Energy Company Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,Yes,14472740,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Equinor Nigeria Energy Company Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Equinor Nigeria Energy Company Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Equinor Nigeria Energy Company Limited,Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Eroton Exploration & Production Company Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Eroton Exploration & Production Company Limited,Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Eroton Exploration & Production Company Limited,Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Eroton Exploration & Production Company Limited,Department of Petroleum Resources,Royalty Gas,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Eroton Exploration & Production Company Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Eroton Exploration & Production Company Limited,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Eroton Exploration & Production Company Limited,Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Eroton Exploration & Production Company Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Eroton Exploration & Production Company Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Eroton Exploration & Production Company Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Eroton Exploration & Production Company Limited,Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Excel Exploration & Production Company Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Excel Exploration & Production Company Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Excel Exploration & Production Company Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Famfa Oil Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Famfa Oil Limited,Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Famfa Oil Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+First Hydrocarbon Nigeria (FHN),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+First Hydrocarbon Nigeria (FHN),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+First Hydrocarbon Nigeria (FHN),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+First Hydrocarbon Nigeria (FHN),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Fransisca Muinat Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Fransisca Muinat Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Fransisca Muinat Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Fransisca Muinat Ltd,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Fransisca Muinat Ltd,Mining Inspectorate Division,Other Fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Fransisca Muinat Ltd,Mining Inspectorate Division,Permit to erect a magazine,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Fransisca Muinat Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Frontier Oil Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Frontier Oil Limited,Department of Petroleum Resources,Royalty Gas,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Frontier Oil Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Frontier Oil Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Future Moving Mineral Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Georgio Rock Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Georgio Rock Ltd,Mining Cadastral Office,Application for relinquishment of mining title fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Georgio Rock Ltd,Mining Cadastral Office,Mining title(s) fee for processing of renewal application,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Georgio Rock Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Georgio Rock Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Georgio Rock Ltd,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Georgio Rock Ltd,Mining Inspectorate Division,Fee for suspension of operation,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Georgio Rock Ltd,Mining Inspectorate Division,Permit to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Georgio Rock Ltd,Mining Inspectorate Division,Renewal Detonator store no,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Georgio Rock Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Green Energy International Limited (GEIL),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Green Energy International Limited (GEIL),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Green Energy International Limited (GEIL),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Green Energy International Limited (GEIL),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Green Energy International Limited (GEIL),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Inorganic Earth Resource,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Inorganic Earth Resource,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Inorganic Earth Resource,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Inorganic Earth Resource,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Inorganic Earth Resource,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Inorganic Earth Resource,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Inorganic Earth Resource,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Inorganic Earth Resource,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Jinziang Quarry Co. Ltd,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Jinziang Quarry Co. Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Jinziang Quarry Co. Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Jinziang Quarry Co. Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Jinziang Quarry Co. Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Jinziang Quarry Co. Ltd,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Jinziang Quarry Co. Ltd,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Jinziang Quarry Co. Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Julius Berger,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Julius Berger,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Julius Berger,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Julius Berger,Mining Cadastral Office,Application for relinquishment of mining title fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Julius Berger,Mining Cadastral Office,Mining title(s) fee for processing of renewal application,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Julius Berger,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Julius Berger,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Julius Berger,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Julius Berger,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Julius Berger,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Julius Berger,Mining Inspectorate Division,Permit to export minerals samples for analysis,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Julius Berger,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kenyang Mining Co Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kenyang Mining Co Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kopek Contruction Nig Ltd,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kopek Contruction Nig Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kopek Contruction Nig Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kopek Contruction Nig Ltd,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kopek Contruction Nig Ltd,Mining Cadastral Office,Mining title(s) fee for processing of renewal application,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kopek Contruction Nig Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kopek Contruction Nig Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kopek Contruction Nig Ltd,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kopek Contruction Nig Ltd,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kopek Contruction Nig Ltd,Mining Inspectorate Division,Other Fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kopek Contruction Nig Ltd,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kopek Contruction Nig Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kunlun Nigeria Limited,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kunlun Nigeria Limited,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kunlun Nigeria Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kunlun Nigeria Limited,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kunlun Nigeria Limited,Mining Inspectorate Division,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Kunlun Nigeria Limited,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+LAFARGE,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+LAFARGE,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+LAFARGE,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+LAFARGE,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+LAFARGE,Mining Cadastral Office,Mining title(s) fee for processing of renewal application,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+LAFARGE,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+LAFARGE,Mining Cadastral Office,,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+LAFARGE,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+LAFARGE,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+LAFARGE,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+LAFARGE,Mining Inspectorate Division,Other fee: Det store,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+LAFARGE,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+LAFARGE,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Lake Petroleum Ltd,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Lake Petroleum Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Lake Petroleum Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Lake Petroleum Ltd,Mining Cadastral Office,Mining titles(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Lake Petroleum Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Levant Construction Company Ltd.,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Levant Construction Company Ltd.,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Levant Construction Company Ltd.,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Levant Construction Company Ltd.,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Levant Construction Company Ltd.,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Levant Construction Company Ltd.,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Levant Construction Company Ltd.,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Luxeon Mining Company Ltd.,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+MARK-SINO,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+MARK-SINO,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+MARK-SINO,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+MARK-SINO,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Madodel Engineering Contr. Limited,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Madodel Engineering Contr. Limited,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mercury Mining & Invest. Ltd.,Mining Cadastral Office,"Fees for cadastre map information, application for certified true copy of other documents other than title documents",Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mercury Mining & Invest. Ltd.,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mercury Mining & Invest. Ltd.,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mercury Mining & Invest. Ltd.,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mercury Mining & Invest. Ltd.,Mining Inspectorate Division,"Renewal of Mag. Licence, ANFO permit",Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mercury Mining & Invest. Ltd.,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Midwestern Oil and Gas Company Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Midwestern Oil and Gas Company Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Midwestern Oil and Gas Company Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Midwestern Oil and Gas Company Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Midwestern Oil and Gas Company Limited,Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mobil Producing Nigeria Unlimited (MPNU),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mobil Producing Nigeria Unlimited (MPNU),Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mobil Producing Nigeria Unlimited (MPNU),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mobil Producing Nigeria Unlimited (MPNU),Department of Petroleum Resources,Royalty Gas,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mobil Producing Nigeria Unlimited (MPNU),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mobil Producing Nigeria Unlimited (MPNU),Federal Inland Revenue Service,Capital Gains Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mobil Producing Nigeria Unlimited (MPNU),Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mobil Producing Nigeria Unlimited (MPNU),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mobil Producing Nigeria Unlimited (MPNU),Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mobil Producing Nigeria Unlimited (MPNU),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mobil Producing Nigeria Unlimited (MPNU),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mobil Producing Nigeria Unlimited (MPNU),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Moni Pulo Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Moni Pulo Limited,Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Moni Pulo Limited,Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Moni Pulo Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Moni Pulo Limited,Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Moni Pulo Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Moni Pulo Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Moni Pulo Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mother Cat Limited,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mother Cat Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mother Cat Limited,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mother Cat Limited,Mining Cadastral Office,Mining title(s) fee for processing of renewal application,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mother Cat Limited,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mother Cat Limited,Mining Inspectorate Division,: renewal of Exp Mag & Det store,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mother Cat Limited,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mother Cat Limited,Mining Inspectorate Division,Other fee: Det store,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mother Cat Limited,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Mother Cat Limited,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ND Western Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ND Western Limited,Department of Petroleum Resources,Royalty Gas,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ND Western Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ND Western Limited,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ND Western Limited,Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ND Western Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ND Western Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Neconde Energy Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Neconde Energy Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Neconde Energy Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Network Exploration & Production Limited,Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Network Exploration & Production Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Network Exploration & Production Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Newcross Exploration and Production Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Newcross Exploration and Production Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Newcross Exploration and Production Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Newcross Exploration and Production Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Newcross Petroleum Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Newcross Petroleum Limited,Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Newcross Petroleum Limited,Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Newcross Petroleum Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Newcross Petroleum Limited,Department of Petroleum Resources,Signature Bonus,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Newcross Petroleum Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Newcross Petroleum Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Newcross Petroleum Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Newcross Petroleum Limited,Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Niger Delta Petroleum Resources Limited (NDPR),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Niger Delta Petroleum Resources Limited (NDPR),Department of Petroleum Resources,Royalty Gas,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Niger Delta Petroleum Resources Limited (NDPR),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Niger Delta Petroleum Resources Limited (NDPR),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Niger Delta Petroleum Resources Limited (NDPR),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Agip Oil Company Limited (NAOC),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Agip Oil Company Limited (NAOC),Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Agip Oil Company Limited (NAOC),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Agip Oil Company Limited (NAOC),Department of Petroleum Resources,Royalty Gas,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Agip Oil Company Limited (NAOC),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Agip Oil Company Limited (NAOC),Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Agip Oil Company Limited (NAOC),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Agip Oil Company Limited (NAOC),Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Agip Oil Company Limited (NAOC),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Agip Oil Company Limited (NAOC),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Agip Oil Company Limited (NAOC),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria National Petroleum Corporation,Central Bank of Nigeria,DPR lifting,Not applicable,No,,USD,,Yes,9899260,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria National Petroleum Corporation,Central Bank of Nigeria,FIRS liftings,Not applicable,No,,USD,,Yes,57290032,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria National Petroleum Corporation,Central Bank of Nigeria,Federation Domestic,Not applicable,No,,USD,,Yes,105924597,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria National Petroleum Corporation,Central Bank of Nigeria,Federation Exports,Not applicable,No,,USD,,Yes,50246153,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria National Petroleum Corporation,Central Bank of Nigeria,Federation Gas,Not applicable,No,,USD,,Partially,,Sm3 o.e.,Volume available in different units,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria National Petroleum Corporation,Central Bank of Nigeria,PSC in-kind Deductions,Not applicable,No,,USD,,Partially,,,Volume not available,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria National Petroleum Corporation,Central Bank of Nigeria,Third party financing,Not applicable,No,,USD,,Yes,17613434,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Petroleum Development Company Limited (NPDC),Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Petroleum Development Company Limited (NPDC),Department of Petroleum Resources,Royalty Gas,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Petroleum Development Company Limited (NPDC),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Petroleum Development Company Limited (NPDC),Department of Petroleum Resources,Signature Bonus,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Petroleum Development Company Limited (NPDC),Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Petroleum Development Company Limited (NPDC),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Petroleum Development Company Limited (NPDC),Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Petroleum Development Company Limited (NPDC),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Petroleum Development Company Limited (NPDC),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigeria Petroleum Development Company Limited (NPDC),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigerian Agip Exploration Limited (NAE),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigerian Agip Exploration Limited (NAE),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigerian Agip Exploration Limited (NAE),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigerian Agip Exploration Limited (NAE),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigerian Agip Exploration Limited (NAE),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Nigerian Agip Exploration Limited (NAE),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+OFL Marble & Granite Ltd,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+OFL Marble & Granite Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+OFL Marble & Granite Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+OFL Marble & Granite Ltd,Mining Cadastral Office,Fees for application for enlargement (processing) of mining titles,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+OFL Marble & Granite Ltd,Mining Cadastral Office,Mining title(s) fee for processing of renewal application,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+OFL Marble & Granite Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+OFL Marble & Granite Ltd,Mining Cadastral Office,Mining titles(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+OFL Marble & Granite Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oando Oil Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oando Oil Limited,Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oando Oil Limited,Department of Petroleum Resources,Royalty Gas,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oando Oil Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oando Oil Limited,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oando Oil Limited,Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oando Oil Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oando Oil Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oriental Energy Resources Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oriental Energy Resources Limited,Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oriental Energy Resources Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oriental Energy Resources Limited,Department of Petroleum Resources,Signature Bonus,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oriental Energy Resources Limited,Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oriental Energy Resources Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oriental Energy Resources Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oriental Energy Resources Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Oriental Energy Resources Limited,Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+P.W Nig Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+P.W Nig Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+P.W Nig Ltd,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+P.W Nig Ltd,Mining Cadastral Office,Application for transfer mining titles fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+P.W Nig Ltd,Mining Cadastral Office,Mining title(s) fee for processing of renewal application,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+P.W Nig Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+P.W Nig Ltd,Mining Cadastral Office,Mining titles(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+P.W Nig Ltd,Mining Cadastral Office,Penalty fee for late renewal of mining titles (application),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+P.W Nig Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+P.W Nig Ltd,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+P.W Nig Ltd,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+P.W Nig Ltd,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+P.W Nig Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Panocean Oil Nigeria Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Petra Quarries Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Petra Quarries Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Petra Quarries Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Petra Quarries Ltd,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Petra Quarries Ltd,Mining Inspectorate Division,Renewal of Exp Mag & Det store,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Petra Quarries Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Petroleo Brasileiro Nigeria Limited (PETROBRAS),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Petroleo Brasileiro Nigeria Limited (PETROBRAS),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Petroleo Brasileiro Nigeria Limited (PETROBRAS),Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Petroleo Brasileiro Nigeria Limited (PETROBRAS),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Petroleo Brasileiro Nigeria Limited (PETROBRAS),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Pillar Oil Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Pillar Oil Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Pillar Oil Limited,Department of Petroleum Resources,Signature Bonus,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Pillar Oil Limited,Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Pillar Oil Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Pillar Oil Limited,Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Pioneer Sinochino Inv. Ventures,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Pioneer Sinochino Inv. Ventures,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Platform Petroleum Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Platform Petroleum Limited,Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Platform Petroleum Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Platform Petroleum Limited,Department of Petroleum Resources,Signature Bonus,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Platform Petroleum Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Platform Petroleum Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Platform Petroleum Limited,Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Platinum Asphalt and Crushing Company Limited,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Platinum Asphalt and Crushing Company Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Platinum Asphalt and Crushing Company Limited,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Platinum Asphalt and Crushing Company Limited,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Platinum Asphalt and Crushing Company Limited,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Platinum Asphalt and Crushing Company Limited,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Platinum Asphalt and Crushing Company Limited,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Purechem Industries Limited,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Purechem Industries Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Purechem Industries Limited,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Purechem Industries Limited,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Purechem Industries Limited,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Purechem Industries Limited,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Purechem Industries Limited,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Purechem Industries Limited,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+RATCON Construction Co. Ltd,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+RATCON Construction Co. Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+RATCON Construction Co. Ltd,Federal Inland Revenue Service,Others(Capital Gains Tax),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+RATCON Construction Co. Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+RATCON Construction Co. Ltd,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+RATCON Construction Co. Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+RATCON Construction Co. Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+RATCON Construction Co. Ltd,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+RATCON Construction Co. Ltd,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+RATCON Construction Co. Ltd,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+RATCON Construction Co. Ltd,Mining Inspectorate Division,Permit to erect a magazine,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+RATCON Construction Co. Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Reynolds Construction Company Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Reynolds Construction Company Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Reynolds Construction Company Ltd,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Reynolds Construction Company Ltd,Mining Cadastral Office,Mining title(s) fee for processing of renewal application,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Reynolds Construction Company Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Reynolds Construction Company Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Reynolds Construction Company Ltd,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Reynolds Construction Company Ltd,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Reynolds Construction Company Ltd,Mining Inspectorate Division,Others-PAYMENT FOR APPLICATION TO PURCHASE AND PROCESS MINERALS (SAND AND LATERITE),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Reynolds Construction Company Ltd,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Reynolds Construction Company Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+SATURN,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+SATURN,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+SATURN,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+SATURN,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+SATURN,Mining Cadastral Office,Mining titles(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+SATURN,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+SATURN,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+SODEX Mines Ltd,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+SODEX Mines Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+SODEX Mines Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+SODEX Mines Ltd,Mining Cadastral Office,Mining titles(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+SODEX Mines Ltd,Mining Inspectorate Division,Permit to export minerals for commercial purposes,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+SODEX Mines Ltd,Mining Inspectorate Division,Permit to posses and purchase minerals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+SODEX Mines Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Seplat Petroleum Development Company,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Seplat Petroleum Development Company,Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Seplat Petroleum Development Company,Department of Petroleum Resources,Royalty Gas,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Seplat Petroleum Development Company,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Seplat Petroleum Development Company,Department of Petroleum Resources,Signature Bonus,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Seplat Petroleum Development Company,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Seplat Petroleum Development Company,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Seplat Petroleum Development Company,Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Setraco Nig. Limited,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Setraco Nig. Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Setraco Nig. Limited,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Setraco Nig. Limited,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Setraco Nig. Limited,Mining Cadastral Office,Mining titles(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Setraco Nig. Limited,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Setraco Nig. Limited,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Setraco Nig. Limited,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Setraco Nig. Limited,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Nigeria Exploration Production Company Limited (SNEPCO),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Nigeria Exploration Production Company Limited (SNEPCO),Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,Yes,600,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Nigeria Exploration Production Company Limited (SNEPCO),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Nigeria Exploration Production Company Limited (SNEPCO),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,Yes,950000,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Nigeria Exploration Production Company Limited (SNEPCO),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Nigeria Exploration Production Company Limited (SNEPCO),Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,Yes,22850844,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Nigeria Exploration Production Company Limited (SNEPCO),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Nigeria Exploration Production Company Limited (SNEPCO),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Nigeria Exploration Production Company Limited (SNEPCO),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Petroleum Development Company of Nigeria (SPDC),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Petroleum Development Company of Nigeria (SPDC),Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Petroleum Development Company of Nigeria (SPDC),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Petroleum Development Company of Nigeria (SPDC),Department of Petroleum Resources,Royalty Gas,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Petroleum Development Company of Nigeria (SPDC),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Petroleum Development Company of Nigeria (SPDC),Department of Petroleum Resources,Signature Bonus,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Petroleum Development Company of Nigeria (SPDC),Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Petroleum Development Company of Nigeria (SPDC),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Petroleum Development Company of Nigeria (SPDC),Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Petroleum Development Company of Nigeria (SPDC),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Petroleum Development Company of Nigeria (SPDC),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Petroleum Development Company of Nigeria (SPDC),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shell Petroleum Development Company of Nigeria (SPDC),Nigeria National Petroleum Corporation,Pipeline Transportation Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shoreline Natural Resources Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shoreline Natural Resources Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shoreline Natural Resources Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Shoreline Natural Resources Limited,Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Sino Minmetals Company Limited,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Sino Minmetals Company Limited,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Sino Minmetals Company Limited,Mining Cadastral Office,Mining titles(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Sino Minmetals Company Limited,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+South Atlantic Petroleum Limited (SAPETRO),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+South Atlantic Petroleum Limited (SAPETRO),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+South Atlantic Petroleum Limited (SAPETRO),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Star Deep Water Petroleum Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Star Deep Water Petroleum Limited,Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Star Deep Water Petroleum Limited,Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Star Deep Water Petroleum Limited,Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Star Deep Water Petroleum Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Star Deep Water Petroleum Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Star Deep Water Petroleum Limited,Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Star Deep Water Petroleum Limited,Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Sterling Oil Exploration & Energy Production Company Limited (SEEPCO),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Sterling Oil Exploration & Energy Production Company Limited (SEEPCO),Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Sterling Oil Exploration & Energy Production Company Limited (SEEPCO),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Sterling Oil Exploration & Energy Production Company Limited (SEEPCO),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,Yes,3110000,Barrels,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Sterling Oil Exploration & Energy Production Company Limited (SEEPCO),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Sterling Oil Exploration & Energy Production Company Limited (SEEPCO),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Sterling Oil Exploration & Energy Production Company Limited (SEEPCO),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+TRIACTA Nig.,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+TRIACTA Nig.,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+TRIACTA Nig.,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+TRIACTA Nig.,Mining Cadastral Office,Mining title(s) fee for processing of renewal application,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+TRIACTA Nig.,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+TRIACTA Nig.,Mining Cadastral Office,Mining titles(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+TRIACTA Nig.,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+TRIACTA Nig.,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+TRIACTA Nig.,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+TRIACTA Nig.,Mining Inspectorate Division,Permit to erect a magazine,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+TRIACTA Nig.,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Tongyi Allied Mineral Ltd,Federal Inland Revenue Service,OTHERS (PAYE),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Tongyi Allied Mineral Ltd,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Tongyi Allied Mineral Ltd,Mining Cadastral Office,Application for transfer mining titles fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Tongyi Allied Mineral Ltd,Mining Cadastral Office,Mining title(s) fee for processing of renewal application,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Tongyi Allied Mineral Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Tongyi Allied Mineral Ltd,Mining Cadastral Office,Reconnaisance permit,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Tongyi Allied Mineral Ltd,Mining Inspectorate Division,Permit to export minerals for commercial purposes,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Tongyi Allied Mineral Ltd,Mining Inspectorate Division,Permit to export minerals samples for analysis,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Tongyi Allied Mineral Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Tongyi Global Resources Ltd,Mining Cadastral Office,Mining title(s) fee for processing of renewal application,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Tongyi Global Resources Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Tongyi Global Resources Ltd,Mining Cadastral Office,Mining titles(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Tongyi Global Resources Ltd,Mining Inspectorate Division,Permit to posses and purchase minerals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Tongyi Global Resources Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Exploration & Production Nigeria Limited (TEPNG),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Exploration & Production Nigeria Limited (TEPNG),Department of Petroleum Resources,Concession Rentals,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Exploration & Production Nigeria Limited (TEPNG),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Exploration & Production Nigeria Limited (TEPNG),Department of Petroleum Resources,Royalty Gas,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Exploration & Production Nigeria Limited (TEPNG),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Exploration & Production Nigeria Limited (TEPNG),Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Exploration & Production Nigeria Limited (TEPNG),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Exploration & Production Nigeria Limited (TEPNG),Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Exploration & Production Nigeria Limited (TEPNG),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Exploration & Production Nigeria Limited (TEPNG),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Exploration & Production Nigeria Limited (TEPNG),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Upstream Nigeria Limited (TUPNI),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Upstream Nigeria Limited (TUPNI),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Upstream Nigeria Limited (TUPNI),Federal Inland Revenue Service,Education Tax (EDT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Upstream Nigeria Limited (TUPNI),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Upstream Nigeria Limited (TUPNI),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Total Upstream Nigeria Limited (TUPNI),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Universal Energy Resources Limited (UERL),Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Universal Energy Resources Limited (UERL),Department of Petroleum Resources,Gas Flare Penalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Universal Energy Resources Limited (UERL),Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Universal Energy Resources Limited (UERL),Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Universal Energy Resources Limited (UERL),Niger Delta Development Commission,Niger Delta Development Commission Levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Universal Energy Resources Limited (UERL),Nigeria Content Development Monitoring Board,Nigeria Content Development Monitoring Fund,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Venus Mining,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Venus Mining,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Venus Mining,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Venus Mining,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Venus Mining,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+WODA Mountain Investment Ltd.,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+WODA Mountain Investment Ltd.,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+WODA Mountain Investment Ltd.,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+WODA Mountain Investment Ltd.,Mining Cadastral Office,Fees for application for certified true copy of lost certificate of mining title,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+WODA Mountain Investment Ltd.,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+WODA Mountain Investment Ltd.,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+WODA Mountain Investment Ltd.,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+WODA Mountain Investment Ltd.,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+WODA Mountain Investment Ltd.,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+WODA Mountain Investment Ltd.,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Waltersmith Petroman Oil Limited,Central Bank of Nigeria,Nigeria Export Supervision Fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Waltersmith Petroman Oil Limited,Department of Petroleum Resources,Royalty Oil,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Waltersmith Petroman Oil Limited,Federal Inland Revenue Service,Petroleum Profit Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Waltersmith Petroman Oil Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Waltersmith Petroman Oil Limited,Niger Delta Development Commission,Niger Delta Development Commission levy,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Washignton Farms,Mining Inspectorate Division,Permit to export minerals samples for analysis,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Washignton Farms,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+West African Mineral Trading,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Yiter Quarry,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Yiter Quarry,Mining Cadastral Office,Mining titles(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Yiter Quarry,Mining Cadastral Office,Mining titles(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Z&Y Investment Company,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Z&Y Investment Company,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Z&Y Investment Company,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Z&Y Investment Company,Mining Cadastral Office,Fees for application for enlargement (processing) of mining titles,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Z&Y Investment Company,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Z&Y Investment Company,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Z&Y Investment Company,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Z&Y Investment Company,Mining Inspectorate Division,Others:Renewal of exp. Magazine & ANFO permit,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Z&Y Investment Company,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG TAI Mining (Nig.) Limited,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG TAI Mining (Nig.) Limited,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG TAI Mining (Nig.) Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG TAI Mining (Nig.) Limited,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG TAI Mining (Nig.) Limited,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG TAI Mining (Nig.) Limited,Mining Inspectorate Division,Other Fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG TAI Mining (Nig.) Limited,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG XING Mining Investment Ltd,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG XING Mining Investment Ltd,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG XING Mining Investment Ltd,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG XING Mining Investment Ltd,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG XING Mining Investment Ltd,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG XING Mining Investment Ltd,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG XING Mining Investment Ltd,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG XING Mining Investment Ltd,Mining Inspectorate Division,Permit to Mix ANFO,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZHONG XING Mining Investment Ltd,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZUMA 828,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZUMA 828,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZUMA 828,Federal Inland Revenue Service,Withholding Tax(WHT),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZUMA 828,Mining Cadastral Office,Application for relinquishment of mining title fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZUMA 828,Mining Cadastral Office,Application for transfer mining titles fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZUMA 828,Mining Cadastral Office,Mining title(s) application processing fee,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZUMA 828,Mining Cadastral Office,mining title(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+ZUMA 828,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Zeberced Limited,Federal Inland Revenue Service,Company Income Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Zeberced Limited,Federal Inland Revenue Service,Education Tax (EDT) (Education Tax (EDT)),Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Zeberced Limited,Federal Inland Revenue Service,Value Added Tax,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Zeberced Limited,Mining Cadastral Office,Mining titles(s) annual service fees,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Zeberced Limited,Mining Inspectorate Division,Blasting certificates,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Zeberced Limited,Mining Inspectorate Division,Explosives magazine licence,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Zeberced Limited,Mining Inspectorate Division,Licence to buy explosives,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
+Zeberced Limited,Mining Inspectorate Division,Royalty,Yes,No,,USD,,No,,,,Nigeria,NGA,2017,1/1/2017,12/31/2017
