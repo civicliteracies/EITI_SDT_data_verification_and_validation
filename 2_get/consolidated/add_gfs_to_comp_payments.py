@@ -5,6 +5,22 @@ app = marimo.App(width="medium")
 
 
 @app.cell(hide_code=True)
+def _(mo):
+    mo.md(
+        r"""
+    # Executive Summary
+
+    This notebook explores how to link company payments to the government's financial categories (like `GFS codes` and `Sectors`) to enable reliable historical and cross-country comparisons. Our analysis found that a direct, naive join is not feasible due to significant inconsistencies in how data is reported. As a compromise, this notebook outlines two approaches to enrich the data while preserving its analytical integrity.
+
+    The first approach, for `GFS Classification`, uses automated text cleaning followed by a financial value reconciliation. For the more ambiguous `Sector` ID, we outline a multi-level matching process that prioritizes the most reliable evidence first. The primary recommendation is to enrich the company data and embed *onfidence metadata for each report. 
+
+    This metadata, including scores for name matching and value accuracy, allows analysts to filter for high-quality data suitable for their specific query. Further work will be needed to refine these methods and integrate them into the EITI data importer.
+    """
+    )
+    return
+
+
+@app.cell(hide_code=True)
 def _():
     import marimo as mo
     import polars as pl
@@ -58,7 +74,7 @@ def _(mo):
 
 @app.cell(hide_code=True)
 def _(mo, pl):
-    # --- Calculate Descriptive Statistics for the Entire Dataset ---
+    # --- Calculate descriptive statistics for the entire dataset ---
     gov_revenues_lazy = pl.scan_csv(
         "Part 4 - Government revenues.csv",
         null_values=["-", "- ", ""],
@@ -70,18 +86,16 @@ def _(mo, pl):
         schema_overrides={"Revenue value": pl.Float64},
     )
 
-    # Get all unique reports (Country x Year) from the union of both datasets.
+    # Get all unique reports across both datasets.
     all_gov_reports = gov_revenues_lazy.select("Country", "Year").unique()
     all_comp_reports = company_payments_lazy.select("Country", "Year").unique()
     all_reports_df = (
         pl.concat([all_gov_reports, all_comp_reports]).unique().collect()
     )
 
-    # Calculate the metrics.
+    # Calculate key metrics.
     all_reports_count = all_reports_df.height
     total_countries = all_reports_df.get_column("Country").n_unique()
-
-    # Corrected calculation for unique streams.
     unique_gov_streams = (
         gov_revenues_lazy.select(pl.col("Revenue stream name").n_unique())
         .collect()
@@ -92,8 +106,6 @@ def _(mo, pl):
         .collect()
         .item()
     )
-
-    # Correctly calculate unique gov entities per country.
     unique_gov_entities = (
         gov_revenues_lazy.group_by("Country", "Government entity")
         .len()
@@ -101,18 +113,17 @@ def _(mo, pl):
         .height
     )
 
-    # --- The updated markdown intro ---
     mo.md(
         f"""
-    ### Goal: Assessing the Feasibility of Linking Company Payments to GFS Codes
+    ## Feasibility assessment: adding GFS codes and mining id to company payments.
 
-    This notebook analyzes the feasibility of enriching company payment data (Part 5) with information from government revenue data (Part 4) and other sources. We tackle this in two distinct parts:
+    This notebook analyzes the feasibility of enriching company payment data (Part 5) with information from government revenue data (Part 4) and Reporting entitites (Part 3). The overall goal is to facilitate comparisons across time and countries at the company payment level. Two data points are explored:
 
-    1.  **GFS Reconciliation**: We first assess the feasibility of linking company payments to government revenues to reliably assign GFS Classification codes. This involves a deep dive into name and value discrepancies, culminating in a "report card" model to score the reliability of each report.
+    1.  **GFS data**: The first section explores how to reliably assign GFS codes from Part 4 to Part 5. We start with an assessment of the limits of a direct join, before proposing a compromise approach to reach our goal, using confidence metadata.
 
-    2.  **Sector ID Enrichment**: We then develop and test a hierarchical strategy to assign a `Sector` ID to each company payment, as this information is often missing. This involves a multi-step matching process using project, company, and government entity data.
+    2.  **Sector ID**: The second section addresses the question of Sector ID, which presents a different set of challenges than GFS codes. Similarly we end up outlining a compromise method to generate confidence metadata in the support of future analyses.
 
-    The outcome will be a clear set of recommendations on how to proceed with enriching the company payments dataset.
+    The notebook concludes with a summary findings and suggestions on how to implement the proposed approaches in EITI's production database.
 
     **Dataset Overview:**
 
