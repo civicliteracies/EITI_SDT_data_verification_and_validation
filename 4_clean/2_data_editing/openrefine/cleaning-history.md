@@ -4,6 +4,9 @@ This document provides a detailed, step-by-step summary of the data cleaning ope
 
 ## Part 1: Report Metadata (`eiti-data_part1_1.3-history.json`)
 
+- **Input File:** `2_get/consolidated/Part 1 - About.csv`
+- **Output File:** `4_clean/2_data_editing/output/eiti-data_part1_1.3.csv`
+
 ### Standardization and Cleaning
 
 - **Standardize `National currency name`:**
@@ -32,6 +35,9 @@ This document provides a detailed, step-by-step summary of the data cleaning ope
 
 ## Part 3: Projects (`eiti-data_part3-projects_1.1-history.json`)
 
+- **Input File:** `2_get/consolidated/Part 3 - Reporting projects' list.csv`
+- **Output File:** `4_clean/2_data_editing/output/eiti-data_part3-projects_1.2.csv`
+
 - **Key and ID Generation:**
     - Created a `composite_project` column by joining `Project name`, `Country`, and `Year` to create a unique identifier for each project within a report.
     - Generated a unique `eiti_id_project` for each project using a UUID.
@@ -48,6 +54,9 @@ This document provides a detailed, step-by-step summary of the data cleaning ope
 
 ## Part 4: Government Revenues (`eiti-data_part4_1.1-history.json`)
 
+- **Input File:** `2_get/consolidated/Part 4 - Government revenues.csv`
+- **Output File:** `4_clean/2_data_editing/output/eiti-data_part4_1.2.csv`
+
 - **Government Entity Standardization:**
     - The `Government entity` column was extensively cleaned by merging different variations of the same entity name into a single, consistent format.
 - **Whitespace Removal:** Trimmed whitespace and collapsed multiple spaces in all columns.
@@ -60,6 +69,9 @@ This document provides a detailed, step-by-step summary of the data cleaning ope
     - Used this key to look up and add the `eiti_id_government` from the Part 3b data, creating a link between the datasets.
 
 ## Part 5: Company Data (`eiti-data_part5-0.11.6-history.json`)
+
+- **Input File:** `4_clean/1_data_preparation/data/outputs/companies_5_actual_complete.csv`
+- **Output File:** `4_clean/2_data_editing/output/eiti-data_part5-0.11.8.csv`
 
 - **Initial Cleanup:**
     - **Removed Columns:** `Company type`, `Company ID number`, `Sector`, `Commodities (comma-seperated)`, `Stock exchange listing or company website`, `Audited financial statement...`, `Payments to Governments Report`, and several duplicated columns (`Country2`, `ISO Code 2`, etc.).
