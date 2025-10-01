@@ -1,0 +1,1253 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Project name",
+    "expression": "join ([coalesce(cells['Project name'].value,''),coalesce(cells['Country'].value,''),coalesce(cells['Year'].value,'')],'-')",
+    "onError": "keep-original",
+    "newColumnName": "composite_project",
+    "columnInsertIndex": 3,
+    "description": "Create column composite_project at index 3 based on column Project name using expression join ([coalesce(cells['Project name'].value,''),coalesce(cells['Country'].value,''),coalesce(cells['Year'].value,'')],'-')"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Project name",
+    "index": 0,
+    "description": "Move column Project name to position 0"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "index",
+    "description": "Remove column index"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "company_name",
+    "description": "Remove column company_name"
+  },
+  {
+    "op": "core/row-reorder",
+    "mode": "record-based",
+    "sorting": {
+      "criteria": [
+        {
+          "valueType": "string",
+          "column": "Project name",
+          "blankPosition": 2,
+          "errorPosition": 1,
+          "reverse": false,
+          "caseSensitive": false
+        }
+      ]
+    },
+    "description": "Reorder rows"
+  },
+  {
+    "op": "core/blank-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Project name",
+    "description": "Blank down cells in column Project name"
+  },
+  {
+    "op": "core/blank-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Project name",
+    "description": "Blank down cells in column Project name"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Project name",
+          "expression": "isBlank(value)",
+          "columnName": "Project name",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Project name",
+    "expression": "jython:import uuid\nreturn str(uuid.uuid4())",
+    "onError": "set-to-blank",
+    "newColumnName": "eiti_id",
+    "columnInsertIndex": 1,
+    "description": "Create column eiti_id at index 1 based on column Project name using expression jython:import uuid\nreturn str(uuid.uuid4())"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Project name",
+    "description": "Fill down cells in column Project name"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_id",
+    "description": "Fill down cells in column eiti_id"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "End Date",
+    "newColumnName": "end_date",
+    "description": "Rename column End Date to end_date"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Start Date",
+    "newColumnName": "start_date",
+    "description": "Rename column Start Date to start_date"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "ISO Code",
+    "newColumnName": "iso_code",
+    "description": "Rename column ISO Code to iso_code"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Currency",
+    "newColumnName": "currency",
+    "description": "Rename column Currency to currency"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Production (value)",
+    "newColumnName": "production_value",
+    "description": "Rename column Production (value) to production_value"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Unit",
+    "newColumnName": "unit",
+    "description": "Rename column Unit to unit"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Production (volume)",
+    "newColumnName": "production_volume",
+    "description": "Rename column Production (volume) to production_volume"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Status",
+    "newColumnName": "status",
+    "description": "Rename column Status to status"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Commodities (one commodity/row)",
+    "newColumnName": "commodities",
+    "description": "Rename column Commodities (one commodity/row) to commodities"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Affiliated companies, start with Operator",
+    "newColumnName": "affiliated_companies",
+    "description": "Rename column Affiliated companies, start with Operator to affiliated_companies"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "commodities",
+          "expression": "value",
+          "columnName": "commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Tax Revenue Authority",
+                "l": "Tax Revenue Authority"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tax Revenue Authority"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "commodities",
+          "expression": "value",
+          "columnName": "commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Petroseychelles",
+                "l": "Petroseychelles"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "affiliated_companies",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Petroseychelles"
+      }
+    ],
+    "description": "Mass edit cells in column affiliated_companies"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "commodities",
+          "expression": "value",
+          "columnName": "commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Petroseychelles",
+                "l": "Petroseychelles"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Petroseychelles"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Or"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gold"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oil Palm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Palm oil"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oil&Gas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oil & Gas"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "commodities",
+          "expression": "value",
+          "columnName": "commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Nkossa",
+                "l": "Nkossa"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Nkossa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oil & Gas"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not available"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not reported"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Marne"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marl"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "GLP"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Petroleum gas"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ferro, aleaciones, ferromanganeso (7202)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ferro, alloys, manganese (7202)"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "DJENO MELANGE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oil blends"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Argent"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Silver"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Calcaire dolomitique"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dolomite (2518)"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Кварцити залізисті магнетитові"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ferruginous magnetite quartzites"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ferruginous magnetite quartzites"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ferruginous magnetite quartzites"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ferruginous magnetite quartzites"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ferruginous magnetite quartzite"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tufs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tuff"
+      }
+    ],
+    "description": "Mass edit cells in column commodities"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "commodities",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column commodities using expression value.toLowercase()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "production_volume",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column production_volume using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "production_value",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column production_value using expression value.toNumber()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Toneladas métricas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tonnes"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Metric Tonne"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tonnes"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tonnes"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "quilates"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "carats"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Kg"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "kg"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Scf"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "standard cubic foot"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tonnes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "tonnes"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Onces"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "onces"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Barrels"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "barrels"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sm3"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "standard cubic meters"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sm3 o.e."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "standard cubic meters o.e."
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sm3 e.p."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "standard cubic meters e.p."
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MMBTU"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "million british thermal units"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "kg"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "kilogrammes"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "m3"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cubic meters"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "oz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ounce"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "onces"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ounces"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ounce"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ounces"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Nm3"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "normal cubic meters"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unit",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MWh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "megawatt-hour"
+      }
+    ],
+    "description": "Mass edit cells in column unit"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Development"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "development"
+      }
+    ],
+    "description": "Mass edit cells in column status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Exploration"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "exploration"
+      }
+    ],
+    "description": "Mass edit cells in column status"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "status",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Production"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "production"
+      }
+    ],
+    "description": "Mass edit cells in column status"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Country",
+    "index": 15,
+    "description": "Move column Country to position 15"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Country",
+    "index": 14,
+    "description": "Move column Country to position 14"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Country",
+    "index": 13,
+    "description": "Move column Country to position 13"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Country",
+    "index": 12,
+    "description": "Move column Country to position 12"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "eiti_id",
+    "newColumnName": "eiti_id_project",
+    "description": "Rename column eiti_id to eiti_id_project"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Project name",
+    "newColumnName": "project_name",
+    "description": "Rename column Project name to project_name"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "composite_project",
+    "description": "Remove column composite_project"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Year",
+    "index": 14,
+    "description": "Move column Year to position 14"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Year",
+    "index": 13,
+    "description": "Move column Year to position 13"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Year",
+    "index": 12,
+    "description": "Move column Year to position 12"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "affiliated_companies",
+          "expression": "isBlank(value)",
+          "columnName": "affiliated_companies",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "affiliated_companies",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column affiliated_companies"
+  }
+]

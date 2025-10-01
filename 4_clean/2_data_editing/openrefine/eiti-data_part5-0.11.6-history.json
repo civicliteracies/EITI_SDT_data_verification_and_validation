@@ -1,0 +1,5947 @@
+[
+  {
+    "op": "core/column-removal",
+    "columnName": "Company type",
+    "description": "Remove column Company type"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Company ID number",
+    "description": "Remove column Company ID number"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Sector",
+    "description": "Remove column Sector"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Commodities (comma-seperated)",
+    "description": "Remove column Commodities (comma-seperated)"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Stock exchange listing or company website",
+    "description": "Remove column Stock exchange listing or company website"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Audited financial statement (or balance sheet, cash flows, profit/loss statement if unavailable)",
+    "description": "Remove column Audited financial statement (or balance sheet, cash flows, profit/loss statement if unavailable)"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Payments to Governments Report",
+    "description": "Remove column Payments to Governments Report"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Country2",
+    "description": "Remove column Country2"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ISO Code 2",
+    "description": "Remove column ISO Code 2"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Year2",
+    "description": "Remove column Year2"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Start Date 2",
+    "description": "Remove column Start Date 2"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "End Date 2",
+    "description": "Remove column End Date 2"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Company",
+    "newColumnName": "company_name",
+    "description": "Rename column Company to company_name"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "company_name",
+    "expression": "grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"company_name\"), r, r.cells['company_type'].value).join('; ')",
+    "onError": "set-to-blank",
+    "newColumnName": "company_type",
+    "columnInsertIndex": 2,
+    "description": "Create column company_type at index 2 based on column company_name using expression grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"company_name\"), r, r.cells['company_type'].value).join('; ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_type",
+    "expression": "grel:if(value.match(/^(?:\\s*Private\\s*;)*\\s*Private\\s*$/) != null, \"Private\", value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column company_type using expression grel:if(value.match(/^(?:\\s*Private\\s*;)*\\s*Private\\s*$/) != null, \"Private\", value)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_type",
+    "expression": "grel:if(value.match(/^(?:\\s*State-owned enterprises & public corporations\\s*;)*\\s*State-owned enterprises & public corporations\\s*$/) != null, \"State-owned enterprises & public corporations\", value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column company_type using expression grel:if(value.match(/^(?:\\s*State-owned enterprises & public corporations\\s*;)*\\s*State-owned enterprises & public corporations\\s*$/) != null, \"State-owned enterprises & public corporations\", value)"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Private"
+      }
+    ],
+    "description": "Mass edit cells in column company_type"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "company_type",
+    "description": "Remove column company_type"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_type",
+          "expression": "value",
+          "columnName": "company_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Private; Private; State-owned enterprises & public corporations",
+                "l": "Private; Private; State-owned enterprises & public corporations"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "company_name",
+    "expression": "join ([coalesce(cells['company_name'].value,''),coalesce(cells['Country'].value,''),coalesce(cells['Year'].value,'')],'-')",
+    "onError": "keep-original",
+    "newColumnName": "composite_key",
+    "columnInsertIndex": 2,
+    "description": "Create column composite_key at index 2 based on column company_name using expression join ([coalesce(cells['company_name'].value,''),coalesce(cells['Country'].value,''),coalesce(cells['Year'].value,'')],'-')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_type",
+          "expression": "value",
+          "columnName": "company_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Private; Private; State-owned enterprises & public corporations",
+                "l": "Private; Private; State-owned enterprises & public corporations"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "composite_key",
+    "expression": "grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"composite_key\"), r, r.cells['company_type'].value).join('; ')",
+    "onError": "set-to-blank",
+    "newColumnName": "company_type",
+    "columnInsertIndex": 3,
+    "description": "Create column company_type at index 3 based on column composite_key using expression grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"composite_key\"), r, r.cells['company_type'].value).join('; ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_type",
+    "expression": "grel:if(value.match(/^(?:\\s*State-owned enterprises & public corporations\\s*;)*\\s*State-owned enterprises & public corporations\\s*$/) != null, \"State-owned enterprises & public corporations\", value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column company_type using expression grel:if(value.match(/^(?:\\s*State-owned enterprises & public corporations\\s*;)*\\s*State-owned enterprises & public corporations\\s*$/) != null, \"State-owned enterprises & public corporations\", value)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_type",
+    "expression": "grel:if(value.match(/^(?:\\s*Private\\s*;)*\\s*Private\\s*$/) != null, \"Private\", value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column company_type using expression grel:if(value.match(/^(?:\\s*Private\\s*;)*\\s*Private\\s*$/) != null, \"Private\", value)"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_type",
+          "expression": "value",
+          "columnName": "company_type",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Private; State-owned enterprises & public corporations",
+                "l": "Private; State-owned enterprises & public corporations"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Private; State-owned enterprises & public corporations"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "State-owned enterprises & public corporations"
+      }
+    ],
+    "description": "Mass edit cells in column company_type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Private"
+      }
+    ],
+    "description": "Mass edit cells in column company_type"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Revenue value",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Revenue value using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "composite_key",
+    "expression": "grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"composite_key\"), r, r.cells['company_id'].value).join('; ')",
+    "onError": "set-to-blank",
+    "newColumnName": "company_id",
+    "columnInsertIndex": 3,
+    "description": "Create column company_id at index 3 based on column composite_key using expression grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"composite_key\"), r, r.cells['company_id'].value).join('; ')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "composite_key",
+    "expression": "grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"composite_key\"), r, r.cells['company_sector'].value).join('; ')",
+    "onError": "set-to-blank",
+    "newColumnName": "company_sector",
+    "columnInsertIndex": 3,
+    "description": "Create column company_sector at index 3 based on column composite_key using expression grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"composite_key\"), r, r.cells['company_sector'].value).join('; ')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "composite_key",
+    "expression": "grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"composite_key\"), r, r.cells['company_commodities'].value).join('; ')",
+    "onError": "set-to-blank",
+    "newColumnName": "company_commodities",
+    "columnInsertIndex": 3,
+    "description": "Create column company_commodities at index 3 based on column composite_key using expression grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"composite_key\"), r, r.cells['company_commodities'].value).join('; ')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "composite_key",
+    "expression": "grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"composite_key\"), r, r.cells['company_public_listing_or_website'].value).join('; ')",
+    "onError": "set-to-blank",
+    "newColumnName": "company_public_listing_or_website",
+    "columnInsertIndex": 3,
+    "description": "Create column company_public_listing_or_website at index 3 based on column composite_key using expression grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"composite_key\"), r, r.cells['company_public_listing_or_website'].value).join('; ')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "composite_key",
+    "expression": "grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"composite_key\"), r, r.cells['company_audited_financial statement_or_equivalent'].value).join('; ')",
+    "onError": "set-to-blank",
+    "newColumnName": "company_audited_financial statement_or_equivalent",
+    "columnInsertIndex": 3,
+    "description": "Create column company_audited_financial statement_or_equivalent at index 3 based on column composite_key using expression grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"composite_key\"), r, r.cells['company_audited_financial statement_or_equivalent'].value).join('; ')"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_audited_financial statement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/a; n/a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_audited_financial statement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_audited_financial statement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_audited_financial statement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_audited_financial statement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/a; n/a; n/a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_audited_financial statement_or_equivalent"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_audited_financial statement_or_equivalent",
+          "expression": "value",
+          "columnName": "company_audited_financial statement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "https://sht-tchad.com/fr/index.php/rapports-etats-financiers/rapports#; n/a",
+                "l": "https://sht-tchad.com/fr/index.php/rapports-etats-financiers/rapports#; n/a"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "company_audited_financial statement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_audited_financial statement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Flagged Rows",
+          "expression": "row.flagged",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "company_commodities",
+    "description": "Remove column company_commodities"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "composite_key",
+    "expression": "grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"composite_key\"), r, r.cells['company_commodities'].value).join('-')",
+    "onError": "set-to-blank",
+    "newColumnName": "company_commodities",
+    "columnInsertIndex": 3,
+    "description": "Create column company_commodities at index 3 based on column composite_key using expression grel:forEach(cross(cell, \"eiti-data_part3-0.1.5\", \"composite_key\"), r, r.cells['company_commodities'].value).join('-')"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_public_listing_or_website",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_public_listing_or_website",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_public_listing_or_website",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/a; n/a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_public_listing_or_website"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_public_listing_or_website",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_public_listing_or_website",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_public_listing_or_website",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/v; n/v"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column company_public_listing_or_website"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_public_listing_or_website",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_public_listing_or_website",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_public_listing_or_website",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/v; n/v; n/v"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column company_public_listing_or_website"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_public_listing_or_website",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_public_listing_or_website",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "REPSOL EXPLORACIÓN",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oil & Gas; Oil & Gas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oil & Gas"
+      }
+    ],
+    "description": "Mass edit cells in column company_sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_public_listing_or_website",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_public_listing_or_website",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "REPSOL EXPLORACIÓN",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oil; Gas; Condensates-Oil; Gas; Condensates"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oil; Gas; Condensates"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_public_listing_or_website",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_public_listing_or_website",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "REPSOL EXPLORACIÓN",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "REM031021PQ7; n/a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "REM031021PQ7"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_public_listing_or_website",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_public_listing_or_website",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "REPSOL EXPLORACIÓN",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_public_listing_or_website",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://www.repsol.com.mx/es/index.cshtml; n/a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://www.repsol.com.mx/es/index.cshtml"
+      }
+    ],
+    "description": "Mass edit cells in column company_public_listing_or_website"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_public_listing_or_website",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_public_listing_or_website",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "STANDARD TALC EXTRACTION AND PROCESSING COMPANY",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_public_listing_or_website",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/v; n/a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column company_public_listing_or_website"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_public_listing_or_website",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_public_listing_or_website",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/a; n/a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_public_listing_or_website",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_public_listing_or_website",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oil; Gas; Condensates-Oil; Gas; Condensates"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oil; Gas; Condensates"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_public_listing_or_website",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_public_listing_or_website",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oil & Gas; Oil & Gas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oil & Gas"
+      }
+    ],
+    "description": "Mass edit cells in column company_sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_public_listing_or_website",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_public_listing_or_website",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_public_listing_or_website",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "https://web.archive.org/web/20190930221117/http://www.egpc.com.eg/; n/a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "https://web.archive.org/web/20190930221117/http://www.egpc.com.eg/"
+      }
+    ],
+    "description": "Mass edit cells in column company_public_listing_or_website"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_sector",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_sector",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oil & Gas; Oil & Gas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oil & Gas"
+      }
+    ],
+    "description": "Mass edit cells in column company_sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_sector",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_sector",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Other; Other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Other"
+      }
+    ],
+    "description": "Mass edit cells in column company_sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_sector",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_sector",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mining; Mining"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mining"
+      }
+    ],
+    "description": "Mass edit cells in column company_sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_sector",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_sector",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Other; Other; Other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Other"
+      }
+    ],
+    "description": "Mass edit cells in column company_sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_sector",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_sector",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1010360087; 1010360087"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1010360087"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "9000197187; 9000197187"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "9000197187"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1007815085; 1007815085"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1007815085"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1009592088; 1009592088"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1009592088"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1013655012; 1013655012; 1013655012"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1013655012"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1013655012; 1013655012"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1013655012"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/a; n/a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1,054,441,922,019; 105444192"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1,054,441,922,019"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1016525014; 1016525014"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1016525014"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "108744308; 108744308"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "108744308"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oil; Gas; Condensates-Oil; Gas; Condensates"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oil; Gas; Condensates"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Fluoride-Fluoride"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fluoride"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Talc-Talc"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Talc"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Talc; Construction stone-Talc-Talc"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Talc; Construction stone"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Crude oil & Natural gas-Crude oil & Natural gas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Crude oil & Natural gas"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Gem; Jade-Gem; Jade"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gem; Jade"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cement; Limestone; marl-limestone"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cement; Limestone; marl"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chromium-Chromium"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chromium"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Gem; Jade-Antimony"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Antimony"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "177490903; 100678624"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "100678624"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Flagged Rows",
+          "expression": "row.flagged",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "aker",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Year",
+          "expression": "value",
+          "columnName": "Year",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2017",
+                "l": "2017"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Flagged Rows",
+          "expression": "row.flagged",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "aker",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Year",
+          "expression": "value",
+          "columnName": "Year",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2018",
+                "l": "2018"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "erdene",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Year",
+          "expression": "value",
+          "columnName": "Year",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2020",
+                "l": "2020"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ERDENES MONGOL LLC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ERDENE MONGOL LLC"
+      }
+    ],
+    "description": "Mass edit cells in column company_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "ASA",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Year",
+          "expression": "value",
+          "columnName": "Year",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2019",
+                "l": "2019"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "AKER BP ASA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AKER BP AS"
+      }
+    ],
+    "description": "Mass edit cells in column company_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "AS",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Year",
+          "expression": "value",
+          "columnName": "Year",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2019",
+                "l": "2019"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "composite_key",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "AKER BP ASA-Norway-2019"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AKER BP AS-Norway-2019"
+      }
+    ],
+    "description": "Mass edit cells in column composite_key"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "mongol",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Year",
+          "expression": "value",
+          "columnName": "Year",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2020",
+                "l": "2020"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "composite_key",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ERDENES MONGOL LLC-Mongolia-2020"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ERDENE MONGOL LLC-Mongolia-2020"
+      }
+    ],
+    "description": "Mass edit cells in column composite_key"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "erdenes mon",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Year",
+          "expression": "value",
+          "columnName": "Year",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2019",
+                "l": "2019"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_id",
+          "columnName": "company_id",
+          "query": "2718243",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ERDENES MONGOL LLC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ERDENE MONGOL LLC"
+      }
+    ],
+    "description": "Mass edit cells in column company_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "erdenes mon",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Year",
+          "expression": "value",
+          "columnName": "Year",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2018",
+                "l": "2018"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_id",
+          "columnName": "company_id",
+          "query": "2718243",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ERDENES MONGOL LLC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ERDENE MONGOL LLC"
+      }
+    ],
+    "description": "Mass edit cells in column company_name"
+  },
+  {
+    "op": "core/row-flag",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "new",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Year",
+          "expression": "value",
+          "columnName": "Year",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2018",
+                "l": "2018"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Revenue value",
+          "expression": "value",
+          "columnName": "Revenue value",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [],
+          "selectBlank": true,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "flagged": true,
+    "description": "Flag rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Flagged Rows",
+          "expression": "row.flagged",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "new",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Year",
+          "expression": "value",
+          "columnName": "Year",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2018",
+                "l": "2018"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_id",
+          "columnName": "company_id",
+          "query": "601729",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "composite_key",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NEWCROSS E&P LIMITED-Nigeria-2018"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEWCROSS LIMITED-Nigeria-2018"
+      }
+    ],
+    "description": "Mass edit cells in column composite_key"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Flagged Rows",
+          "expression": "row.flagged",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "new",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Year",
+          "expression": "value",
+          "columnName": "Year",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2018",
+                "l": "2018"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_id",
+          "columnName": "company_id",
+          "query": "601729",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NEWCROSS E&P LIMITED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NEWCROSS LIMITED"
+      }
+    ],
+    "description": "Mass edit cells in column company_name"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Flagged Rows",
+          "expression": "row.flagged",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "new",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Year",
+          "expression": "value",
+          "columnName": "Year",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2018",
+                "l": "2018"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_id",
+          "columnName": "company_id",
+          "query": "601729",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-flag",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "text",
+          "name": "company_id",
+          "columnName": "company_id",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Revenue value",
+          "expression": "value",
+          "columnName": "Revenue value",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [],
+          "selectBlank": true,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "flagged": true,
+    "description": "Flag rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Flagged Rows",
+          "expression": "row.flagged",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_name",
+          "columnName": "company_name",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "text",
+          "name": "company_id",
+          "columnName": "company_id",
+          "query": "J98021904S",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "company_id",
+          "columnName": "company_id",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "111142246; 110015348"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "110015348"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "company_id",
+          "columnName": "company_id",
+          "query": "110015348",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "composite_key",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "TREASURE FIVE STAR CO LTD-Myanmar-2018"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TREASURE STAR CO LTD-Myanmar-2018"
+      }
+    ],
+    "description": "Mass edit cells in column composite_key"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "company_id",
+          "columnName": "company_id",
+          "query": "110015348",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "TREASURE FIVE STAR CO LTD"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TREASURE STAR CO LTD"
+      }
+    ],
+    "description": "Mass edit cells in column company_name"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Flagged Rows",
+          "expression": "row.flagged",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pyrochlore; Tin; Bastnaesite; Colombo-tantalite; Feldspar; Xenotime; Zircon; Zirconium; Cerium; Copper; Lead; Zinc; Niobium; Tantalum; Gallium; Agent yttrium; Lanthanum; Neodymium; Praesodymium; Europiu"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pyrochlore; Tin; Bastnaesite; Colombite-tantalite; Feldspar; Xenotime; Zircon; Zirconium; Cerium; Copper; Lead; Zinc; Niobium; Tantalum; Gallium; Agent Yttrium; Lanthanum; Neodymium; Praesodymium; Europium"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oil; Gas; Condensates-Limestone"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oil; Gas; Condensates; Limestone"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Nickel-cobalt"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nickel; cobalt"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lead-zinc;Tin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lead; zinc; Tin"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Gem; Jade-Limestone; Clay; Copper; Coal; Marble; Granite; Gypsum"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gem; Jade; Limestone; Clay; Copper; Coal; Marble; Granite; Gypsum"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_commodities",
+          "expression": "grel:value.contains(\"-\")",
+          "columnName": "company_commodities",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Columbite;Lead-zinc; Tin ore"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Columbite;Lead; zinc; Tin ore"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "index",
+    "expression": "grel:forEach(cross(cell, \"combined project for cleaning\", \"index\"), r, r.cells['Project name'].value).join('; ')",
+    "onError": "set-to-blank",
+    "newColumnName": "project_name",
+    "columnInsertIndex": 1,
+    "description": "Create column project_name at index 1 based on column index using expression grel:forEach(cross(cell, \"combined project for cleaning\", \"index\"), r, r.cells['Project name'].value).join('; ')"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Project name",
+    "description": "Remove column Project name"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "project_name",
+    "expression": "join ([coalesce(cells['project_name'].value,''),coalesce(cells['Country'].value,''),coalesce(cells['Year'].value,'')],'-')",
+    "onError": "keep-original",
+    "newColumnName": "composite_project",
+    "columnInsertIndex": 2,
+    "description": "Create column composite_project at index 2 based on column project_name using expression join ([coalesce(cells['project_name'].value,''),coalesce(cells['Country'].value,''),coalesce(cells['Year'].value,'')],'-')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "composite_project",
+    "expression": "grel:forEach(cross(cell, \"eiti data part5 projects 0 2\", \"composite_project\"), r, r.cells['Legal agreement reference number(s): contract, licence, lease, concession, …'].value).join(';')",
+    "onError": "set-to-blank",
+    "newColumnName": "project_legal_agreement_or_equivalent",
+    "columnInsertIndex": 3,
+    "description": "Create column project_legal_agreement_or_equivalent at index 3 based on column composite_project using expression grel:forEach(cross(cell, \"eiti data part5 projects 0 2\", \"composite_project\"), r, r.cells['Legal agreement reference number(s): contract, licence, lease, concession, …'].value).join(';')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "composite_project",
+    "expression": "grel:forEach(cross(cell, \"eiti data part5 projects 0 2\", \"composite_project\"), r, r.cells['Commodities (one commodity/row)'].value).join(';')",
+    "onError": "set-to-blank",
+    "newColumnName": "project_commodities",
+    "columnInsertIndex": 3,
+    "description": "Create column project_commodities at index 3 based on column composite_project using expression grel:forEach(cross(cell, \"eiti data part5 projects 0 2\", \"composite_project\"), r, r.cells['Commodities (one commodity/row)'].value).join(';')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "composite_project",
+    "expression": "grel:forEach(cross(cell, \"eiti data part5 projects 0 2\", \"composite_project\"), r, r.cells['Status'].value).join(';')",
+    "onError": "set-to-blank",
+    "newColumnName": "project_status",
+    "columnInsertIndex": 3,
+    "description": "Create column project_status at index 3 based on column composite_project using expression grel:forEach(cross(cell, \"eiti data part5 projects 0 2\", \"composite_project\"), r, r.cells['Status'].value).join(';')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "composite_project",
+    "expression": "grel:forEach(cross(cell, \"eiti data part5 projects 0 2\", \"composite_project\"), r, r.cells['Production (volume)'].value).join(';')",
+    "onError": "set-to-blank",
+    "newColumnName": "project_production_volume",
+    "columnInsertIndex": 3,
+    "description": "Create column project_production_volume at index 3 based on column composite_project using expression grel:forEach(cross(cell, \"eiti data part5 projects 0 2\", \"composite_project\"), r, r.cells['Production (volume)'].value).join(';')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "composite_project",
+    "expression": "grel:forEach(cross(cell, \"eiti data part5 projects 0 2\", \"composite_project\"), r, r.cells['Unit'].value).join(';')",
+    "onError": "set-to-blank",
+    "newColumnName": "project_production_volume_unit",
+    "columnInsertIndex": 3,
+    "description": "Create column project_production_volume_unit at index 3 based on column composite_project using expression grel:forEach(cross(cell, \"eiti data part5 projects 0 2\", \"composite_project\"), r, r.cells['Unit'].value).join(';')"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "composite_project",
+    "description": "Remove column composite_project"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "project_production_volume_unit",
+    "description": "Remove column project_production_volume_unit"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "project_production_volume",
+    "description": "Remove column project_production_volume"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "project_status",
+    "description": "Remove column project_status"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "project_commodities",
+    "description": "Remove column project_commodities"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "composite_key",
+    "description": "Remove column composite_key"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "company_name",
+    "index": 0,
+    "description": "Move column company_name to position 0"
+  },
+  {
+    "op": "core/row-reorder",
+    "mode": "row-based",
+    "sorting": {
+      "criteria": [
+        {
+          "valueType": "string",
+          "column": "company_name",
+          "blankPosition": 2,
+          "errorPosition": 1,
+          "reverse": false,
+          "caseSensitive": false
+        }
+      ]
+    },
+    "description": "Reorder rows"
+  },
+  {
+    "op": "core/blank-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_name",
+    "description": "Blank down cells in column company_name"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_name",
+          "expression": "isBlank(value)",
+          "columnName": "company_name",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "company_name",
+    "expression": "jython:import uuid\nreturn str(uuid.uuid4())",
+    "onError": "set-to-blank",
+    "newColumnName": "eiti_id",
+    "columnInsertIndex": 1,
+    "description": "Create column eiti_id at index 1 based on column company_name using expression jython:import uuid\nreturn str(uuid.uuid4())"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_name",
+    "description": "Fill down cells in column company_name"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_id",
+    "description": "Fill down cells in column eiti_id"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "index",
+    "description": "Remove column index"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "In-kind volume (if applicable)",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column In-kind volume (if applicable) using expression value.toNumber()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "In-kind volume (if applicable)",
+          "expression": "value",
+          "columnName": "In-kind volume (if applicable)",
+          "from": 0,
+          "to": 150000000,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": false,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "In-kind volume (if applicable)",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/v"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column In-kind volume (if applicable)"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1622;1622"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1622"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1563;1563;1563;1563"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1563"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1439;1439;1439"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1439"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2031;2031"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2031"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "PV-311;PV-311"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PV-311"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/v;n/v"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/v;n/v;n/v;n/v;n/v;n/v;n/v;n/v;n/v;n/v;n/v;n/v;n/v;n/v;n/v;n/v;n/v"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "PE n°459;PE n°459"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PE n°459"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1622;1622;1622;1622"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1622"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/a;n/a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "PE n°18584;PE n°18584"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PE n°18584"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MPSA No. 233-2007-XIII (SMR);MPSA No. 233-2007-XIII (SMR)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MPSA No. 233-2007-XIII (SMR)"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Small-scale mining license;Small-scale mining license"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Small-scale mining license"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/a;n/a;n/a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "PE n°651;PE n°651"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PE n°651"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "PE n°651;PE n°651;PE n°651"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PE n°651"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "101530286;101530286;101530286;101530286"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "101530286"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "000102561-5;000102561-5"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "000102561-5"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "130417784;130417784"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "130417784"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "000121807-9;000121807-9"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "000121807-9"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "112379-5;112379-5"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "112379-5"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/a;n/a;n/a;n/a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/a;n/a;n/a;n/a;n/a;n/a;n/a;n/a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "project_legal_agreement_or_equivalent",
+          "expression": "grel:value.contains(\";\")",
+          "columnName": "project_legal_agreement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "project_legal_agreement_or_equivalent",
+    "expression": "jython:if value is None or value == \"\":\n    return value\n\nitems = value.split(';')\nunique_items = list(set(items))\nunique_items = sorted(unique_items, key=lambda x: items.index(x))  # Preserve original order based on first occurrence\nresult = ';'.join(unique_items)\nreturn result",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column project_legal_agreement_or_equivalent using expression jython:if value is None or value == \"\":\n    return value\n\nitems = value.split(';')\nunique_items = list(set(items))\nunique_items = sorted(unique_items, key=lambda x: items.index(x))  # Preserve original order based on first occurrence\nresult = ';'.join(unique_items)\nreturn result"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "eiti_id",
+    "newColumnName": "eiti_id_company",
+    "description": "Rename column eiti_id to eiti_id_company"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "project_legal_agreement_or_equivalent",
+    "description": "Remove column project_legal_agreement_or_equivalent"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "project_name",
+    "expression": "join ([coalesce(cells['project_name'].value,''),coalesce(cells['Country'].value,''),coalesce(cells['Year'].value,'')],'-')",
+    "onError": "keep-original",
+    "newColumnName": "composite_project",
+    "columnInsertIndex": 3,
+    "description": "Create column composite_project at index 3 based on column project_name using expression join ([coalesce(cells['project_name'].value,''),coalesce(cells['Country'].value,''),coalesce(cells['Year'].value,'')],'-')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "composite_project",
+    "expression": "grel:forEach(cross(cell, \"eiti-data_part3-projects_1.1\", \"composite_project\"), r, r.cells['eiti_id_project'].value).join(';')",
+    "onError": "set-to-blank",
+    "newColumnName": "eiti_id_project",
+    "columnInsertIndex": 4,
+    "description": "Create column eiti_id_project at index 4 based on column composite_project using expression grel:forEach(cross(cell, \"eiti-data_part3-projects_1.1\", \"composite_project\"), r, r.cells['eiti_id_project'].value).join(';')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_id_project",
+    "expression": "jython:if value is None or value == \"\":\n    return value\n\nitems = value.split(';')\nunique_items = list(set(items))\nunique_items = sorted(unique_items, key=lambda x: items.index(x))  # Preserve original order based on first occurrence\nresult = ';'.join(unique_items)\nreturn result",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column eiti_id_project using expression jython:if value is None or value == \"\":\n    return value\n\nitems = value.split(';')\nunique_items = list(set(items))\nunique_items = sorted(unique_items, key=lambda x: items.index(x))  # Preserve original order based on first occurrence\nresult = ';'.join(unique_items)\nreturn result"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "composite_project",
+    "description": "Remove column composite_project"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Zircon;Ilménite"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zircon;Ilmenite"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Zin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zinc"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Zinc ore"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zinc"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sn; Ta; Nb; Gold; W"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tin; Tantalum; Niobium; Gold; Tungsten"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sn; W"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tin; Tungsten"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Sn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tin"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oil transport"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oil"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oil exploration"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oil"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oil and gas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oil; gas"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oil;Gas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Oil; Gas"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not available"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "N/A"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Clayr; Limestone; Laterite"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Clay; Limestone; Laterite"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "COA; PYR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "coal; pyrite"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cement (distribution)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cement"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column company_commodities using expression value.toLowercase()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "not reported"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "coltan; sn; w"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "coltan; tin; tungsten"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "exploration"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "em"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "emeralds"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "femn; cassitérite"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ferromanganese; cassiterite"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_commodities",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "gold; nb; sn; ta; w"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "gold; niobium; tin; tantalum; tungsten"
+      }
+    ],
+    "description": "Mass edit cells in column company_commodities"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Comments",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column Comments"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Comments",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "0"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column Comments"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Comments",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column Comments"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Comments",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "TRUE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column Comments"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Comments",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column Comments"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Comments",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Non applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column Comments"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Comments",
+          "expression": "grel:if(value.match(/^\\d*\\.?\\d+$/) != null, 'Match', 'No match')",
+          "columnName": "Comments",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Match",
+                "l": "Match"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_public_listing_or_website",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_public_listing_or_website"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_audited_financial statement_or_equivalent",
+          "expression": "isBlank(value)",
+          "columnName": "company_audited_financial statement_or_equivalent",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_audited_financial statement_or_equivalent",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_audited_financial statement_or_equivalent"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_public_listing_or_website",
+          "expression": "isBlank(value)",
+          "columnName": "company_public_listing_or_website",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_public_listing_or_website",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_public_listing_or_website"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_sector",
+          "expression": "isBlank(value)",
+          "columnName": "company_sector",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "company_id",
+          "expression": "isBlank(value)",
+          "columnName": "company_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "company_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column company_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Unit (if applicable)",
+          "expression": "isBlank(value)",
+          "columnName": "Unit (if applicable)",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Unit (if applicable)",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column Unit (if applicable)"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Comments",
+          "expression": "isBlank(value)",
+          "columnName": "Comments",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Comments",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column Comments"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "End Date",
+    "newColumnName": "end_date",
+    "description": "Rename column End Date to end_date"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Start Date",
+    "newColumnName": "start_date",
+    "description": "Rename column Start Date to start_date"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Year",
+    "newColumnName": "year",
+    "description": "Rename column Year to year"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "ISO Code",
+    "newColumnName": "iso_code3",
+    "description": "Rename column ISO Code to iso_code3"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Country",
+    "newColumnName": "country",
+    "description": "Rename column Country to country"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Comments",
+    "newColumnName": "comments",
+    "description": "Rename column Comments to comments"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Unit (if applicable)",
+    "newColumnName": "in_kind_unit",
+    "description": "Rename column Unit (if applicable) to in_kind_unit"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "In-kind volume (if applicable)",
+    "newColumnName": "in_kind_volume",
+    "description": "Rename column In-kind volume (if applicable) to in_kind_volume"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Payment made in-kind (Y/N)",
+    "newColumnName": "payment_in_kind",
+    "description": "Rename column Payment made in-kind (Y/N) to payment_in_kind"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "payment_in_kind",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "no"
+      }
+    ],
+    "description": "Mass edit cells in column payment_in_kind"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "payment_in_kind",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Yes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "yes"
+      }
+    ],
+    "description": "Mass edit cells in column payment_in_kind"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "payment_in_kind",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Partially"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "partially"
+      }
+    ],
+    "description": "Mass edit cells in column payment_in_kind"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Reporting currency",
+    "newColumnName": "reporting_currency",
+    "description": "Rename column Reporting currency to reporting_currency"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Reported by project (Y/N)",
+    "newColumnName": "reported_by_project",
+    "description": "Rename column Reported by project (Y/N) to reported_by_project"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Levied on project (Y/N)",
+    "newColumnName": "levied_on_project",
+    "description": "Rename column Levied on project (Y/N) to levied_on_project"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "reported_by_project",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "no"
+      }
+    ],
+    "description": "Mass edit cells in column reported_by_project"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "reported_by_project",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Yes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "yes"
+      }
+    ],
+    "description": "Mass edit cells in column reported_by_project"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "reported_by_project",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Partially"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "partially"
+      }
+    ],
+    "description": "Mass edit cells in column reported_by_project"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "levied_on_project",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "no"
+      }
+    ],
+    "description": "Mass edit cells in column levied_on_project"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "levied_on_project",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Partially"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "partially"
+      }
+    ],
+    "description": "Mass edit cells in column levied_on_project"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "levied_on_project",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Yes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "yes"
+      }
+    ],
+    "description": "Mass edit cells in column levied_on_project"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Revenue stream name",
+    "newColumnName": "revenue_stream_name",
+    "description": "Rename column Revenue stream name to revenue_stream_name"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Government entity",
+    "newColumnName": "government_entity",
+    "description": "Rename column Government entity to government_entity"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Revenue value",
+    "newColumnName": "revenue_value",
+    "description": "Rename column Revenue value to revenue_value"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "OpenCorporatesID",
+    "newColumnName": "opencorporates_id",
+    "description": "Rename column OpenCorporatesID to opencorporates_id"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "government_entity",
+    "expression": "join ([coalesce(cells['government_entity'].value,''),coalesce(cells['country'].value,''),coalesce(cells['year'].value,'')],'-')",
+    "onError": "keep-original",
+    "newColumnName": "agency_key",
+    "columnInsertIndex": 15,
+    "description": "Create column agency_key at index 15 based on column government_entity using expression join ([coalesce(cells['government_entity'].value,''),coalesce(cells['country'].value,''),coalesce(cells['year'].value,'')],'-')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "agency_key",
+    "expression": "grel:forEach(cross(cell, \"eiti-data_part4_1.1\", \"agency_key\"), r, r.cells['eiti_id_government'].value).join(';')",
+    "onError": "set-to-blank",
+    "newColumnName": "eiti_id_government",
+    "columnInsertIndex": 16,
+    "description": "Create column eiti_id_government at index 16 based on column agency_key using expression grel:forEach(cross(cell, \"eiti-data_part4_1.1\", \"agency_key\"), r, r.cells['eiti_id_government'].value).join(';')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_id_government",
+    "expression": "jython:if value is None or value == \"\":\n    return value\n\nitems = value.split(';')\nunique_items = list(set(items))\nunique_items = sorted(unique_items, key=lambda x: items.index(x))  # Preserve original order based on first occurrence\nresult = ';'.join(unique_items)\nreturn result",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column eiti_id_government using expression jython:if value is None or value == \"\":\n    return value\n\nitems = value.split(';')\nunique_items = list(set(items))\nunique_items = sorted(unique_items, key=lambda x: items.index(x))  # Preserve original order based on first occurrence\nresult = ';'.join(unique_items)\nreturn result"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "agency_key",
+    "description": "Remove column agency_key"
+  }
+]

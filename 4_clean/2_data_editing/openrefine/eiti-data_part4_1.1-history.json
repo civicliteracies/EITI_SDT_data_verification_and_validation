@@ -1,0 +1,5080 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "COMMISSARIAT DES IMPÔTS (CI)",
+          "Commissariat des Impots (CI)",
+          "Commissariat des Impôts (CI)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "COMMISSARIAT DES IMPÔTS (CI)"
+      },
+      {
+        "from": [
+          "Direction Generale du Travail et de Lois Sociales (DGTLS)",
+          "DIRECTION GÉNÉRALE DU TRAVAIL ET DE LOIS SOCIALES (DGTLS)",
+          "Direction Générale du travail et de lois Sociales (DGTLS)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DU TRAVAIL ET DE LOIS SOCIALES (DGTLS)"
+      },
+      {
+        "from": [
+          "NATIONAL PORT AUTHORITY (NPA)",
+          "National Port Authority (NPA)",
+          "National Port Authority -NPA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NATIONAL PORT AUTHORITY (NPA)"
+      },
+      {
+        "from": [
+          "ENVIRONMENTAL PROTECTION AUTHORITY (EPA)",
+          "Environmental Protection Authority (EPA)",
+          "Environmental Protection Authority - EPA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ENVIRONMENTAL PROTECTION AUTHORITY (EPA)"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DES MINES ET DE LA GÉOLOGIE (DGMG)",
+          "Direction Générale des Mines et de la Géologie (DGMG)",
+          "Direction Generale des Mines et de la Geologie (DGMG)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DES MINES ET DE LA GÉOLOGIE (DGMG)"
+      },
+      {
+        "from": [
+          "LIBERIA REVENUE AUTHORITY (LRA)",
+          "Liberia Revenue Authority (LRA)",
+          "Liberia Revenue Authority -LRA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LIBERIA REVENUE AUTHORITY (LRA)"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DES IMPÔTS (DGI)",
+          "Direction Générale des Impôts (DGI)",
+          "Direction Générale des impôts (DGI)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DES IMPÔTS (DGI)"
+      },
+      {
+        "from": [
+          "MINISTERIO DE ENERGÍA Y MINAS (MEM)",
+          "Ministerio de Energia y Minas (MEM)",
+          "Ministerio de Energía y Minas (MEM)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTERIO DE ENERGÍA Y MINAS (MEM)"
+      },
+      {
+        "from": [
+          "SOCIÉTÉ NATIONALE D'OPÉRATIONS PÉTROLIÈRES DE CÔTE D'IVOIRE (PETROCI)",
+          "Société Nationale d'Opérations Pétrolières de Cote d'Ivoire (PETROCI)",
+          "Société Nationale d'Opérations Pétrolières de Côte d'Ivoire (PETROCI)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SOCIÉTÉ NATIONALE D'OPÉRATIONS PÉTROLIÈRES DE CÔTE D'IVOIRE (PETROCI)"
+      },
+      {
+        "from": [
+          "LIBERIA CIVIL AVIATION AUTHORITY (LCAA)",
+          "Liberia Civil Aviation Authority (LCAA)",
+          "Liberia Civil Aviation Authority -LCAA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LIBERIA CIVIL AVIATION AUTHORITY (LCAA)"
+      },
+      {
+        "from": [
+          "CAISSE NATIONALE DE SÉCURITÉ SOCIALE (CNSS)",
+          "Caisse Nationale de Securite Sociale (CNSS)",
+          "Caisse Nationale de Sécurité Sociale (CNSS)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CAISSE NATIONALE DE SÉCURITÉ SOCIALE (CNSS)"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DU TRÉSOR ET DE LA COMPTABILITÉ PUBLIQUE (DGTCP)",
+          "Direction Générale du Trésor et de la Comptabilité Publique (DGTCP)",
+          "Direction Generale du Tresor et de la Comptabilite Publique (DGTCP)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DU TRÉSOR ET DE LA COMPTABILITÉ PUBLIQUE (DGTCP)"
+      },
+      {
+        "from": [
+          "ENVIRONMENTAL PROTECTION AGENCY",
+          "Environmental Protection Agency"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ENVIRONMENTAL PROTECTION AGENCY"
+      },
+      {
+        "from": [
+          "ADMINISTRATION DES DOMAINES",
+          "Administration des Domaines"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ADMINISTRATION DES DOMAINES"
+      },
+      {
+        "from": [
+          "MINISTRY ON ENERGY AND ENERGY INDUSTRIES",
+          "Ministry on Energy and Energy Industries"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY ON ENERGY AND ENERGY INDUSTRIES"
+      },
+      {
+        "from": [
+          "DIRECTION DE L'ENVIRONNEMENT ET DES ETABLISSEMENTS CLASSÉS (DEEC)",
+          "Direction de l'Environnement et des Etablissements Classés (DEEC)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION DE L'ENVIRONNEMENT ET DES ETABLISSEMENTS CLASSÉS (DEEC)"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DU TRÉSOR DE LA COOPÉRATION FINANCIÈRE ET MONÉTAIRE (DGTCFM)",
+          "Direction Générale du Trésor, de la Coopération Financière et Monétaire (DGTCFM)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DU TRÉSOR DE LA COOPÉRATION FINANCIÈRE ET MONÉTAIRE (DGTCFM)"
+      },
+      {
+        "from": [
+          "SOCIAL INSURANCE GENERAL OFFICE",
+          "Social Insurance General Office"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SOCIAL INSURANCE GENERAL OFFICE"
+      },
+      {
+        "from": [
+          "MINISTRY OF FINANCE - INLAND REVENUE DIVISION",
+          "Ministry of Finance - Inland Revenue Division"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF FINANCE - INLAND REVENUE DIVISION"
+      },
+      {
+        "from": [
+          "SOCIÉTÉ NATIONALE DES HYDROCARBURES (SNH)",
+          "Société Nationale des Hydrocarbures (SNH)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SOCIÉTÉ NATIONALE DES HYDROCARBURES (SNH)"
+      },
+      {
+        "from": [
+          "MINING AUTHORITIES (LEVEL OF STATE GOVERNMENT (\"LÄNDER\"))",
+          "Mining Authorities (Level of state government (\"Länder\"))"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINING AUTHORITIES (LEVEL OF STATE GOVERNMENT (\"LÄNDER\"))"
+      },
+      {
+        "from": [
+          "LOCAL COUNCILS",
+          "Local Councils"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LOCAL COUNCILS"
+      },
+      {
+        "from": [
+          "GUYANA GEOLOGY AND MINES COMMISSION (GGMC)",
+          "Guyana Geology and Mines Commission (GGMC)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GUYANA GEOLOGY AND MINES COMMISSION (GGMC)"
+      },
+      {
+        "from": [
+          "DEPARTMENT OF PETROLEUM RESOURCES",
+          "Department of Petroleum Resources"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DEPARTMENT OF PETROLEUM RESOURCES"
+      },
+      {
+        "from": [
+          "KAHAMA TOWN COUNCIL",
+          "Kahama Town Council"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "KAHAMA TOWN COUNCIL"
+      },
+      {
+        "from": [
+          "BUREAU OF INTERNAL REVENUE (BIR)",
+          "Bureau of Internal Revenue (BIR)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BUREAU OF INTERNAL REVENUE (BIR)"
+      },
+      {
+        "from": [
+          "BUREAU DU CADASTRE MINIER DE MADAGASCAR",
+          "Bureau du Cadastre Minier de Madagascar"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BUREAU DU CADASTRE MINIER DE MADAGASCAR"
+      },
+      {
+        "from": [
+          "DEPARTMENT OF MINES (DOM)",
+          "Department of Mines (DOM)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DEPARTMENT OF MINES (DOM)"
+      },
+      {
+        "from": [
+          "MINISTRY OF LANDS",
+          "Ministry of Lands"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF LANDS"
+      },
+      {
+        "from": [
+          "GUYANA REVENUE AUTHORITY (GRA)",
+          "Guyana Revenue Authority (GRA)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GUYANA REVENUE AUTHORITY (GRA)"
+      },
+      {
+        "from": [
+          "ETHIOPIAN REVENUES AND CUSTOMS AUTHORITY (ERCA)",
+          "Ethiopian Revenues and Customs Authority (ERCA)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ETHIOPIAN REVENUES AND CUSTOMS AUTHORITY (ERCA)"
+      },
+      {
+        "from": [
+          "MINISTRY OF FINANCE (REVENUE DEPARTMENT)",
+          "Ministry of Finance (Revenue Department)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF FINANCE (REVENUE DEPARTMENT)"
+      },
+      {
+        "from": [
+          "MBINGA DISTRICT COUNCIL",
+          "Mbinga District Council"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MBINGA DISTRICT COUNCIL"
+      },
+      {
+        "from": [
+          "LOCALITÉ DE LAUZOUA DIVO",
+          "Localité de Lauzoua Divo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LOCALITÉ DE LAUZOUA DIVO"
+      },
+      {
+        "from": [
+          "COMMISSARIAT DES DOUANES ET DROITS INDIRECTS (CDDI)",
+          "Commissariat des Douanes et Droits Indirects (CDDI)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "COMMISSARIAT DES DOUANES ET DROITS INDIRECTS (CDDI)"
+      },
+      {
+        "from": [
+          "TAX REVENUE AUTHORITY",
+          "Tax Revenue Authority"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TAX REVENUE AUTHORITY"
+      },
+      {
+        "from": [
+          "YILO KROBO DISTRICT ASSEMBLY",
+          "Yilo Krobo District Assembly"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "YILO KROBO DISTRICT ASSEMBLY"
+      },
+      {
+        "from": [
+          "SOCIÉTÉ NATIONALE D’INVESTISSEMENT DU CAMEROUN (SNI)",
+          "Société Nationale d’Investissement du Cameroun (SNI)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SOCIÉTÉ NATIONALE D’INVESTISSEMENT DU CAMEROUN (SNI)"
+      },
+      {
+        "from": [
+          "NIGERIAN NATIONAL PETROLEUM CORPORATION (NNPC)",
+          "Nigerian National Petroleum Corporation (NNPC)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NIGERIAN NATIONAL PETROLEUM CORPORATION (NNPC)"
+      },
+      {
+        "from": [
+          "AUTRES BÉNÉFICIAIRES (PAIEMENTS ENVIRONNEMENTAUX)",
+          "Autres bénéficiaires (paiements environnementaux)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AUTRES BÉNÉFICIAIRES (PAIEMENTS ENVIRONNEMENTAUX)"
+      },
+      {
+        "from": [
+          "BIRIM NORTH ASSEMBLY",
+          "Birim North Assembly"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BIRIM NORTH ASSEMBLY"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DES DOUANES ET ACCISES (DGDA)",
+          "Direction Générale des Douanes et Accises (DGDA)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DES DOUANES ET ACCISES (DGDA)"
+      },
+      {
+        "from": [
+          "TAX OFFICES (LEVEL OF STATE GOVERNMENT (\"LÄNDER\"))",
+          "Tax Offices (Level of state government (\"Länder\"))"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TAX OFFICES (LEVEL OF STATE GOVERNMENT (\"LÄNDER\"))"
+      },
+      {
+        "from": [
+          "MINISTRY OF FINANCE INVESTMENT DECISION",
+          "Ministry of Finance Investment Decision"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF FINANCE INVESTMENT DECISION"
+      },
+      {
+        "from": [
+          "OIL & GAS AUTHORITY (OGA)",
+          "Oil & Gas Authority (OGA)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "OIL & GAS AUTHORITY (OGA)"
+      },
+      {
+        "from": [
+          "THE NORWEGIAN TAX DIRECTORATE",
+          "The Norwegian Tax Directorate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THE NORWEGIAN TAX DIRECTORATE"
+      },
+      {
+        "from": [
+          "GEITA TOWN COUNCIL",
+          "Geita Town Council"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GEITA TOWN COUNCIL"
+      },
+      {
+        "from": [
+          "MINISTRY OF MINES AND MINERALS DEVELOPMENT",
+          "Ministry of Mines and Minerals Development"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF MINES AND MINERALS DEVELOPMENT"
+      },
+      {
+        "from": [
+          "AGENCE CONGOLAISE DE L’ENVIRONNEMENT (ACE)",
+          "Agence Congolaise de l’Environnement (ACE)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AGENCE CONGOLAISE DE L’ENVIRONNEMENT (ACE)"
+      },
+      {
+        "from": [
+          "MONGOLIAN CUSTOMS GENERAL ADMINISTRATION",
+          "Mongolian Customs General Administration"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MONGOLIAN CUSTOMS GENERAL ADMINISTRATION"
+      },
+      {
+        "from": [
+          "CROWN ESTATE SCOTLAND (CES)",
+          "Crown Estate Scotland (CES)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CROWN ESTATE SCOTLAND (CES)"
+      },
+      {
+        "from": [
+          "Environmental Protection Fund",
+          "ENVIRONMENTAL PROTECTION FUND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ENVIRONMENTAL PROTECTION FUND"
+      },
+      {
+        "from": [
+          "ENERGY REGULATORY AUTHORITY (ERE)",
+          "Energy Regulatory Authority (ERE)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ENERGY REGULATORY AUTHORITY (ERE)"
+      },
+      {
+        "from": [
+          "NATIONAL AGENCY OF NATURAL RESOUCES (AKBN)",
+          "National Agency of Natural Resouces (AKBN)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NATIONAL AGENCY OF NATURAL RESOUCES (AKBN)"
+      },
+      {
+        "from": [
+          "SOCIETE TOGOLAISE DES EAUX (TDE)",
+          "Societe Togolaise des Eaux (TdE)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SOCIETE TOGOLAISE DES EAUX (TDE)"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DES MINES",
+          "Direction Générale des Mines"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DES MINES"
+      },
+      {
+        "from": [
+          "MWANZA CITY COUNCIL",
+          "Mwanza City Council"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MWANZA CITY COUNCIL"
+      },
+      {
+        "from": [
+          "DIRECTION DU TRÉSOR ET DE LA COMPTABILITÉ PUBLIQUE (DGTCP)",
+          "Direction du Trésor et de la Comptabilité Publique (DGTCP)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION DU TRÉSOR ET DE LA COMPTABILITÉ PUBLIQUE (DGTCP)"
+      },
+      {
+        "from": [
+          "Petroleum Commission",
+          "PETROLEUM COMMISSION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PETROLEUM COMMISSION"
+      },
+      {
+        "from": [
+          "Autres bénéficiaires (paiements sociaux)",
+          "AUTRES BÉNÉFICIAIRES (PAIEMENTS SOCIAUX)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AUTRES BÉNÉFICIAIRES (PAIEMENTS SOCIAUX)"
+      },
+      {
+        "from": [
+          "STATE ADMINISTRATIVE BODY",
+          "State administrative body"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "STATE ADMINISTRATIVE BODY"
+      },
+      {
+        "from": [
+          "PHILIPPINE PORTS AUTHORITY (PPA)",
+          "Philippine Ports Authority (PPA)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PHILIPPINE PORTS AUTHORITY (PPA)"
+      },
+      {
+        "from": [
+          "MINING INSPECTORATE DIVISION",
+          "Mining Inspectorate Division"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINING INSPECTORATE DIVISION"
+      },
+      {
+        "from": [
+          "OTHER GOVT. AGENCY",
+          "Other Govt. Agency"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "OTHER GOVT. AGENCY"
+      },
+      {
+        "from": [
+          "MINISTRY OF MINES AND PETROLEUM (MOMP)",
+          "Ministry of Mines and Petroleum (MoMP)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF MINES AND PETROLEUM (MOMP)"
+      },
+      {
+        "from": [
+          "MUNICIPALITY OF BULQIZË",
+          "Municipality of Bulqizë"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MUNICIPALITY OF BULQIZË"
+      },
+      {
+        "from": [
+          "Mines Inspectorate Department",
+          "MINES INSPECTORATE DEPARTMENT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINES INSPECTORATE DEPARTMENT"
+      },
+      {
+        "from": [
+          "MINING CADASTRAL OFFICE",
+          "Mining Cadastral Office"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINING CADASTRAL OFFICE"
+      },
+      {
+        "from": [
+          "MYANMAR CUSTOMS DEPARTMENT (MCD)",
+          "Myanmar Customs Department (MCD)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MYANMAR CUSTOMS DEPARTMENT (MCD)"
+      },
+      {
+        "from": [
+          "FEDERAL INLAND REVENUE SERVICE",
+          "Federal Inland Revenue Service"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FEDERAL INLAND REVENUE SERVICE"
+      },
+      {
+        "from": [
+          "DEPARTMENT OF TRADING (DOT)",
+          "Department of Trading (DoT)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DEPARTMENT OF TRADING (DOT)"
+      },
+      {
+        "from": [
+          "FEDERAL INLAND REVENUE SERVICE (FOR OIL & GAS)",
+          "Federal Inland Revenue Service (for Oil & Gas)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FEDERAL INLAND REVENUE SERVICE (FOR OIL & GAS)"
+      },
+      {
+        "from": [
+          "MINES AND GEOSCIENCES BUREAU (MGB)",
+          "Mines and Geosciences Bureau (MGB)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINES AND GEOSCIENCES BUREAU (MGB)"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DES HYDROCARBURES (DGH)",
+          "Direction Générale des Hydrocarbures (DGH)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DES HYDROCARBURES (DGH)"
+      },
+      {
+        "from": [
+          "ELLEMBELLE",
+          "Ellembelle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ELLEMBELLE"
+      },
+      {
+        "from": [
+          "OFFICE OF THE ADMINISTRATOR OF STOOL LANDS",
+          "Office of the Administrator of Stool Lands"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "OFFICE OF THE ADMINISTRATOR OF STOOL LANDS"
+      },
+      {
+        "from": [
+          "SUBNATIONAL LEVEL",
+          "Subnational level"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SUBNATIONAL LEVEL"
+      },
+      {
+        "from": [
+          "LOCAL GOVERNOR DEPARTMENT",
+          "Local governor department"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LOCAL GOVERNOR DEPARTMENT"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DU TRÉSOR (DGT)",
+          "Direction Générale du Trésor (DGT)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DU TRÉSOR (DGT)"
+      },
+      {
+        "from": [
+          "NIGER DELTA DEVELOPMENT COMMISSION",
+          "Niger Delta Development Commission"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NIGER DELTA DEVELOPMENT COMMISSION"
+      },
+      {
+        "from": [
+          "NIGERIAN CONTENT DEVELOPMENT AND MONITORING BOARD (NCDMB)",
+          "Nigerian Content Development and Monitoring Board (NCDMB)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NIGERIAN CONTENT DEVELOPMENT AND MONITORING BOARD (NCDMB)"
+      },
+      {
+        "from": [
+          "TARKWA NSUAEM",
+          "Tarkwa Nsuaem"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TARKWA NSUAEM"
+      },
+      {
+        "from": [
+          "DENKYIRA DISTRICT ASSEMBLY",
+          "Denkyira District Assembly"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DENKYIRA DISTRICT ASSEMBLY"
+      },
+      {
+        "from": [
+          "KISHAPU DISTRICT COUNCIL",
+          "Kishapu District Council"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "KISHAPU DISTRICT COUNCIL"
+      },
+      {
+        "from": [
+          "MUNICIPALITY OF KRUJË",
+          "Municipality of Krujë"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MUNICIPALITY OF KRUJË"
+      },
+      {
+        "from": [
+          "INSTITUTE FOR MANAGEMENT OF STATE SHAREHOLDINGS",
+          "Institute for Management of State Shareholdings"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "INSTITUTE FOR MANAGEMENT OF STATE SHAREHOLDINGS"
+      },
+      {
+        "from": [
+          "DIRECTION NATIONALE DES DOMAINES ET DU CADASTRE (DNDC)",
+          "Direction Nationale des Domaines et du Cadastre (DNDC)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION NATIONALE DES DOMAINES ET DU CADASTRE (DNDC)"
+      },
+      {
+        "from": [
+          "CUSTOMS GENERAL ADMINISTRATION",
+          "Customs General Administration"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CUSTOMS GENERAL ADMINISTRATION"
+      },
+      {
+        "from": [
+          "DIRECTION DES RECETTES PROVINCIALES",
+          "Direction des Recettes Provinciales"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION DES RECETTES PROVINCIALES"
+      },
+      {
+        "from": [
+          "MINISTRY OF FINANCE (CUSTOMS DEPARTMENT)",
+          "Ministry of Finance (Customs Department)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF FINANCE (CUSTOMS DEPARTMENT)"
+      },
+      {
+        "from": [
+          "MSALALA DISTRICT COUNCIL",
+          "Msalala District Council"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MSALALA DISTRICT COUNCIL"
+      },
+      {
+        "from": [
+          "SOCIÉTÉ DES HYDROCARBURES DU TCHAD (SHT)",
+          "Société des Hydrocarbures du Tchad (SHT)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SOCIÉTÉ DES HYDROCARBURES DU TCHAD (SHT)"
+      },
+      {
+        "from": [
+          "NON-DISAGGREGATED REVENUE FLOWS",
+          "Non-disaggregated revenue flows"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NON-DISAGGREGATED REVENUE FLOWS"
+      },
+      {
+        "from": [
+          "THE NORWEGIAN PETROLEUM DIRECTORATE",
+          "The Norwegian Petroleum Directorate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THE NORWEGIAN PETROLEUM DIRECTORATE"
+      },
+      {
+        "from": [
+          "MINISTÈRE EN CHARGE DES MINES",
+          "Ministère en charge des mines"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTÈRE EN CHARGE DES MINES"
+      },
+      {
+        "from": [
+          "MINISTRY OF TERRITORIAL ADMINISTRATION AND DEVELOPMENT",
+          "Ministry of Territorial Administration and Development"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF TERRITORIAL ADMINISTRATION AND DEVELOPMENT"
+      },
+      {
+        "from": [
+          "GENERAL AGENCY FOR HEALTH AND SOCIAL INSURANCE",
+          "General Agency for Health and Social Insurance"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GENERAL AGENCY FOR HEALTH AND SOCIAL INSURANCE"
+      },
+      {
+        "from": [
+          "DIRECTION DES MINES ET DE LA GÉOLOGIE (DMG)",
+          "Direction des Mines et de la Géologie (DMG)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION DES MINES ET DE LA GÉOLOGIE (DMG)"
+      },
+      {
+        "from": [
+          "FOREST DEPARTMENT (FD)",
+          "Forest Department (FD)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FOREST DEPARTMENT (FD)"
+      },
+      {
+        "from": [
+          "BUREAU OF CUSTOMS (BOC)",
+          "Bureau of Customs (BOC)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BUREAU OF CUSTOMS (BOC)"
+      },
+      {
+        "from": [
+          "CENTRAL BANK OF NIGERIA",
+          "Central Bank of Nigeria"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CENTRAL BANK OF NIGERIA"
+      },
+      {
+        "from": [
+          "INTERNAL REVENUE DEPARTMENT (IRD)",
+          "Internal Revenue Department (IRD)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "INTERNAL REVENUE DEPARTMENT (IRD)"
+      },
+      {
+        "from": [
+          "MYANMAR PEARL ENTREPRISE",
+          "Myanmar Pearl Entreprise"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MYANMAR PEARL ENTREPRISE"
+      },
+      {
+        "from": [
+          "THE NORWEGIAN TAX ADMINISTRATION",
+          "The Norwegian Tax Administration"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THE NORWEGIAN TAX ADMINISTRATION"
+      },
+      {
+        "from": [
+          "TANZANIA REVENUE AUTHORITY",
+          "Tanzania Revenue Authority"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TANZANIA REVENUE AUTHORITY"
+      },
+      {
+        "from": [
+          "Autorité pour la promotion de la Recherche Pétrolière (AUREP)",
+          "AUTORITÉ POUR LA PROMOTION DE LA RECHERCHE PÉTROLIÈRE (AUREP)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AUTORITÉ POUR LA PROMOTION DE LA RECHERCHE PÉTROLIÈRE (AUREP)"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DES DOUANES",
+          "Direction Générale des Douanes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DES DOUANES"
+      },
+      {
+        "from": [
+          "Mpohor Wassa East",
+          "MPOHOR WASSA EAST"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MPOHOR WASSA EAST"
+      },
+      {
+        "from": [
+          "GOVERNMENT AGENCY FOR POLICY COORDINATION ON STATE PROPERTY",
+          "Government agency for policy coordination on state property"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GOVERNMENT AGENCY FOR POLICY COORDINATION ON STATE PROPERTY"
+      },
+      {
+        "from": [
+          "METROPOLITAN MUNICIPAL AND DISTRICT ASSEMBLIES",
+          "Metropolitan, Municipal and District Assemblies"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "METROPOLITAN MUNICIPAL AND DISTRICT ASSEMBLIES"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DES DOUANES ET DES DROITS INDIRECTS (DGDDI)",
+          "Direction Générale des Douanes et des Droits Indirects (DGDDI)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DES DOUANES ET DES DROITS INDIRECTS (DGDDI)"
+      },
+      {
+        "from": [
+          "NATIONAL OIL COMPANY OF LIBERIA (NOCAL)",
+          "National Oil Company of Liberia -NOCAL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NATIONAL OIL COMPANY OF LIBERIA (NOCAL)"
+      },
+      {
+        "from": [
+          "MYANMAR OIL AND GAS ENTERPRISE",
+          "Myanmar Oil and Gas Enterprise"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MYANMAR OIL AND GAS ENTERPRISE"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE TECHNIQUE DES MINES (DGTM)",
+          "Direction Générale Technique des Mines (DGTM)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE TECHNIQUE DES MINES (DGTM)"
+      },
+      {
+        "from": [
+          "FONDS D'INTERVENTION POUR L'ENVIRONNEMENT (FIE)",
+          "Fonds d'Intervention pour l'Environnement (FIE)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FONDS D'INTERVENTION POUR L'ENVIRONNEMENT (FIE)"
+      },
+      {
+        "from": [
+          "AGENCE NATIONALE DE GESTION DE L'ENVIRONNEMENT (ANGE)",
+          "Agence Nationale de Gestion de l'Environnement (ANGE)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AGENCE NATIONALE DE GESTION DE L'ENVIRONNEMENT (ANGE)"
+      },
+      {
+        "from": [
+          "NATIONAL ENVIRONMENTAL PROTECTION AGENCY",
+          "National Environmental Protection Agency"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NATIONAL ENVIRONMENTAL PROTECTION AGENCY"
+      },
+      {
+        "from": [
+          "Direction Générale de la Comptabilité Publique et du Trésor (DGCPT)",
+          "DIRECTION GÉNÉRALE DE LA COMPTABILITÉ PUBLIQUE ET DU TRÉSOR (DGCPT)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DE LA COMPTABILITÉ PUBLIQUE ET DU TRÉSOR (DGCPT)"
+      },
+      {
+        "from": [
+          "MUNICIPALITY OF RROSKOVEC",
+          "Municipality of Rroskovec"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MUNICIPALITY OF RROSKOVEC"
+      },
+      {
+        "from": [
+          "OFFICE NATIONALE POUR L'ENVIRONNEMENT",
+          "Office Nationale pour l'Environnement"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "OFFICE NATIONALE POUR L'ENVIRONNEMENT"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DES IMPÔTS ET DES DOMAINES (DGID)",
+          "Direction Générale des Impôts et des Domaines (DGID)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DES IMPÔTS ET DES DOMAINES (DGID)"
+      },
+      {
+        "from": [
+          "NATIONAL MINING INSTITUTE",
+          "National Mining Institute"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NATIONAL MINING INSTITUTE"
+      },
+      {
+        "from": [
+          "GUYANA GOLD BOARD (GGB)",
+          "Guyana Gold Board (GGB)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GUYANA GOLD BOARD (GGB)"
+      },
+      {
+        "from": [
+          "SOCIÉTÉ DU PORT À GESTION AUTONOME DE TOAMASINA",
+          "Société du Port à Gestion Autonome de Toamasina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SOCIÉTÉ DU PORT À GESTION AUTONOME DE TOAMASINA"
+      },
+      {
+        "from": [
+          "Department of Geological Survey and Mineral Exploration (DGSE)",
+          "DEPARTMENT OF GEOLOGICAL SURVEY AND MINERAL EXPLORATION (DGSE)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DEPARTMENT OF GEOLOGICAL SURVEY AND MINERAL EXPLORATION (DGSE)"
+      },
+      {
+        "from": [
+          "FEDERAL MINISTRY OF FINANCE",
+          "Federal Ministry of Finance"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FEDERAL MINISTRY OF FINANCE"
+      },
+      {
+        "from": [
+          "ENTREPRISE D’ÉTAT",
+          "Entreprise d’État"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ENTREPRISE D’ÉTAT"
+      },
+      {
+        "from": [
+          "SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DES HYDROCARBURES (SGH)",
+          "Secrétariat Général du Ministère des Hydrocarbures (SGH)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DES HYDROCARBURES (SGH)"
+      },
+      {
+        "from": [
+          "MINISTRY OF FINANCE",
+          "Ministry of Finance"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF FINANCE"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DES DOUANES (DGD)",
+          "Direction Générale des Douanes (DGD)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DES DOUANES (DGD)"
+      },
+      {
+        "from": [
+          "NATIONAL PETROLEUM INSTITUTE",
+          "National Petroleum Institute"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NATIONAL PETROLEUM INSTITUTE"
+      },
+      {
+        "from": [
+          "Amansie South District Assemly",
+          "AMANSIE SOUTH DISTRICT ASSEMLY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AMANSIE SOUTH DISTRICT ASSEMLY"
+      },
+      {
+        "from": [
+          "PORT: SOCIÉTÉ DE MANUTENTION DES MARCHANDISES CONVENTIONNELS ET/OU MADAGASCAR INTERNATIONAL CONTAINER TERMINAL SERVICES LIMITED",
+          "Port: Société de Manutention des Marchandises Conventionnels et/ou Madagascar International Container Terminal Services Limited"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PORT: SOCIÉTÉ DE MANUTENTION DES MARCHANDISES CONVENTIONNELS ET/OU MADAGASCAR INTERNATIONAL CONTAINER TERMINAL SERVICES LIMITED"
+      },
+      {
+        "from": [
+          "EMPRESA NACIONAL DE HIDROCARBONETOS EP (ENH)",
+          "Empresa Nacional de Hidrocarbonetos, EP (ENH)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "EMPRESA NACIONAL DE HIDROCARBONETOS EP (ENH)"
+      },
+      {
+        "from": [
+          "CAISSE NATIONALE DE PRÉVOYANCE SOCIALE",
+          "Caisse Nationale de Prévoyance Sociale"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CAISSE NATIONALE DE PRÉVOYANCE SOCIALE"
+      },
+      {
+        "from": [
+          "BUREAU DES MINES ET DE LA GÉOLOGIE DU BURKINA (BUMIGEB)",
+          "Bureau des Mines et de la Géologie du Burkina (BUMIGEB)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BUREAU DES MINES ET DE LA GÉOLOGIE DU BURKINA (BUMIGEB)"
+      },
+      {
+        "from": [
+          "OFFICE NATIONAL DE SÉCURISATION DES SITES MINIERS (ONASSIM)",
+          "Office National de Sécurisation des Sites Miniers (ONASSIM)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "OFFICE NATIONAL DE SÉCURISATION DES SITES MINIERS (ONASSIM)"
+      },
+      {
+        "from": [
+          "LOCAL ADMINISTRATIVE",
+          "Local administrative"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LOCAL ADMINISTRATIVE"
+      },
+      {
+        "from": [
+          "MINISTRY OF ENVIRONMENT NATURE AND TOURISM",
+          "Ministry of Environment, Nature and Tourism"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF ENVIRONMENT NATURE AND TOURISM"
+      },
+      {
+        "from": [
+          "GENERAL DEPARTMENT OF TAXATION",
+          "General Department of Taxation"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GENERAL DEPARTMENT OF TAXATION"
+      },
+      {
+        "from": [
+          "Société pour le Développement Minier de la Cote d'Ivoire (SODEMI)",
+          "SOCIÉTÉ POUR LE DÉVELOPPEMENT MINIER DE LA COTE D'IVOIRE (SODEMI)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SOCIÉTÉ POUR LE DÉVELOPPEMENT MINIER DE LA COTE D'IVOIRE (SODEMI)"
+      },
+      {
+        "from": [
+          "MINISTRY OF FINANCE (MOF)",
+          "Ministry of Finance (MoF)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF FINANCE (MOF)"
+      },
+      {
+        "from": [
+          "OFFICE DES MINES NATIONALES ET DES INDUSTRIES STRATÉGIQUES",
+          "Office des Mines Nationales et des Industries Stratégiques"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "OFFICE DES MINES NATIONALES ET DES INDUSTRIES STRATÉGIQUES"
+      },
+      {
+        "from": [
+          "MINISTRY OF LABOR AND SOCIAL PROTECTION",
+          "Ministry of Labor and Social Protection"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF LABOR AND SOCIAL PROTECTION"
+      },
+      {
+        "from": [
+          "TANZANIA PETROLEUM DEVELOPMENT CORPORATION (TPDC)",
+          "Tanzania Petroleum Development Corporation (TPDC)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TANZANIA PETROLEUM DEVELOPMENT CORPORATION (TPDC)"
+      },
+      {
+        "from": [
+          "OTHER",
+          "Other"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "OTHER"
+      },
+      {
+        "from": [
+          "NORWEGIAN CENTRAL BANK",
+          "Norwegian Central Bank"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NORWEGIAN CENTRAL BANK"
+      },
+      {
+        "from": [
+          "THE CROWN ESTATE (TCE)",
+          "The Crown Estate (TCE)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THE CROWN ESTATE (TCE)"
+      },
+      {
+        "from": [
+          "MINISTRY OF ENVIRONMENT AND TOURISM",
+          "Ministry of Environment and Tourism"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF ENVIRONMENT AND TOURISM"
+      },
+      {
+        "from": [
+          "DIRECTION DES EAUX FORÊTS CHASSES ET CONSERVATION DES SOLS (DEFCCS)",
+          "Direction des Eaux, Forêts, Chasses et Conservation des Sols (DEFCCS)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION DES EAUX FORÊTS CHASSES ET CONSERVATION DES SOLS (DEFCCS)"
+      },
+      {
+        "from": [
+          "AGENCE NATIONALE DES ÉVALUATIONS ENVIRONNEMENTALES (ANEVE)",
+          "Agence nationale des évaluations environnementales (ANEVE)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AGENCE NATIONALE DES ÉVALUATIONS ENVIRONNEMENTALES (ANEVE)"
+      },
+      {
+        "from": [
+          "Direccion Genreral de Aduanas (DGA)",
+          "DIRECCION GENRERAL DE ADUANAS (DGA)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECCION GENRERAL DE ADUANAS (DGA)"
+      },
+      {
+        "from": [
+          "DIRECTIONS RÉGIONALES DES IMPÔTS (DRI)",
+          "Directions Régionales des Impôts (DRI)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTIONS RÉGIONALES DES IMPÔTS (DRI)"
+      },
+      {
+        "from": [
+          "ALBPETROL",
+          "Albpetrol"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ALBPETROL"
+      },
+      {
+        "from": [
+          "Société Nationale des Pétroles du Congo (SNPC)",
+          "SOCIÉTÉ NATIONALE DES PÉTROLES DU CONGO (SNPC)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SOCIÉTÉ NATIONALE DES PÉTROLES DU CONGO (SNPC)"
+      },
+      {
+        "from": [
+          "LOCALITÉ D’ITY-ZOUHAN-HOUNIEN",
+          "Localité d’Ity-Zouhan-Hounien"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LOCALITÉ D’ITY-ZOUHAN-HOUNIEN"
+      },
+      {
+        "from": [
+          "BUREAU NATIONAL DES EVALUATIONS ENVIRONNEMENTALES (BUNEE)",
+          "Bureau National des Evaluations Environnementales (BUNEE)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BUREAU NATIONAL DES EVALUATIONS ENVIRONNEMENTALES (BUNEE)"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DE LA DOUANE (DGD)",
+          "Direction Générale de la Douane (DGD)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DE LA DOUANE (DGD)"
+      },
+      {
+        "from": [
+          "MUNICIPALITIES (LEVEL OF LOCAL GOVERNMENT)",
+          "Municipalities (Level of local government)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MUNICIPALITIES (LEVEL OF LOCAL GOVERNMENT)"
+      },
+      {
+        "from": [
+          "MUNICIPALITY OF PATOS",
+          "Municipality of Patos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MUNICIPALITY OF PATOS"
+      },
+      {
+        "from": [
+          "DIRECTORATE OF CUSTOMS AND EXCISE",
+          "Directorate of Customs and Excise"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTORATE OF CUSTOMS AND EXCISE"
+      },
+      {
+        "from": [
+          "LOCALITÉ D’HIRÉ",
+          "Localité d’Hiré"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LOCALITÉ D’HIRÉ"
+      },
+      {
+        "from": [
+          "KINONDONI MUNICIPAL COUNCIL",
+          "Kinondoni Municipal Council"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "KINONDONI MUNICIPAL COUNCIL"
+      },
+      {
+        "from": [
+          "GENERAL AGENCY FOR LABOR WELFARE SERVICES",
+          "General Agency for Labor Welfare Services"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GENERAL AGENCY FOR LABOR WELFARE SERVICES"
+      },
+      {
+        "from": [
+          "MINISTRY OF ENVIRONMENT",
+          "Ministry of Environment"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF ENVIRONMENT"
+      },
+      {
+        "from": [
+          "ZAMBIAN REVENUE AUTHORITY (ZRA)",
+          "Zambian Revenue Authority (ZRA)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ZAMBIAN REVENUE AUTHORITY (ZRA)"
+      },
+      {
+        "from": [
+          "Sefwi District Assembly",
+          "SEFWI DISTRICT ASSEMBLY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sefwi District Assembly"
+      },
+      {
+        "from": [
+          "MINISTRY OF MINES AND PETROLEUM (REVENUE DEPARTMENT)",
+          "Ministry of Mines and Petroleum (Revenue Department)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF MINES AND PETROLEUM (REVENUE DEPARTMENT)"
+      },
+      {
+        "from": [
+          "ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS (AFIP)",
+          "Administración Federal de Ingresos Públicos (AFIP)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS (AFIP)"
+      },
+      {
+        "from": [
+          "ENVIRONMENTAL PROTECTION AGENCY (EPA)",
+          "Environmental Protection Agency (EPA)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ENVIRONMENTAL PROTECTION AGENCY (EPA)"
+      },
+      {
+        "from": [
+          "ALBANIAN CUSTOMS ADMINISTRATE",
+          "Albanian Customs Administrate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ALBANIAN CUSTOMS ADMINISTRATE"
+      },
+      {
+        "from": [
+          "Collectivités territoriales décentralisées (Régions et/ou communes)",
+          "COLLECTIVITÉS TERRITORIALES DÉCENTRALISÉES (RÉGIONS ET/OU COMMUNES)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Collectivités territoriales décentralisées (Régions et/ou communes)"
+      },
+      {
+        "from": [
+          "CAISSE NATIONALE DE PRÉVOYANCE SOCIALE (CNPS)",
+          "Caisse Nationale de Prévoyance Sociale (CNPS)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CAISSE NATIONALE DE PRÉVOYANCE SOCIALE (CNPS)"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DES RECETTES ADMINISTRATIVES JUDICIAIRES DOMANIALES ET DE PARTICIPATION (DGRAD)",
+          "Direction Générale des Recettes Administratives, Judiciaires, Domaniales et de Participation (DGRAD)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DES RECETTES ADMINISTRATIVES JUDICIAIRES DOMANIALES ET DE PARTICIPATION (DGRAD)"
+      },
+      {
+        "from": [
+          "BUREAU OF LOCAL GOVERNMENT AND FINANCE (BLGF)",
+          "Bureau of Local Government and Finance (BLGF)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BUREAU OF LOCAL GOVERNMENT AND FINANCE (BLGF)"
+      },
+      {
+        "from": [
+          "STATE TAX SERVICE OF UKRAINE",
+          "State Tax Service of Ukraine"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "STATE TAX SERVICE OF UKRAINE"
+      },
+      {
+        "from": [
+          "GHANA REVENUE AUTHORITY",
+          "Ghana Revenue Authority"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GHANA REVENUE AUTHORITY"
+      },
+      {
+        "from": [
+          "DIRECTION DES GRANDES ENTREPRISES (DGE)",
+          "Direction des Grandes Entreprises (DGE)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION DES GRANDES ENTREPRISES (DGE)"
+      },
+      {
+        "from": [
+          "THE STATE SERVICE OF GEOLOGY AND SUBSOIL OF UKRAINE (DERZHGEONADRA)",
+          "The State Service of Geology and Subsoil of Ukraine (Derzhgeonadra)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THE STATE SERVICE OF GEOLOGY AND SUBSOIL OF UKRAINE (DERZHGEONADRA)"
+      },
+      {
+        "from": [
+          "Ministry for Development of Economy, Trade and Agriculture of Ukraine",
+          "MINISTRY FOR DEVELOPMENT OF ECONOMY TRADE AND AGRICULTURE OF UKRAINE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ministry for Development of Economy, Trade and Agriculture of Ukraine"
+      },
+      {
+        "from": [
+          "Fonds d'Intervention pour l'Environnement (FIE) (paiements environnementaux)",
+          "FONDS D'INTERVENTION POUR L'ENVIRONNEMENT (FIE) (PAIEMENTS ENVIRONNEMENTAUX)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fonds d'Intervention pour l'Environnement (FIE) (paiements environnementaux)"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DES IMPÔTS",
+          "Direction Générale des Impôts"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DES IMPÔTS"
+      },
+      {
+        "from": [
+          "MYANMAR GEMS ENTERPRISE",
+          "Myanmar Gems Enterprise"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MYANMAR GEMS ENTERPRISE"
+      },
+      {
+        "from": [
+          "MINERALS COMMISSION",
+          "Minerals Commission"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINERALS COMMISSION"
+      },
+      {
+        "from": [
+          "FONDO MEXICANO DEL PETRÓLEO",
+          "Fondo Mexicano del Petróleo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FONDO MEXICANO DEL PETRÓLEO"
+      },
+      {
+        "from": [
+          "Asutifi District Assembly",
+          "ASUTIFI DISTRICT ASSEMBLY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASUTIFI DISTRICT ASSEMBLY"
+      },
+      {
+        "from": [
+          "Municipality of Lushnjë",
+          "MUNICIPALITY OF LUSHNJË"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MUNICIPALITY OF LUSHNJË"
+      },
+      {
+        "from": [
+          "PRESTEA HUNI VALLEY",
+          "Prestea Huni Valley"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PRESTEA HUNI VALLEY"
+      },
+      {
+        "from": [
+          "LOCALITÉ DE BONDOUKOU",
+          "Localité de Bondoukou"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LOCALITÉ DE BONDOUKOU"
+      },
+      {
+        "from": [
+          "LOCAL GOVERMENT AUTHORITIES",
+          "Local Goverment Authorities"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LOCAL GOVERMENT AUTHORITIES"
+      },
+      {
+        "from": [
+          "TARIME DISTRICT COUNCIL",
+          "Tarime District Council"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TARIME DISTRICT COUNCIL"
+      },
+      {
+        "from": [
+          "FORESTRY COMMISSION",
+          "Forestry Commission"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FORESTRY COMMISSION"
+      },
+      {
+        "from": [
+          "NATIONAL COMMISSION ON INDIGENOUS PEOPLE (NCIP)",
+          "National Commission on Indigenous People (NCIP)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NATIONAL COMMISSION ON INDIGENOUS PEOPLE (NCIP)"
+      },
+      {
+        "from": [
+          "Bibiani /Ahwiaso /Bekwai District Assembly",
+          "BIBIANI /AHWIASO /BEKWAI DISTRICT ASSEMBLY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BIBIANI /AHWIASO /BEKWAI DISTRICT ASSEMBLY"
+      },
+      {
+        "from": [
+          "SERVICIO DE ADMINISTRACIÓN TRIBUTARIA",
+          "Servicio de Administración Tributaria"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SERVICIO DE ADMINISTRACIÓN TRIBUTARIA"
+      },
+      {
+        "from": [
+          "MINISTÈRE DE L'ECONOMIE FORESTIÈRE ET DU DÉVELOPPEMENT DURABLES (MEFDD)",
+          "Ministère de l'Economie Forestière et du Développement Durables (MEFDD)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTÈRE DE L'ECONOMIE FORESTIÈRE ET DU DÉVELOPPEMENT DURABLES (MEFDD)"
+      },
+      {
+        "from": [
+          "AUTRES",
+          "Autres"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "AUTRES"
+      },
+      {
+        "from": [
+          "MINERAL RESOURCES AND PETROLEUM AUTHORITY OF MONGOLIA",
+          "Mineral Resources and Petroleum Authority of Mongolia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINERAL RESOURCES AND PETROLEUM AUTHORITY OF MONGOLIA"
+      },
+      {
+        "from": [
+          "LOCALITÉ D’AGBAOU-DIVO",
+          "Localité d’Agbaou-Divo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LOCALITÉ D’AGBAOU-DIVO"
+      },
+      {
+        "from": [
+          "SOCIÉTÉ MAURITANIENNE DES HYDROCARBURES ET DU PATRIMOINE MINIER (SMHPM)",
+          "Société Mauritanienne des Hydrocarbures et du Patrimoine Minier (SMHPM)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SOCIÉTÉ MAURITANIENNE DES HYDROCARBURES ET DU PATRIMOINE MINIER (SMHPM)"
+      },
+      {
+        "from": [
+          "MINISTRY OF MINERALS",
+          "Ministry of Minerals"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF MINERALS"
+      },
+      {
+        "from": [
+          "DONATIONS AND SUPPORTS RECEIVED BY GOVERNMENT ENTITIES",
+          "Donations and supports received by government entities"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DONATIONS AND SUPPORTS RECEIVED BY GOVERNMENT ENTITIES"
+      },
+      {
+        "from": [
+          "MTWARA DISTRICT COUNCIL",
+          "Mtwara District Council"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MTWARA DISTRICT COUNCIL"
+      },
+      {
+        "from": [
+          "GOVERNMENT AGENCIES (LEVEL OF LOCAL GOVERNMENT)",
+          "Government Agencies (Level of local government)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GOVERNMENT AGENCIES (LEVEL OF LOCAL GOVERNMENT)"
+      },
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE TECHNIQUE DE PÉTROLE (DGTP)",
+          "Direction Générale Technique de Pétrole (DGTP)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE TECHNIQUE DE PÉTROLE (DGTP)"
+      },
+      {
+        "from": [
+          "GENERAL DIRECTORATE OF TAXES",
+          "General Directorate of Taxes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GENERAL DIRECTORATE OF TAXES"
+      },
+      {
+        "from": [
+          "DIRECTION NATIONALE DE LA GÉOLOGIE ET DES MINES (DNGM)",
+          "Direction Nationale de la Géologie et des Mines (DNGM)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION NATIONALE DE LA GÉOLOGIE ET DES MINES (DNGM)"
+      },
+      {
+        "from": [
+          "ZAMBIA CONSOLIDATED COPPER MINES – INVESTMENT HOLDINGS PLC (ZCCM- IH)",
+          "Zambia Consolidated Copper Mines – Investment Holdings Plc (ZCCM- IH)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ZAMBIA CONSOLIDATED COPPER MINES – INVESTMENT HOLDINGS PLC (ZCCM- IH)"
+      },
+      {
+        "from": [
+          "SONGWE DISTRICT COUNCIL",
+          "Songwe District Council"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SONGWE DISTRICT COUNCIL"
+      },
+      {
+        "from": [
+          "SOCIÉTÉ DES PÉTROLES DU SÉNÉGAL (PETROSEN)",
+          "Société des Pétroles du Sénégal (PETROSEN)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SOCIÉTÉ DES PÉTROLES DU SÉNÉGAL (PETROSEN)"
+      },
+      {
+        "from": [
+          "DIRECCIÓN GENERAL DE MINERÍA (DGM)",
+          "Dirección General de Minería (DGM)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECCIÓN GENERAL DE MINERÍA (DGM)"
+      },
+      {
+        "from": [
+          "STATE CUSTOMS SERVICE OF UKRAINE",
+          "State Customs Service of Ukraine"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "STATE CUSTOMS SERVICE OF UKRAINE"
+      },
+      {
+        "from": [
+          "HER MAJESTY’S REVENUE AND CUSTOMS (HMRC)",
+          "Her Majesty’s Revenue and Customs (HMRC)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HER MAJESTY’S REVENUE AND CUSTOMS (HMRC)"
+      },
+      {
+        "from": [
+          "DIRECCIÓN GENERAL DE IMPUESTOS INTERNOS (DGII)",
+          "Dirección General de Impuestos Internos (DGII)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECCIÓN GENERAL DE IMPUESTOS INTERNOS (DGII)"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "GHANA REVENUE AUTHORITY",
+          "GUYANA REVENUE AUTHORITY (GRA)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GUYANA REVENUE AUTHORITY (GRA)"
+      },
+      {
+        "from": [
+          "FONDS D'INTERVENTION POUR L'ENVIRONNEMENT (FIE)",
+          "Fonds d'Intervention pour l'Environnement (FIE) (paiements environnementaux)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FONDS D'INTERVENTION POUR L'ENVIRONNEMENT (FIE)"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MINISTERIO DE ENERGÍA Y MINAS (MEM)",
+          "Ministerio de Energía y Minas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTERIO DE ENERGÍA Y MINAS (MEM)"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "DEPARTMENT OF ENERGY (DOE)",
+          "Department of Energey (DOE)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DEPARTMENT OF ENERGY (DOE)"
+      },
+      {
+        "from": [
+          "MINING AUTHORITIES (LEVEL OF STATE GOVERNMENT (\"LÄNDER\"))",
+          "MINING AUTHORITIES (LEVEL OF STATE GOVERNEMNT (\"LÄNDER\"))"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINING AUTHORITIES (LEVEL OF STATE GOVERNMENT (\"LÄNDER\"))"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Government entity",
+          "expression": "value",
+          "columnName": "Government entity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "LOCAL GOVERNOR DEPARTMENT",
+                "l": "LOCAL GOVERNOR DEPARTMENT"
+              }
+            },
+            {
+              "v": {
+                "v": "LOCAL GOVERMENT AUTHORITIES",
+                "l": "LOCAL GOVERMENT AUTHORITIES"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "LOCAL GOVERMENT AUTHORITIES"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LOCAL GOVERNMENT AUTHORITIES"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Government entity",
+          "expression": "value",
+          "columnName": "Government entity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Mineral Resources and Petroleum Authority",
+                "l": "Mineral Resources and Petroleum Authority"
+              }
+            },
+            {
+              "v": {
+                "v": "MINERAL RESOURCES AND PETROLEUM AUTHORITY OF MONGOLIA",
+                "l": "MINERAL RESOURCES AND PETROLEUM AUTHORITY OF MONGOLIA"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Government entity",
+          "expression": "value",
+          "columnName": "Government entity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Mineral Resources and Petroleum Authority",
+                "l": "Mineral Resources and Petroleum Authority"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value.toUppercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Government entity using expression value.toUppercase()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MINING AUTHORITIES (LEVEL OF STATE GOVERNMENT (\"LÄNDER\"))",
+          "Mining Authorities (Level of state governement (\"Länder\"))"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINING AUTHORITIES (LEVEL OF STATE GOVERNMENT (\"LÄNDER\"))"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value.toUppercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Government entity using expression value.toUppercase()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "N/A"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Albania",
+                "l": "Albania"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NATIONAL AGENCY OF NATURAL RESOUCES (AKBN)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NATIONAL AGENCY OF NATURAL RESOURCES (AKBN)"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Argentina",
+                "l": "Argentina"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "SECRETARÍA DE ENERGÍA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SECRETARÍA DE ENERGÍA (SEN), MINISTERIO DE ECONOMÍA"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Argentina",
+                "l": "Argentina"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "SECRETARÍA DE MEDIO AMBIENTE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SECRETARÍA DE CONTROL Y MONITOREO AMBIENTAL, MINISTERIO DE AMBIENTE Y DESARROLLO SUSTENTABLE"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Burkina Faso",
+                "l": "Burkina Faso"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "FRAIS DE PRESTATION BUMIGEB"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BUREAU DES MINES ET DE LA GÉOLOGIE DU BURKINA (BUMIGEB)"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Burkina Faso",
+                "l": "Burkina Faso"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "DIRECTION GÉNÉRALE DE LA DOUANE (DGD)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTION GÉNÉRALE DES DOUANES (DGD)"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Government entity",
+          "expression": "value",
+          "columnName": "Government entity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ALBPETROL",
+                "l": "ALBPETROL"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Albania",
+                "l": "Albania"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Government entity",
+          "expression": "value",
+          "columnName": "Government entity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "SOCIÉTÉ NATIONALE DES HYDROCARBURES (SNH)",
+                "l": "SOCIÉTÉ NATIONALE DES HYDROCARBURES (SNH)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Cameroon",
+                "l": "Cameroon"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Government entity",
+          "expression": "value",
+          "columnName": "Government entity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "SOCIÉTÉ DES HYDROCARBURES DU TCHAD (SHT)",
+                "l": "SOCIÉTÉ DES HYDROCARBURES DU TCHAD (SHT)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Chad",
+                "l": "Chad"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Government entity",
+          "expression": "value",
+          "columnName": "Government entity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "SOCIÉTÉ NATIONALE D'OPÉRATIONS PÉTROLIÈRES DE CÔTE D'IVOIRE (PETROCI)",
+                "l": "SOCIÉTÉ NATIONALE D'OPÉRATIONS PÉTROLIÈRES DE CÔTE D'IVOIRE (PETROCI)"
+              }
+            },
+            {
+              "v": {
+                "v": "SOCIÉTÉ POUR LE DÉVELOPPEMENT MINIER DE LA COTE D'IVOIRE (SODEMI)",
+                "l": "SOCIÉTÉ POUR LE DÉVELOPPEMENT MINIER DE LA COTE D'IVOIRE (SODEMI)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Cote d'Ivoire",
+                "l": "Cote d'Ivoire"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Germany",
+                "l": "Germany"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "N/V"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Government entity",
+          "expression": "value",
+          "columnName": "Government entity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NATIONAL OIL COMPANY OF LIBERIA (NOCAL)",
+                "l": "NATIONAL OIL COMPANY OF LIBERIA (NOCAL)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Liberia",
+                "l": "Liberia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Mongolia",
+                "l": "Mongolia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "LOCAL ADMINISTRATIVE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LOCAL ADMINISTRATION"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Mongolia",
+                "l": "Mongolia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MINERAL RESOURCES AND PETROLEUM AUTHORITY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINERAL RESOURCES AND PETROLEUM AUTHORITY OF MONGOLIA"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Government entity",
+          "expression": "value",
+          "columnName": "Government entity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "MYANMAR OIL AND GAS ENTERPRISE",
+                "l": "MYANMAR OIL AND GAS ENTERPRISE"
+              }
+            },
+            {
+              "v": {
+                "v": "MYANMAR PEARL ENTREPRISE",
+                "l": "MYANMAR PEARL ENTREPRISE"
+              }
+            },
+            {
+              "v": {
+                "v": "MYANMAR GEMS ENTERPRISE",
+                "l": "MYANMAR GEMS ENTERPRISE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Myanmar",
+                "l": "Myanmar"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Nigeria",
+                "l": "Nigeria"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NIGERIA NATIONAL PETROLEUM CORPORATION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NIGERIAN NATIONAL PETROLEUM CORPORATION (NNPC)"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Government entity",
+          "expression": "value",
+          "columnName": "Government entity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "NIGERIAN NATIONAL PETROLEUM CORPORATION (NNPC)",
+                "l": "NIGERIAN NATIONAL PETROLEUM CORPORATION (NNPC)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Nigeria",
+                "l": "Nigeria"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Government entity",
+          "expression": "value",
+          "columnName": "Government entity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "SOCIÉTÉ DES PÉTROLES DU SÉNÉGAL (PETROSEN)",
+                "l": "SOCIÉTÉ DES PÉTROLES DU SÉNÉGAL (PETROSEN)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Senegal",
+                "l": "Senegal"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Government entity",
+          "expression": "value",
+          "columnName": "Government entity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "TANZANIA PETROLEUM DEVELOPMENT CORPORATION (TPDC)",
+                "l": "TANZANIA PETROLEUM DEVELOPMENT CORPORATION (TPDC)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Tanzania",
+                "l": "Tanzania"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Zambia",
+                "l": "Zambia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MINISTRY OF FINANCE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MINISTRY OF FINANCE (MOF)"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Zambia",
+                "l": "Zambia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ZAMBIA CONSOLIDATED COPPER MINES – INVESTMENT HOLDINGS PLC (ZCCM- IH)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ZAMBIA CONSOLIDATED COPPER MINES – INVESTMENT HOLDINGS PLC (ZCCM-IH)"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Zambia",
+                "l": "Zambia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ZCCM- IH"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ZAMBIA CONSOLIDATED COPPER MINES – INVESTMENT HOLDINGS PLC (ZCCM-IH)"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Government entity",
+          "expression": "value",
+          "columnName": "Government entity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ZAMBIA CONSOLIDATED COPPER MINES – INVESTMENT HOLDINGS PLC (ZCCM-IH)",
+                "l": "ZAMBIA CONSOLIDATED COPPER MINES – INVESTMENT HOLDINGS PLC (ZCCM-IH)"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Zambia",
+                "l": "Zambia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Country",
+          "expression": "value",
+          "columnName": "Country",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Zambia",
+                "l": "Zambia"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "IDC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "INDUSTRIAL DEVELOPMENT CORPORATION"
+      }
+    ],
+    "description": "Mass edit cells in column Government entity"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "index",
+          "expression": "grel:value.contains(\"part5\")",
+          "columnName": "index",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Government entity",
+    "expression": "grel:forEach(cross(cell, \"eiti-data_part5-0.11\", \"company_name\"), r, r.cells['eiti_id'].value).join(';')",
+    "onError": "set-to-blank",
+    "newColumnName": "eiti_id",
+    "columnInsertIndex": 2,
+    "description": "Create column eiti_id at index 2 based on column Government entity using expression grel:forEach(cross(cell, \"eiti-data_part5-0.11\", \"company_name\"), r, r.cells['eiti_id'].value).join(';')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "eiti_id",
+    "expression": "jython:uuids = value.split(';')\nunique_uuids = set(uuids)\nreturn len(unique_uuids)",
+    "onError": "set-to-blank",
+    "newColumnName": "count",
+    "columnInsertIndex": 3,
+    "description": "Create column count at index 3 based on column eiti_id using expression jython:uuids = value.split(';')\nunique_uuids = set(uuids)\nreturn len(unique_uuids)"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670;d53a6e41-887a-4d35-a388-84f67f8e9670"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "d53a6e41-887a-4d35-a388-84f67f8e9670"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "79f976ab-5d69-41a0-b87e-b1d2877519a9;79f976ab-5d69-41a0-b87e-b1d2877519a9;79f976ab-5d69-41a0-b87e-b1d2877519a9;79f976ab-5d69-41a0-b87e-b1d2877519a9;79f976ab-5d69-41a0-b87e-b1d2877519a9;79f976ab-5d69-41a0-b87e-b1d2877519a9;79f976ab-5d69-41a0-b87e-b1d2877519a9"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "79f976ab-5d69-41a0-b87e-b1d2877519a9"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436;795e5468-bb3f-47e1-9fb0-fa2c4b1c3436"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "795e5468-bb3f-47e1-9fb0-fa2c4b1c3436"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "6724bc3c-c336-4663-81d2-78fc523d973f;6724bc3c-c336-4663-81d2-78fc523d973f;6724bc3c-c336-4663-81d2-78fc523d973f;6724bc3c-c336-4663-81d2-78fc523d973f;6724bc3c-c336-4663-81d2-78fc523d973f;6724bc3c-c336-4663-81d2-78fc523d973f;6724bc3c-c336-4663-81d2-78fc523d973f;6724bc3c-c336-4663-81d2-78fc523d973f;6724bc3c-c336-4663-81d2-78fc523d973f"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "6724bc3c-c336-4663-81d2-78fc523d973f"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "4ec9097d-438a-4a8c-9fa9-e8ed4394336c;4ec9097d-438a-4a8c-9fa9-e8ed4394336c;4ec9097d-438a-4a8c-9fa9-e8ed4394336c;4ec9097d-438a-4a8c-9fa9-e8ed4394336c;4ec9097d-438a-4a8c-9fa9-e8ed4394336c"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4ec9097d-438a-4a8c-9fa9-e8ed4394336c"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68;4939e6cf-3a84-4084-9cc0-445b2a9ccc68"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4939e6cf-3a84-4084-9cc0-445b2a9ccc68"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730;375023e7-ebe8-4fc5-92de-8812b6f96730"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "375023e7-ebe8-4fc5-92de-8812b6f96730"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_id"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_id",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2192ba5b-4c29-4ea7-8df6-292ae3f7d475;2192ba5b-4c29-4ea7-8df6-292ae3f7d475"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2192ba5b-4c29-4ea7-8df6-292ae3f7d475"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_id"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "count",
+    "description": "Remove column count"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": false,
+    "description": "Unstar rows"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "index",
+    "description": "Remove column index"
+  },
+  {
+    "op": "core/row-reorder",
+    "mode": "row-based",
+    "sorting": {
+      "criteria": [
+        {
+          "valueType": "string",
+          "column": "Government entity",
+          "blankPosition": 2,
+          "errorPosition": 1,
+          "reverse": false,
+          "caseSensitive": false
+        }
+      ]
+    },
+    "description": "Reorder rows"
+  },
+  {
+    "op": "core/blank-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "eiti_id",
+          "expression": "isBlank(value)",
+          "columnName": "eiti_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "description": "Blank down cells in column Government entity"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "eiti_id",
+          "expression": "isBlank(value)",
+          "columnName": "eiti_id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Government entity",
+          "expression": "isBlank(value)",
+          "columnName": "Government entity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_id",
+    "expression": "jython:import uuid\nreturn str(uuid.uuid4())",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column eiti_id using expression jython:import uuid\nreturn str(uuid.uuid4())"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Government entity",
+    "description": "Fill down cells in column Government entity"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_id",
+    "description": "Fill down cells in column eiti_id"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Country",
+    "index": 11,
+    "description": "Move column Country to position 11"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Country",
+    "index": 10,
+    "description": "Move column Country to position 10"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Country",
+    "index": 9,
+    "description": "Move column Country to position 9"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Country",
+    "index": 8,
+    "description": "Move column Country to position 8"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Year",
+    "index": 11,
+    "description": "Move column Year to position 11"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Year",
+    "index": 10,
+    "description": "Move column Year to position 10"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Year",
+    "index": 9,
+    "description": "Move column Year to position 9"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column7",
+    "newColumnName": "start_date",
+    "description": "Rename column Column7 to start_date"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column8",
+    "newColumnName": "end_date",
+    "description": "Rename column Column8 to end_date"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Year",
+    "newColumnName": "year",
+    "description": "Rename column Year to year"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column6",
+    "newColumnName": "iso_code3",
+    "description": "Rename column Column6 to iso_code3"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Country",
+    "newColumnName": "country",
+    "description": "Rename column Country to country"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column",
+    "newColumnName": "sector",
+    "description": "Rename column Column to sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "<Choose sector>"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Autres"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Other"
+      }
+    ],
+    "description": "Mass edit cells in column sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mining, Oil and Gas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mining, Oil & Gas"
+      }
+    ],
+    "description": "Mass edit cells in column sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mining/Oil and Gas/Agriculture"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mining; Oil & Gas; Agriculture"
+      }
+    ],
+    "description": "Mass edit cells in column sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mining, Oil & Gas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mining; Oil & Gas"
+      }
+    ],
+    "description": "Mass edit cells in column sector"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Agriculture/Forestry"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Agriculture; Forestry"
+      }
+    ],
+    "description": "Mass edit cells in column sector"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sector",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column sector using expression value.toLowercase()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sector",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "eaux"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "waters"
+      }
+    ],
+    "description": "Mass edit cells in column sector"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column2",
+    "newColumnName": "revenue_stream_name",
+    "description": "Rename column Column2 to revenue_stream_name"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "revenue_stream_name",
+    "newColumnName": "gfs_classification",
+    "description": "Rename column revenue_stream_name to gfs_classification"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column3",
+    "newColumnName": "revenue_stream_name",
+    "description": "Rename column Column3 to revenue_stream_name"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column5",
+    "newColumnName": "currency",
+    "description": "Rename column Column5 to currency"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column4",
+    "newColumnName": "revenue_value",
+    "description": "Rename column Column4 to revenue_value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "revenue_value",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column revenue_value using expression value.toNumber()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "revenue_value",
+          "expression": "value",
+          "columnName": "revenue_value",
+          "from": -700000000000,
+          "to": 1400000000000,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": false,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "revenue_value",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column revenue_value"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "revenue_stream_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Corporate income tax",
+          "Corporate Income Tax",
+          "Corporate Income tax",
+          "corporate income tax"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Corporate Income Tax"
+      },
+      {
+        "from": [
+          "Impôt sur les sociétés",
+          "Impot sur les Societes",
+          "Impôt sur les Sociétés"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Impôt sur les sociétés"
+      },
+      {
+        "from": [
+          "Service Tax",
+          "Service tax",
+          "service tax"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Service Tax"
+      },
+      {
+        "from": [
+          "Impôt sur le Revenu des Capitaux mobiliers (IRCM)",
+          "Impôt sur le Revenu des Capitaux Mobiliers (IRCM)",
+          "Impôt sur le Revenu des capitaux mobiliers (IRCM)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Impôt sur le Revenu des Capitaux mobiliers (IRCM)"
+      },
+      {
+        "from": [
+          "Royalty (gas)",
+          "Royalty Gas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Royalty (gas)"
+      },
+      {
+        "from": [
+          "License Fees",
+          "License fees"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "License Fees"
+      },
+      {
+        "from": [
+          "Pénalités DGD",
+          "Pénalités (DGD)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pénalités DGD"
+      },
+      {
+        "from": [
+          "Droits Fixes",
+          "Droits fixes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Droits Fixes"
+      },
+      {
+        "from": [
+          "Taxe superficiaire",
+          "Taxe Superficiaire"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxe superficiaire"
+      },
+      {
+        "from": [
+          "Taxe Ad valorem",
+          "Taxe ad valorem"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxe Ad valorem"
+      },
+      {
+        "from": [
+          "Royalties",
+          "Royalties-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Royalties"
+      },
+      {
+        "from": [
+          "Taxe sur la Valeur Ajoutée (TVA)",
+          "Taxe sur la valeur ajoutée (TVA)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxe sur la Valeur Ajoutée (TVA)"
+      },
+      {
+        "from": [
+          "Bonus de signature",
+          "Bonus de Signature"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bonus de signature"
+      },
+      {
+        "from": [
+          "Mining Royalties",
+          "Mining royalties"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mining Royalties"
+      },
+      {
+        "from": [
+          "Redressements fiscaux et penalites payes au CI",
+          "Redressements fiscaux et pénalités payés au CI"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Redressements fiscaux et penalites payes au CI"
+      },
+      {
+        "from": [
+          "Corporate Tax",
+          "Corporate tax"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Corporate Tax"
+      },
+      {
+        "from": [
+          "Taxe d’extraction",
+          "Taxe d'extraction"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxe d’extraction"
+      },
+      {
+        "from": [
+          "License fee for exploration and exploitation of petroleum",
+          "License fee for exploitation and exploration of petroleum"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "License fee for exploration and exploitation of petroleum"
+      },
+      {
+        "from": [
+          "Royalty (Oil)",
+          "Royalty Oil"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Royalty (Oil)"
+      },
+      {
+        "from": [
+          "Taxes de visa des contrats des etrangers",
+          "Taxes de visa des contrats des étrangers"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxes de visa des contrats des etrangers"
+      },
+      {
+        "from": [
+          "Taxes sur les vehicules",
+          "Taxes sur les véhicules"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxes sur les vehicules"
+      },
+      {
+        "from": [
+          "Taxe d'enlevement d'ordure",
+          "Taxe d'enlèvement d'ordure"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxe d'enlevement d'ordure"
+      },
+      {
+        "from": [
+          "Droits de Douane",
+          "Droits de douane"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Droits de Douane"
+      },
+      {
+        "from": [
+          "Excise tax",
+          "Excise Tax"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Excise tax"
+      },
+      {
+        "from": [
+          "Impot Minimum Forfaitaire",
+          "Impôt Minimum Forfaitaire"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Impot Minimum Forfaitaire"
+      },
+      {
+        "from": [
+          "Pénalités (DGI)",
+          "Pénalités DGI"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pénalités (DGI)"
+      },
+      {
+        "from": [
+          "Annual License acreage payments",
+          "Annual license acreage payments"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Annual License acreage payments"
+      },
+      {
+        "from": [
+          "Redevance superficiaire",
+          "Redevance Superficiaire"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Redevance superficiaire"
+      },
+      {
+        "from": [
+          "Training Fees",
+          "Training fees"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Training Fees"
+      },
+      {
+        "from": [
+          "Budget reimbursement of value added tax",
+          "Budget Reimbursement of Value Added Tax"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Budget reimbursement of value added tax"
+      },
+      {
+        "from": [
+          "Area Charges",
+          "AREA CHARGES"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Area Charges"
+      },
+      {
+        "from": [
+          "Customs duties",
+          "Customs Duties"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Customs duties"
+      },
+      {
+        "from": [
+          "Frais d'attestation de paiement de creance de salaire",
+          "Frais d'attestation de paiement de créance de salaire"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frais d'attestation de paiement de creance de salaire"
+      },
+      {
+        "from": [
+          "Taxes Foncieres",
+          "Taxes Foncières"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxes Foncieres"
+      },
+      {
+        "from": [
+          "Appui institutionnel",
+          "Appui Institutionnel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Appui institutionnel"
+      },
+      {
+        "from": [
+          "Droit de douane",
+          "Droit de Douane"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Droit de douane"
+      },
+      {
+        "from": [
+          "Licence Fees",
+          "Licence fees"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Licence Fees"
+      },
+      {
+        "from": [
+          "Customs user fees",
+          "Customs User Fees"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Customs user fees"
+      },
+      {
+        "from": [
+          "Taxe sur la valeur ajoutée",
+          "Taxe sur la Valeur Ajoutee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxe sur la valeur ajoutée"
+      },
+      {
+        "from": [
+          "Application Fees",
+          "APPLICATION FEES"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Application Fees"
+      },
+      {
+        "from": [
+          "Frais de formation",
+          "Frais de Formation"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frais de formation"
+      },
+      {
+        "from": [
+          "Custom duties",
+          "custom duties"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Custom duties"
+      },
+      {
+        "from": [
+          "Redevance minière",
+          "Redevance Minière"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Redevance minière"
+      },
+      {
+        "from": [
+          "Corporation Tax",
+          "Corporation tax"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Corporation Tax"
+      },
+      {
+        "from": [
+          "Surface rental",
+          "Surface Rental"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Surface rental"
+      },
+      {
+        "from": [
+          "Profit Oil Etat - Puissance Publique",
+          "Profit Oil Etat Puissance Publique"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Profit Oil Etat - Puissance Publique"
+      },
+      {
+        "from": [
+          "Impôt sur les bénéfices Industriels et commerciaux (BIC)",
+          "Impôt sur les Bénéfices Industriels et Commerciaux (BIC)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Impôt sur les bénéfices Industriels et commerciaux (BIC)"
+      },
+      {
+        "from": [
+          "Dividendes versés à l'Etat",
+          "Dividendes versés à L'Etat"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dividendes versés à l'Etat"
+      },
+      {
+        "from": [
+          "Solicitud de Exploración",
+          "Solicitud de exploración"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Solicitud de Exploración"
+      }
+    ],
+    "description": "Mass edit cells in column revenue_stream_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "revenue_stream_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Application For Security Clearance For Vessels",
+          "Application For security clearance for Vesssels"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Application For Security Clearance For Vessels"
+      },
+      {
+        "from": [
+          "Impôt sur les sociétés",
+          "Impôts sur les sociétés"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Impôt sur les sociétés"
+      },
+      {
+        "from": [
+          "Nox tax",
+          "Nox-tax"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nox tax"
+      },
+      {
+        "from": [
+          "Fee for use of mineral resources of wide spread",
+          "Fee for use of mineral resources of widespread"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fee for use of mineral resources of wide spread"
+      },
+      {
+        "from": [
+          "OTR-OTROS IMPUESTOS",
+          "OTROS IMPUESTOS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "OTROS IMPUESTOS"
+      },
+      {
+        "from": [
+          "Droits d'entrée fixes",
+          "Droits d'entrée/fixes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Droits d'entrée fixes"
+      }
+    ],
+    "description": "Mass edit cells in column revenue_stream_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "revenue_stream_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Annual Training",
+          "Annual Training Fees"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Annual Training Fees"
+      },
+      {
+        "from": [
+          "License Fee",
+          "Licence fee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "License Fee"
+      },
+      {
+        "from": [
+          "Impôt minimum forfaitaire (IMF)",
+          "Impot Minimum Forfaitaire"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Impot Minimum Forfaitaire"
+      },
+      {
+        "from": [
+          "Donations to Government agencies",
+          "Donations to Government agency"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Donations to Government agencies"
+      },
+      {
+        "from": [
+          "ANNUAL LICENCE FEES",
+          "Annual License Fees"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Annual License Fees"
+      },
+      {
+        "from": [
+          "Autres revenues du domaine minier",
+          "Autres revenus du domaine minier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Autres revenus du domaine minier"
+      },
+      {
+        "from": [
+          "Droit d'enregistemeent (DE)",
+          "Droit d'enregistrement"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Droit d'enregistrement"
+      },
+      {
+        "from": [
+          "CO2-tax",
+          "C02-tax"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C02-tax"
+      },
+      {
+        "from": [
+          "Dividendes",
+          "Dividends"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dividends"
+      },
+      {
+        "from": [
+          "Gas Flare Penalties",
+          "Gas Flare Penalty"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gas Flare Penalties"
+      },
+      {
+        "from": [
+          "Corporation Tax",
+          "Corporation Tax (CT)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Corporation Tax"
+      },
+      {
+        "from": [
+          "Licence Fees",
+          "License Fees"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "License Fees"
+      },
+      {
+        "from": [
+          "Signature Bonus",
+          "Signature Bonuses"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Signature Bonuses"
+      },
+      {
+        "from": [
+          "Transportation Revenues",
+          "transportation revenue"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Transportation Revenues"
+      },
+      {
+        "from": [
+          "ECOWAS trade levy",
+          "ECOWAS Trade Levy (ETL)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ECOWAS Trade Levy (ETL)"
+      }
+    ],
+    "description": "Mass edit cells in column revenue_stream_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "revenue_stream_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pénalités",
+          "Penalties",
+          "Penalities"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Penalties"
+      },
+      {
+        "from": [
+          "Dividendes issues des participations de l'Etat",
+          "Dividendes issus des participations de l'Etat"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dividendes issus des participations de l'Etat"
+      },
+      {
+        "from": [
+          "Payment for recruiting foreign experts and workers",
+          "Payment of recruiting foreign experts and workers"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Payment for recruiting foreign experts and workers"
+      },
+      {
+        "from": [
+          "Autres",
+          "Others"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Others"
+      }
+    ],
+    "description": "Mass edit cells in column revenue_stream_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "revenue_stream_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Taxe Ad valorem",
+          "Taxes Ad Valorem"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxes Ad Valorem"
+      },
+      {
+        "from": [
+          "Taxe de délivrance",
+          "Taxes de délivrance"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxe de délivrance"
+      },
+      {
+        "from": [
+          "Dividends",
+          "Dividend"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dividends"
+      },
+      {
+        "from": [
+          "Property rate",
+          "Property Rates"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Property Rates"
+      },
+      {
+        "from": [
+          "License Fees",
+          "License Fee"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "License Fees"
+      },
+      {
+        "from": [
+          "Petroleum Profits Tax",
+          "Petroleum Profit Tax"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Petroleum Profit Tax"
+      },
+      {
+        "from": [
+          "Tasa por Servicios",
+          "Tasas por Servicios"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tasas por Servicios"
+      },
+      {
+        "from": [
+          "Application Fee",
+          "Application Fees"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Application Fees"
+      },
+      {
+        "from": [
+          "Stumpage Fee",
+          "Stumpage fees"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Stumpage fees"
+      },
+      {
+        "from": [
+          "Capital Gains Tax",
+          "Capital Gain Tax"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Capital Gains Tax"
+      },
+      {
+        "from": [
+          "Droits de Douane",
+          "Droit de douane"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Droits de Douane"
+      },
+      {
+        "from": [
+          "Customs duties",
+          "Custom duties"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Customs duties"
+      },
+      {
+        "from": [
+          "Taxes d'abattage",
+          "Taxe d'abattage"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxes d'abattage"
+      }
+    ],
+    "description": "Mass edit cells in column revenue_stream_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "revenue_stream_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Contribution des patentes",
+          "Contribution de la patente"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Contribution des patentes"
+      },
+      {
+        "from": [
+          "Petroleum Profit Tax",
+          "Petroleum Profit Tax (US$)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Petroleum Profit Tax"
+      },
+      {
+        "from": [
+          "Excise tax",
+          "Excise taxes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Excise tax"
+      },
+      {
+        "from": [
+          "Taxe professionnelle",
+          "Taxe professionnelle (TP)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxe professionnelle"
+      },
+      {
+        "from": [
+          "Taxe forfaitaire",
+          "Taxes forfaitaires"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxes forfaitaires"
+      },
+      {
+        "from": [
+          "Tax on vehicle and self-moving mechanisms",
+          "Tax on vehicles and self moving mechanisms"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tax on vehicle and self-moving mechanisms"
+      },
+      {
+        "from": [
+          "Specific Goods Tax",
+          "Specific Goods Tax (MCD)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Specific Goods Tax"
+      },
+      {
+        "from": [
+          "Taxe superficiaire",
+          "Taxes superficiaires"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Taxes superficiaires"
+      }
+    ],
+    "description": "Mass edit cells in column revenue_stream_name"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Government entity",
+    "expression": "join ([coalesce(cells['Government entity'].value,''),coalesce(cells['country'].value,''),coalesce(cells['year'].value,'')],'-')",
+    "onError": "keep-original",
+    "newColumnName": "agency_key",
+    "columnInsertIndex": 1,
+    "description": "Create column agency_key at index 1 based on column Government entity using expression join ([coalesce(cells['Government entity'].value,''),coalesce(cells['country'].value,''),coalesce(cells['year'].value,'')],'-')"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "eiti_id",
+    "newColumnName": "eiti_id_government",
+    "description": "Rename column eiti_id to eiti_id_government"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "agency_key",
+    "description": "Remove column agency_key"
+  }
+]

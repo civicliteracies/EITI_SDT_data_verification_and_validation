@@ -1,0 +1,3691 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "National currency name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ukrainian Hryvnia",
+          "Ukrainian hryvnia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ukrainian Hryvnia"
+      }
+    ],
+    "description": "Mass edit cells in column National currency name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "National currency name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Franc CFA d’Afrique de l’Ouest"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "West African CFA franc"
+      }
+    ],
+    "description": "Mass edit cells in column National currency name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "National currency name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Franc CFA d’Afrique centrale"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Central African CFA Franc"
+      }
+    ],
+    "description": "Mass edit cells in column National currency name"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "National currency name",
+    "expression": "value.toTitlecase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column National currency name using expression value.toTitlecase()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "National currency name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Central African Cfa Franc"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Central African CFA Franc"
+      }
+    ],
+    "description": "Mass edit cells in column National currency name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "National currency name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "West African Cfa Franc"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "West African CFA Franc"
+      }
+    ],
+    "description": "Mass edit cells in column National currency name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Country or area name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cote d'Ivoire"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ivory Coast"
+      }
+    ],
+    "description": "Mass edit cells in column Country or area name"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ISO Alpha-3 Code",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column ISO Alpha-3 Code using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Country or area name",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Country or area name using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "National currency name",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column National currency name using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "National currency ISO-4217",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column National currency ISO-4217 using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Start Date",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Start Date using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "End Date",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column End Date using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Has an EITI Report been prepared by an Independent Administrator?",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Has an EITI Report been prepared by an Independent Administrator? using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "What is the name of the company?",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column What is the name of the company? using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Date that the EITI Report was made public",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Date that the EITI Report was made public using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "URL, EITI Report",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column URL, EITI Report using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Publication date of the EITI data",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Publication date of the EITI data using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Does the government systematically disclose EITI data at a single location?",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Does the government systematically disclose EITI data at a single location? using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Open data portal / files",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Open data portal / files using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Does the government have an open data policy?",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Does the government have an open data policy? using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Date that other file was made public",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Date that other file was made public using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "URL",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column URL using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Are there other files of relevance?",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Are there other files of relevance? using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Website link (URL) to EITI data",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Website link (URL) to EITI data using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Other, non-upstream sectors",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Other, non-upstream sectors using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Mining (incl. Quarrying)",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Mining (incl. Quarrying) using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "… by project",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column … by project using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Gas",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Gas using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Oil",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Oil using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Exchange rate source (URL,…)",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Exchange rate source (URL,…) using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Exchange rate used: 1 USD =",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Exchange rate used: 1 USD = using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "If yes, please specify name (insert new rows if multiple)",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column If yes, please specify name (insert new rows if multiple) using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Number of reporting companies (incl SOEs if payer)",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Number of reporting companies (incl SOEs if payer) using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "… by government agency",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column … by government agency using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Number of reporting government entities (incl SOEs if recipient)",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Number of reporting government entities (incl SOEs if recipient) using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Through EITI Reporting",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Through EITI Reporting using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Systematically disclosed",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Systematically disclosed using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "… by company",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column … by company using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "… by revenue stream",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column … by revenue stream using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Reporting currency (ISO-4217 currency codes)",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Reporting currency (ISO-4217 currency codes) using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Email address",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Email address using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Organisation",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Organisation using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Name",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Name using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Not applicable",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Not applicable using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Not available",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Not available using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "National currency name",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column National currency name using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "National currency ISO-4217",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column National currency ISO-4217 using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Start Date",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Start Date using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "End Date",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column End Date using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Country or area name",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Country or area name using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Has an EITI Report been prepared by an Independent Administrator?",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Has an EITI Report been prepared by an Independent Administrator? using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "What is the name of the company?",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column What is the name of the company? using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Date that the EITI Report was made public",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Date that the EITI Report was made public using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Publication date of the EITI data",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Publication date of the EITI data using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Website link (URL) to EITI data",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Website link (URL) to EITI data using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "URL, EITI Report",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column URL, EITI Report using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Are there other files of relevance?",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Are there other files of relevance? using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ISO Alpha-3 Code",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column ISO Alpha-3 Code using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Systematically disclosed",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Systematically disclosed using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "URL",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column URL using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Date that other file was made public",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Date that other file was made public using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Does the government have an open data policy?",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Does the government have an open data policy? using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Does the government systematically disclose EITI data at a single location?",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Does the government systematically disclose EITI data at a single location? using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Number of reporting government entities (incl SOEs if recipient)",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Number of reporting government entities (incl SOEs if recipient) using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Mining (incl. Quarrying)",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Mining (incl. Quarrying) using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Open data portal / files",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Open data portal / files using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Oil",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Oil using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Gas",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Gas using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Exchange rate source (URL,…)",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Exchange rate source (URL,…) using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Reporting currency (ISO-4217 currency codes)",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Reporting currency (ISO-4217 currency codes) using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Other, non-upstream sectors",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Other, non-upstream sectors using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Number of reporting companies (incl SOEs if payer)",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Number of reporting companies (incl SOEs if payer) using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "If yes, please specify name (insert new rows if multiple)",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column If yes, please specify name (insert new rows if multiple) using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "… by project",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column … by project using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "… by government agency",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column … by government agency using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Not available",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Not available using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "… by company",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column … by company using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Exchange rate used: 1 USD =",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Exchange rate used: 1 USD = using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "… by revenue stream",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column … by revenue stream using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Organisation",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Organisation using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Name",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Name using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Not applicable",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Not applicable using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Through EITI Reporting",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Through EITI Reporting using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Email address",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Email address using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Country or area name",
+    "newColumnName": "country_or_area_name",
+    "description": "Rename column Country or area name to country_or_area_name"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "ISO Alpha-3 Code",
+    "newColumnName": "iso_alpha3_code",
+    "description": "Rename column ISO Alpha-3 Code to iso_alpha3_code"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "National currency name",
+    "newColumnName": "national_currency_name",
+    "description": "Rename column National currency name to national_currency_name"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "National currency ISO-4217",
+    "newColumnName": "national_currency_iso4217",
+    "description": "Rename column National currency ISO-4217 to national_currency_iso4217"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Start Date",
+    "newColumnName": "start_date",
+    "description": "Rename column Start Date to start_date"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "End Date",
+    "newColumnName": "end_date",
+    "description": "Rename column End Date to end_date"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Has an EITI Report been prepared by an Independent Administrator?",
+    "newColumnName": "has_an_eiti_report_been_prepared",
+    "description": "Rename column Has an EITI Report been prepared by an Independent Administrator? to has_an_eiti_report_been_prepared"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "What is the name of the company?",
+    "newColumnName": "name_indepedent_administrator",
+    "description": "Rename column What is the name of the company? to name_indepedent_administrator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name_indepedent_administrator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column name_indepedent_administrator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name_indepedent_administrator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column name_indepedent_administrator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name_indepedent_administrator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Boas &Associates",
+          "Boas & Associates"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boas & Associates"
+      },
+      {
+        "from": [
+          "BDO LLP UK",
+          "BDO UK LLP"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BDO UK LLP"
+      }
+    ],
+    "description": "Mass edit cells in column name_indepedent_administrator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name_indepedent_administrator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "EY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ernst & Young"
+      }
+    ],
+    "description": "Mass edit cells in column name_indepedent_administrator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name_indepedent_administrator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "EY Armenia CJSC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ernst & Young Armenia CJSC"
+      }
+    ],
+    "description": "Mass edit cells in column name_indepedent_administrator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name_indepedent_administrator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Consultor Independiente - Santiago J. Dondo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Santiago J. Dondo (Consultor Independiente)"
+      }
+    ],
+    "description": "Mass edit cells in column name_indepedent_administrator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name_indepedent_administrator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Atty. Maria Karla L. Espinosa, LLM - Contextual Information Consultant Ms. Linnet Madelate C. Chan, CPA - Independent Administrator"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Atty. Maria Karla L. Espinosa, LLM (Contextual Information Consultant); Ms. Linnet Madelate C. Chan, CPA (Independent Administrator)"
+      }
+    ],
+    "description": "Mass edit cells in column name_indepedent_administrator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name_indepedent_administrator",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Tajudeen Badejo & Co./ Adeshile Adedeji & Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tajudeen Badejo & Co; Adeshile Adedeji & Co"
+      }
+    ],
+    "description": "Mass edit cells in column name_indepedent_administrator"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Date that the EITI Report was made public",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column Date that the EITI Report was made public"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Date that the EITI Report was made public",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Date that the EITI Report was made public using expression value.toDate()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Date that the EITI Report was made public",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2021 - January - 20"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2021-01-20"
+      }
+    ],
+    "description": "Mass edit cells in column Date that the EITI Report was made public"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Date that the EITI Report was made public",
+    "expression": "grel:value.replace(\"00\",\"\").replace(\"T:Z\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Date that the EITI Report was made public using expression grel:value.replace(\"00\",\"\").replace(\"T:Z\",\"\")"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "URL, EITI Report",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "eiti.org"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column URL, EITI Report"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "URL, EITI Report",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column URL, EITI Report"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "URL, EITI Report",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column URL, EITI Report"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "name_indepedent_administrator",
+    "newColumnName": "name_independent_administrator",
+    "description": "Rename column name_indepedent_administrator to name_independent_administrator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Date that the EITI Report was made public",
+    "newColumnName": "date_publication_eiti_report",
+    "description": "Rename column Date that the EITI Report was made public to date_publication_eiti_report"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "URL, EITI Report",
+    "newColumnName": "eiti_report_url",
+    "description": "Rename column URL, EITI Report to eiti_report_url"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Does the government systematically disclose EITI data at a single location?",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n"
+      }
+    ],
+    "description": "Mass edit cells in column Does the government systematically disclose EITI data at a single location?"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Does the government systematically disclose EITI data at a single location?",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column Does the government systematically disclose EITI data at a single location?"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Does the government systematically disclose EITI data at a single location?",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column Does the government systematically disclose EITI data at a single location?"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Publication date of the EITI data",
+    "newColumnName": "eiti_data_publication_date",
+    "description": "Rename column Publication date of the EITI data to eiti_data_publication_date"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Does the government systematically disclose EITI data at a single location?",
+    "newColumnName": "government_systematic_disclosure",
+    "description": "Rename column Does the government systematically disclose EITI data at a single location? to government_systematic_disclosure"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "government_systematic_disclosure",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "no"
+      }
+    ],
+    "description": "Mass edit cells in column government_systematic_disclosure"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "government_systematic_disclosure",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Partially"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "partially"
+      }
+    ],
+    "description": "Mass edit cells in column government_systematic_disclosure"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "government_systematic_disclosure",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Yes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "yes"
+      }
+    ],
+    "description": "Mass edit cells in column government_systematic_disclosure"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "has_an_eiti_report_been_prepared",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "no"
+      }
+    ],
+    "description": "Mass edit cells in column has_an_eiti_report_been_prepared"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "has_an_eiti_report_been_prepared",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Partially"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "partially"
+      }
+    ],
+    "description": "Mass edit cells in column has_an_eiti_report_been_prepared"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "has_an_eiti_report_been_prepared",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Yes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "yes"
+      }
+    ],
+    "description": "Mass edit cells in column has_an_eiti_report_been_prepared"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_data_publication_date",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_data_publication_date"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_data_publication_date",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_data_publication_date"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_data_publication_date",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "N/A"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_data_publication_date"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_data_publication_date",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_data_publication_date"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_data_publication_date",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column eiti_data_publication_date using expression value.toDate()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_data_publication_date",
+    "expression": "grel:value.replace(\"00\",\"\").replace(\"T:Z\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column eiti_data_publication_date using expression grel:value.replace(\"00\",\"\").replace(\"T:Z\",\"\")"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "date_publication_eiti_report",
+    "newColumnName": "eiti_report_publication_date",
+    "description": "Rename column date_publication_eiti_report to eiti_report_publication_date"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Website link (URL) to EITI data",
+    "newColumnName": "eiti_data_url",
+    "description": "Rename column Website link (URL) to EITI data to eiti_data_url"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_data_url",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "N/A",
+          "NA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_data_url"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_data_url",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_data_url"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_data_url",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Yes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_data_url"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_data_url",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_data_url"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_data_url",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_data_url"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_data_url",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Åpenhet om betalinger - EITI - Norskpetroleum.no"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Norskpetroleum.no"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_data_url"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "eiti_data_url",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "EDGE: http://ph-eiti.dof.gov.ph/edge.html https://pheiti.dof.gov.ph/extractive-data-generator/ Country Reports: https://pheiti.dof.gov.ph/country-reports/"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "http://ph-eiti.dof.gov.ph/edge.html (EDGE); https://pheiti.dof.gov.ph/extractive-data-generator/; https://pheiti.dof.gov.ph/country-reports/ (Country Reports)"
+      }
+    ],
+    "description": "Mass edit cells in column eiti_data_url"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Are there other files of relevance?",
+    "newColumnName": "other_relevant_files",
+    "description": "Rename column Are there other files of relevance? to other_relevant_files"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "other_relevant_files",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Yes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "yes"
+      }
+    ],
+    "description": "Mass edit cells in column other_relevant_files"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "other_relevant_files",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Partially"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "partially"
+      }
+    ],
+    "description": "Mass edit cells in column other_relevant_files"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "other_relevant_files",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column other_relevant_files"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "other_relevant_files",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "no"
+      }
+    ],
+    "description": "Mass edit cells in column other_relevant_files"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Date that other file was made public",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column Date that other file was made public"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Date that other file was made public",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column Date that other file was made public"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Date that other file was made public",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column Date that other file was made public"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Date that other file was made public",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Date that other file was made public using expression value.toDate()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Date that other file was made public",
+    "expression": "grel:value.replace(\"00\",\"\").replace(\"T:Z\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Date that other file was made public using expression grel:value.replace(\"00\",\"\").replace(\"T:Z\",\"\")"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "URL",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column URL"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "URL",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column URL"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "URL",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column URL"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Date that other file was made public",
+    "newColumnName": "other_files_publication_date",
+    "description": "Rename column Date that other file was made public to other_files_publication_date"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "URL",
+    "newColumnName": "other_files_url",
+    "description": "Rename column URL to other_files_url"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Does the government have an open data policy?",
+    "newColumnName": "government_opendata_policy",
+    "description": "Rename column Does the government have an open data policy? to government_opendata_policy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "government_opendata_policy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not available"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column government_opendata_policy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "government_opendata_policy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Yes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "yes"
+      }
+    ],
+    "description": "Mass edit cells in column government_opendata_policy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "government_opendata_policy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Yes, systematically disclosed"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "yes, systematically disclosed"
+      }
+    ],
+    "description": "Mass edit cells in column government_opendata_policy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "government_opendata_policy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Yes, through EITI reporting"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "yes, through EITI reporting"
+      }
+    ],
+    "description": "Mass edit cells in column government_opendata_policy"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Open data portal / files",
+    "newColumnName": "opendata_portal_or_files",
+    "description": "Rename column Open data portal / files to opendata_portal_or_files"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "opendata_portal_or_files",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column opendata_portal_or_files"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "opendata_portal_or_files",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column opendata_portal_or_files"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "opendata_portal_or_files",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column opendata_portal_or_files"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "opendata_portal_or_files",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Oui, à travers le rapportage ITIE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column opendata_portal_or_files"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "opendata_portal_or_files",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "OGA's Open Data: http://data-ogauthority.opendata.arcgis.com/ UK EITI open data policy: https://www.ukeiti.org/publications-reports"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "http://data-ogauthority.opendata.arcgis.com/ (OGA's Open Data); https://www.ukeiti.org/publications-reports (UK EITI open data policy)"
+      }
+    ],
+    "description": "Mass edit cells in column opendata_portal_or_files"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "opendata_portal_or_files",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "OGA's Open Data: http://data-ogauthority.opendata.arcgis.com/ UK EITI open data policy: https://www.gov.uk/government/groups/uk-extractive-industries-transparency-initiative-multi-stakeholder-group#uk-eiti-open-data-policy-paper"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "http://data-ogauthority.opendata.arcgis.com/ (OGA's Open Data); https://www.gov.uk/government/groups/uk-extractive-industries-transparency-initiative-multi-stakeholder-group#uk-eiti-open-data-policy-paper (UK EITI open data policy)"
+      }
+    ],
+    "description": "Mass edit cells in column opendata_portal_or_files"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Oil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column Oil"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Oil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Yes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "yes"
+      }
+    ],
+    "description": "Mass edit cells in column Oil"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Oil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Partially"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "partially"
+      }
+    ],
+    "description": "Mass edit cells in column Oil"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Oil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column Oil"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Oil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "no"
+      }
+    ],
+    "description": "Mass edit cells in column Oil"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Gas",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Gas using expression value.toLowercase()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Gas",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column Gas"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Gas",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column Gas"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Mining (incl. Quarrying)",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Mining (incl. Quarrying) using expression value.toLowercase()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Other, non-upstream sectors",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Other, non-upstream sectors using expression value.toLowercase()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Other, non-upstream sectors",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column Other, non-upstream sectors"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "If yes, please specify name (insert new rows if multiple)",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "< Other sector >"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column If yes, please specify name (insert new rows if multiple)"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "If yes, please specify name (insert new rows if multiple)",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "4"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column If yes, please specify name (insert new rows if multiple)"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "If yes, please specify name (insert new rows if multiple)",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column If yes, please specify name (insert new rows if multiple)"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "If yes, please specify name (insert new rows if multiple)",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Yes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column If yes, please specify name (insert new rows if multiple)"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "If yes, please specify name (insert new rows if multiple)",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column If yes, please specify name (insert new rows if multiple)"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "If yes, please specify name (insert new rows if multiple)",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column If yes, please specify name (insert new rows if multiple)"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Oil",
+    "newColumnName": "oil_related_activity",
+    "description": "Rename column Oil to oil_related_activity"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Gas",
+    "newColumnName": "gas_related_activity",
+    "description": "Rename column Gas to gas_related_activity"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Mining (incl. Quarrying)",
+    "newColumnName": "mining_or_quarrying_related_activity",
+    "description": "Rename column Mining (incl. Quarrying) to mining_or_quarrying_related_activity"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Other, non-upstream sectors",
+    "newColumnName": "other_non_upstream_sectors",
+    "description": "Rename column Other, non-upstream sectors to other_non_upstream_sectors"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "If yes, please specify name (insert new rows if multiple)",
+    "newColumnName": "if_yes_sector_name",
+    "description": "Rename column If yes, please specify name (insert new rows if multiple) to if_yes_sector_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Number of reporting government entities (incl SOEs if recipient)",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Fisheries"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column Number of reporting government entities (incl SOEs if recipient)"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Number of reporting government entities (incl SOEs if recipient)",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Yes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column Number of reporting government entities (incl SOEs if recipient)"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Number of reporting government entities (incl SOEs if recipient)",
+    "newColumnName": "number_reporting_gov_entities",
+    "description": "Rename column Number of reporting government entities (incl SOEs if recipient) to number_reporting_gov_entities"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "government_systematic_disclosure",
+    "newColumnName": "gov_systematic_disclosure",
+    "description": "Rename column government_systematic_disclosure to gov_systematic_disclosure"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "has_an_eiti_report_been_prepared",
+    "newColumnName": "eiti_report_preparation_status",
+    "description": "Rename column has_an_eiti_report_been_prepared to eiti_report_preparation_status"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Number of reporting companies (incl SOEs if payer)",
+    "newColumnName": "number_reporting_companies",
+    "description": "Rename column Number of reporting companies (incl SOEs if payer) to number_reporting_companies"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "number_reporting_companies",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "900.00%"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column number_reporting_companies"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Reporting currency (ISO-4217 currency codes)",
+    "newColumnName": "reporting_currency_iso4217",
+    "description": "Rename column Reporting currency (ISO-4217 currency codes) to reporting_currency_iso4217"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Exchange rate used: 1 USD =",
+    "newColumnName": "dollar_to_currency_exchange_rate",
+    "description": "Rename column Exchange rate used: 1 USD = to dollar_to_currency_exchange_rate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "dollar_to_currency_exchange_rate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "311409.00%"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3114.09"
+      }
+    ],
+    "description": "Mass edit cells in column dollar_to_currency_exchange_rate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "dollar_to_currency_exchange_rate",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "118200.00%"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1182"
+      }
+    ],
+    "description": "Mass edit cells in column dollar_to_currency_exchange_rate"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Exchange rate source (URL,…)",
+          "expression": "value",
+          "columnName": "Exchange rate source (URL,…)",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [],
+          "selectBlank": true,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Exchange rate source (URL,…)",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column Exchange rate source (URL,…)"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Exchange rate source (URL,…)",
+    "newColumnName": "exchange_rate_source",
+    "description": "Rename column Exchange rate source (URL,…) to exchange_rate_source"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "… by revenue stream",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Partially"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "partially"
+      }
+    ],
+    "description": "Mass edit cells in column … by revenue stream"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "… by revenue stream",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Yes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "yes"
+      }
+    ],
+    "description": "Mass edit cells in column … by revenue stream"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "… by revenue stream",
+    "newColumnName": "revenue_stream_disaggregation",
+    "description": "Rename column … by revenue stream to revenue_stream_disaggregation"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "… by government agency",
+    "newColumnName": "government_agency_disaggregation",
+    "description": "Rename column … by government agency to government_agency_disaggregation"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "… by company",
+    "newColumnName": "company_disaggregation",
+    "description": "Rename column … by company to company_disaggregation"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "… by project",
+    "newColumnName": "project_disaggregation",
+    "description": "Rename column … by project to project_disaggregation"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Systematically disclosed",
+    "newColumnName": "data_systematically_disclosed",
+    "description": "Rename column Systematically disclosed to data_systematically_disclosed"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Through EITI Reporting",
+    "newColumnName": "disclosure_through_eiti_reporting",
+    "description": "Rename column Through EITI Reporting to disclosure_through_eiti_reporting"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oil_related_activity",
+    "newColumnName": "oil_sector_coverage",
+    "description": "Rename column oil_related_activity to oil_sector_coverage"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "gas_related_activity",
+    "newColumnName": "gas_sector_coverage",
+    "description": "Rename column gas_related_activity to gas_sector_coverage"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "mining_or_quarrying_related_activity",
+    "newColumnName": "mining_or_quarrying_sector_coverage",
+    "description": "Rename column mining_or_quarrying_related_activity to mining_or_quarrying_sector_coverage"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "other_non_upstream_sectors",
+    "newColumnName": "other_non_upstream_sectors_coverage",
+    "description": "Rename column other_non_upstream_sectors to other_non_upstream_sectors_coverage"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Not applicable",
+    "newColumnName": "na_disclosure_requests",
+    "description": "Rename column Not applicable to na_disclosure_requests"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Not available",
+    "newColumnName": "nv_disclosure_requests",
+    "description": "Rename column Not available to nv_disclosure_requests"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Name",
+    "newColumnName": "submitter_name",
+    "description": "Rename column Name to submitter_name"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Organisation",
+    "newColumnName": "submitter_organisation",
+    "description": "Rename column Organisation to submitter_organisation"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Email address",
+    "newColumnName": "submitter_email",
+    "description": "Rename column Email address to submitter_email"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "government_agency_disaggregation",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column government_agency_disaggregation using expression value.toLowercase()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "government_agency_disaggregation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column government_agency_disaggregation"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "company_disaggregation",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column company_disaggregation using expression value.toLowercase()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "project_disaggregation",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column project_disaggregation using expression value.toLowercase()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "project_disaggregation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "not applicable"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column project_disaggregation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "government_agency_disaggregation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "n/a"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "n/v"
+      }
+    ],
+    "description": "Mass edit cells in column government_agency_disaggregation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "submitter_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Badejo Tajudeen Olaposi/ Deji Adeshile"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Badejo Tajudeen Olaposi; Deji Adeshile"
+      }
+    ],
+    "description": "Mass edit cells in column submitter_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "submitter_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Karim Lourimi/Elyes Kooli"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Karim Lourimi; Elyes Kooli"
+      }
+    ],
+    "description": "Mass edit cells in column submitter_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "submitter_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CPA Dr. Gabriel Komba"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dr. Gabriel Komba CPA"
+      }
+    ],
+    "description": "Mass edit cells in column submitter_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "submitter_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "n/a"
+      }
+    ],
+    "description": "Mass edit cells in column submitter_name"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "iso_alpha3_code",
+    "expression": "jython:# Example of a mapping dictionary in Jython\ncode_mapping = {\n  'AFG': 'AF', 'ALA': 'AX', 'ALB': 'AL', 'DZA': 'DZ', 'ASM': 'AS', 'AND': 'AD', 'AGO': 'AO', 'AIA': 'AI', 'ATA': 'AQ', 'ATG': 'AG', 'ARG': 'AR', 'ARM': 'AM', 'ABW': 'AW', 'AUS': 'AU', 'AUT': 'AT',\n  'AZE': 'AZ', 'BHS': 'BS', 'BHR': 'BH', 'BGD': 'BD', 'BRB': 'BB', 'BLR': 'BY', 'BEL': 'BE', 'BLZ': 'BZ', 'BEN': 'BJ', 'BMU': 'BM', 'BTN': 'BT', 'BOL': 'BO', 'BES': 'BQ', 'BIH': 'BA', 'BWA': 'BW',\n  'BVT': 'BV', 'BRA': 'BR', 'IOT': 'IO', 'BRN': 'BN', 'BGR': 'BG', 'BFA': 'BF', 'BDI': 'BI', 'CPV': 'CV', 'KHM': 'KH', 'CMR': 'CM', 'CAN': 'CA', 'CYM': 'KY', 'CAF': 'CF', 'TCD': 'TD', 'CHL': 'CL',\n  'CHN': 'CN', 'CXR': 'CX', 'CCK': 'CC', 'COL': 'CO', 'COM': 'KM', 'COG': 'CG', 'COD': 'CD', 'COK': 'CK', 'CRI': 'CR', 'CIV': 'CI', 'HRV': 'HR', 'CUB': 'CU', 'CUW': 'CW', 'CYP': 'CY', 'CZE': 'CZ',\n  'DNK': 'DK', 'DJI': 'DJ', 'DMA': 'DM', 'DOM': 'DO', 'ECU': 'EC', 'EGY': 'EG', 'SLV': 'SV', 'GNQ': 'GQ', 'ERI': 'ER', 'EST': 'EE', 'SWZ': 'SZ', 'ETH': 'ET', 'FLK': 'FK', 'FRO': 'FO', 'FJI': 'FJ',\n  'FIN': 'FI', 'FRA': 'FR', 'GUF': 'GF', 'PYF': 'PF', 'ATF': 'TF', 'GAB': 'GA', 'GMB': 'GM', 'GEO': 'GE', 'DEU': 'DE', 'GHA': 'GH', 'GIB': 'GI', 'GRC': 'GR', 'GRL': 'GL', 'GRD': 'GD', 'GLP': 'GP',\n  'GUM': 'GU', 'GTM': 'GT', 'GGY': 'GG', 'GIN': 'GN', 'GNB': 'GW', 'GUY': 'GY', 'HTI': 'HT', 'HMD': 'HM', 'VAT': 'VA', 'HND': 'HN', 'HKG': 'HK', 'HUN': 'HU', 'ISL': 'IS', 'IND': 'IN', 'IDN': 'ID',\n  'IRN': 'IR', 'IRQ': 'IQ', 'IRL': 'IE', 'IMN': 'IM', 'ISR': 'IL', 'ITA': 'IT', 'JAM': 'JM', 'JPN': 'JP', 'JEY': 'JE', 'JOR': 'JO', 'KAZ': 'KZ', 'KEN': 'KE', 'KIR': 'KI', 'PRK': 'KP', 'KOR': 'KR',\n  'KWT': 'KW', 'KGZ': 'KG', 'LAO': 'LA', 'LVA': 'LV', 'LBN': 'LB', 'LSO': 'LS', 'LBR': 'LR', 'LBY': 'LY', 'LIE': 'LI', 'LTU': 'LT', 'LUX': 'LU', 'MAC': 'MO', 'MDG': 'MG', 'MWI': 'MW', 'MYS': 'MY',\n  'MDV': 'MV', 'MLI': 'ML', 'MLT': 'MT', 'MHL': 'MH', 'MTQ': 'MQ', 'MRT': 'MR', 'MUS': 'MU', 'MYT': 'YT', 'MEX': 'MX', 'FSM': 'FM', 'MDA': 'MD', 'MCO': 'MC', 'MNG': 'MN', 'MNE': 'ME', 'MSR': 'MS',\n  'MAR': 'MA', 'MOZ': 'MZ', 'MMR': 'MM', 'NAM': 'NA', 'NRU': 'NR', 'NPL': 'NP', 'NLD': 'NL', 'NCL': 'NC', 'NZL': 'NZ', 'NIC': 'NI', 'NER': 'NE', 'NGA': 'NG', 'NIU': 'NU', 'NFK': 'NF', 'MKD': 'MK',\n  'MNP': 'MP', 'NOR': 'NO', 'OMN': 'OM', 'PAK': 'PK', 'PLW': 'PW', 'PSE': 'PS', 'PAN': 'PA', 'PNG': 'PG', 'PRY': 'PY', 'PER': 'PE', 'PHL': 'PH', 'PCN': 'PN', 'POL': 'PL', 'PRT': 'PT', 'PRI': 'PR',\n  'QAT': 'QA', 'REU': 'RE', 'ROU': 'RO', 'RUS': 'RU', 'RWA': 'RW', 'BLM': 'BL', 'SHN': 'SH', 'KNA': 'KN', 'LCA': 'LC', 'MAF': 'MF', 'SPM': 'PM', 'VCT': 'VC', 'WSM': 'WS', 'SMR': 'SM', 'STP': 'ST',\n  'SAU': 'SA', 'SEN': 'SN', 'SRB': 'RS', 'SYC': 'SC', 'SLE': 'SL', 'SGP': 'SG', 'SXM': 'SX', 'SVK': 'SK', 'SVN': 'SI', 'SLB': 'SB', 'SOM': 'SO', 'ZAF': 'ZA', 'SGS': 'GS', 'SSD': 'SS', 'ESP': 'ES',\n  'LKA': 'LK', 'SDN': 'SD', 'SUR': 'SR', 'SJM': 'SJ', 'SWE': 'SE', 'CHE': 'CH', 'SYR': 'SY', 'TWN': 'TW', 'TJK': 'TJ', 'TZA': 'TZ', 'THA': 'TH', 'TLS': 'TL', 'TGO': 'TG', 'TKL': 'TK', 'TON': 'TO',\n  'TTO': 'TT', 'TUN': 'TN', 'TUR': 'TR', 'TKM': 'TM', 'TCA': 'TC', 'TUV': 'TV', 'UGA': 'UG', 'UKR': 'UA', 'ARE': 'AE', 'GBR': 'GB', 'USA': 'US', 'UMI': 'UM', 'URY': 'UY', 'UZB': 'UZ', 'VUT': 'VU',\n  'VEN': 'VE', 'VNM': 'VN', 'VGB': 'VG', 'VIR': 'VI', 'WLF': 'WF', 'ESH': 'EH', 'YEM': 'YE', 'ZMB': 'ZM', 'ZWE': 'ZW'\n}\n\n# Jython expression to be used in a new column or transformation\nreturn code_mapping.get(value, \"Unknown\")",
+    "onError": "set-to-blank",
+    "newColumnName": "iso_alpha2_code",
+    "columnInsertIndex": 2,
+    "description": "Create column iso_alpha2_code at index 2 based on column iso_alpha3_code using expression jython:# Example of a mapping dictionary in Jython\ncode_mapping = {\n  'AFG': 'AF', 'ALA': 'AX', 'ALB': 'AL', 'DZA': 'DZ', 'ASM': 'AS', 'AND': 'AD', 'AGO': 'AO', 'AIA': 'AI', 'ATA': 'AQ', 'ATG': 'AG', 'ARG': 'AR', 'ARM': 'AM', 'ABW': 'AW', 'AUS': 'AU', 'AUT': 'AT',\n  'AZE': 'AZ', 'BHS': 'BS', 'BHR': 'BH', 'BGD': 'BD', 'BRB': 'BB', 'BLR': 'BY', 'BEL': 'BE', 'BLZ': 'BZ', 'BEN': 'BJ', 'BMU': 'BM', 'BTN': 'BT', 'BOL': 'BO', 'BES': 'BQ', 'BIH': 'BA', 'BWA': 'BW',\n  'BVT': 'BV', 'BRA': 'BR', 'IOT': 'IO', 'BRN': 'BN', 'BGR': 'BG', 'BFA': 'BF', 'BDI': 'BI', 'CPV': 'CV', 'KHM': 'KH', 'CMR': 'CM', 'CAN': 'CA', 'CYM': 'KY', 'CAF': 'CF', 'TCD': 'TD', 'CHL': 'CL',\n  'CHN': 'CN', 'CXR': 'CX', 'CCK': 'CC', 'COL': 'CO', 'COM': 'KM', 'COG': 'CG', 'COD': 'CD', 'COK': 'CK', 'CRI': 'CR', 'CIV': 'CI', 'HRV': 'HR', 'CUB': 'CU', 'CUW': 'CW', 'CYP': 'CY', 'CZE': 'CZ',\n  'DNK': 'DK', 'DJI': 'DJ', 'DMA': 'DM', 'DOM': 'DO', 'ECU': 'EC', 'EGY': 'EG', 'SLV': 'SV', 'GNQ': 'GQ', 'ERI': 'ER', 'EST': 'EE', 'SWZ': 'SZ', 'ETH': 'ET', 'FLK': 'FK', 'FRO': 'FO', 'FJI': 'FJ',\n  'FIN': 'FI', 'FRA': 'FR', 'GUF': 'GF', 'PYF': 'PF', 'ATF': 'TF', 'GAB': 'GA', 'GMB': 'GM', 'GEO': 'GE', 'DEU': 'DE', 'GHA': 'GH', 'GIB': 'GI', 'GRC': 'GR', 'GRL': 'GL', 'GRD': 'GD', 'GLP': 'GP',\n  'GUM': 'GU', 'GTM': 'GT', 'GGY': 'GG', 'GIN': 'GN', 'GNB': 'GW', 'GUY': 'GY', 'HTI': 'HT', 'HMD': 'HM', 'VAT': 'VA', 'HND': 'HN', 'HKG': 'HK', 'HUN': 'HU', 'ISL': 'IS', 'IND': 'IN', 'IDN': 'ID',\n  'IRN': 'IR', 'IRQ': 'IQ', 'IRL': 'IE', 'IMN': 'IM', 'ISR': 'IL', 'ITA': 'IT', 'JAM': 'JM', 'JPN': 'JP', 'JEY': 'JE', 'JOR': 'JO', 'KAZ': 'KZ', 'KEN': 'KE', 'KIR': 'KI', 'PRK': 'KP', 'KOR': 'KR',\n  'KWT': 'KW', 'KGZ': 'KG', 'LAO': 'LA', 'LVA': 'LV', 'LBN': 'LB', 'LSO': 'LS', 'LBR': 'LR', 'LBY': 'LY', 'LIE': 'LI', 'LTU': 'LT', 'LUX': 'LU', 'MAC': 'MO', 'MDG': 'MG', 'MWI': 'MW', 'MYS': 'MY',\n  'MDV': 'MV', 'MLI': 'ML', 'MLT': 'MT', 'MHL': 'MH', 'MTQ': 'MQ', 'MRT': 'MR', 'MUS': 'MU', 'MYT': 'YT', 'MEX': 'MX', 'FSM': 'FM', 'MDA': 'MD', 'MCO': 'MC', 'MNG': 'MN', 'MNE': 'ME', 'MSR': 'MS',\n  'MAR': 'MA', 'MOZ': 'MZ', 'MMR': 'MM', 'NAM': 'NA', 'NRU': 'NR', 'NPL': 'NP', 'NLD': 'NL', 'NCL': 'NC', 'NZL': 'NZ', 'NIC': 'NI', 'NER': 'NE', 'NGA': 'NG', 'NIU': 'NU', 'NFK': 'NF', 'MKD': 'MK',\n  'MNP': 'MP', 'NOR': 'NO', 'OMN': 'OM', 'PAK': 'PK', 'PLW': 'PW', 'PSE': 'PS', 'PAN': 'PA', 'PNG': 'PG', 'PRY': 'PY', 'PER': 'PE', 'PHL': 'PH', 'PCN': 'PN', 'POL': 'PL', 'PRT': 'PT', 'PRI': 'PR',\n  'QAT': 'QA', 'REU': 'RE', 'ROU': 'RO', 'RUS': 'RU', 'RWA': 'RW', 'BLM': 'BL', 'SHN': 'SH', 'KNA': 'KN', 'LCA': 'LC', 'MAF': 'MF', 'SPM': 'PM', 'VCT': 'VC', 'WSM': 'WS', 'SMR': 'SM', 'STP': 'ST',\n  'SAU': 'SA', 'SEN': 'SN', 'SRB': 'RS', 'SYC': 'SC', 'SLE': 'SL', 'SGP': 'SG', 'SXM': 'SX', 'SVK': 'SK', 'SVN': 'SI', 'SLB': 'SB', 'SOM': 'SO', 'ZAF': 'ZA', 'SGS': 'GS', 'SSD': 'SS', 'ESP': 'ES',\n  'LKA': 'LK', 'SDN': 'SD', 'SUR': 'SR', 'SJM': 'SJ', 'SWE': 'SE', 'CHE': 'CH', 'SYR': 'SY', 'TWN': 'TW', 'TJK': 'TJ', 'TZA': 'TZ', 'THA': 'TH', 'TLS': 'TL', 'TGO': 'TG', 'TKL': 'TK', 'TON': 'TO',\n  'TTO': 'TT', 'TUN': 'TN', 'TUR': 'TR', 'TKM': 'TM', 'TCA': 'TC', 'TUV': 'TV', 'UGA': 'UG', 'UKR': 'UA', 'ARE': 'AE', 'GBR': 'GB', 'USA': 'US', 'UMI': 'UM', 'URY': 'UY', 'UZB': 'UZ', 'VUT': 'VU',\n  'VEN': 'VE', 'VNM': 'VN', 'VGB': 'VG', 'VIR': 'VI', 'WLF': 'WF', 'ESH': 'EH', 'YEM': 'YE', 'ZMB': 'ZM', 'ZWE': 'ZW'\n}\n\n# Jython expression to be used in a new column or transformation\nreturn code_mapping.get(value, \"Unknown\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "iso_alpha3_code",
+    "expression": "join ([coalesce(cells['iso_alpha3_code'].value,''),coalesce(cells['start_date'].value,''),coalesce(cells['end_date'].value,'')],'-')",
+    "onError": "keep-original",
+    "newColumnName": "key2",
+    "columnInsertIndex": 2,
+    "description": "Create column key2 at index 2 based on column iso_alpha3_code using expression join ([coalesce(cells['iso_alpha3_code'].value,''),coalesce(cells['start_date'].value,''),coalesce(cells['end_date'].value,'')],'-')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "key2",
+    "expression": "jython:import uuid\nreturn str(uuid.uuid3(uuid.NAMESPACE_DNS, value.encode('utf-8')))",
+    "onError": "set-to-blank",
+    "newColumnName": "eiti_id_declaration",
+    "columnInsertIndex": 3,
+    "description": "Create column eiti_id_declaration at index 3 based on column key2 using expression jython:import uuid\nreturn str(uuid.uuid3(uuid.NAMESPACE_DNS, value.encode('utf-8')))"
+  },
+  {
+    "op": "core/row-reorder",
+    "mode": "row-based",
+    "sorting": {
+      "criteria": [
+        {
+          "valueType": "string",
+          "column": "key2",
+          "blankPosition": 2,
+          "errorPosition": 1,
+          "reverse": false,
+          "caseSensitive": false
+        }
+      ]
+    },
+    "description": "Reorder rows"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "key2",
+    "description": "Remove column key2"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "eiti_id_declaration",
+    "description": "Remove column eiti_id_declaration"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "start_date",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column start_date using expression value.toDate()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "end_date",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column end_date using expression value.toDate()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "start_date",
+    "expression": "grel:value.replace(\"00\",\"\").replace(\"T:Z\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column start_date using expression grel:value.replace(\"00\",\"\").replace(\"T:Z\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "end_date",
+    "expression": "grel:value.replace(\"00\",\"\").replace(\"T:Z\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column end_date using expression grel:value.replace(\"00\",\"\").replace(\"T:Z\",\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "iso_alpha3_code",
+    "expression": "join ([coalesce(cells['iso_alpha3_code'].value,''),coalesce(cells['start_date'].value,''),coalesce(cells['end_date'].value,'')],'-')",
+    "onError": "keep-original",
+    "newColumnName": "key",
+    "columnInsertIndex": 2,
+    "description": "Create column key at index 2 based on column iso_alpha3_code using expression join ([coalesce(cells['iso_alpha3_code'].value,''),coalesce(cells['start_date'].value,''),coalesce(cells['end_date'].value,'')],'-')"
+  },
+  {
+    "op": "core/row-reorder",
+    "mode": "row-based",
+    "sorting": {
+      "criteria": [
+        {
+          "valueType": "string",
+          "column": "key",
+          "blankPosition": 2,
+          "errorPosition": 1,
+          "reverse": false,
+          "caseSensitive": false
+        }
+      ]
+    },
+    "description": "Reorder rows"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "key",
+    "expression": "jython:import uuid\nreturn str(uuid.uuid3(uuid.NAMESPACE_DNS, value.encode('utf-8')))",
+    "onError": "set-to-blank",
+    "newColumnName": "eiti_id_declaration",
+    "columnInsertIndex": 3,
+    "description": "Create column eiti_id_declaration at index 3 based on column key using expression jython:import uuid\nreturn str(uuid.uuid3(uuid.NAMESPACE_DNS, value.encode('utf-8')))"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "key",
+    "description": "Remove column key"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "data_systematically_disclosed",
+    "expression": "grel:value.replace(\"%\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column data_systematically_disclosed using expression grel:value.replace(\"%\",\"\")"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "data_systematically_disclosed",
+    "newColumnName": "data_systematically_disclosed_percent",
+    "description": "Rename column data_systematically_disclosed to data_systematically_disclosed_percent"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "data_systematically_disclosed_percent",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column data_systematically_disclosed_percent using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "disclosure_through_eiti_reporting",
+    "newColumnName": "disclosure_through_eiti_reporting_percent",
+    "description": "Rename column disclosure_through_eiti_reporting to disclosure_through_eiti_reporting_percent"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "na_disclosure_requests",
+    "newColumnName": "na_disclosure_requests_percent",
+    "description": "Rename column na_disclosure_requests to na_disclosure_requests_percent"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "nv_disclosure_requests",
+    "newColumnName": "nv_disclosure_requests_percent",
+    "description": "Rename column nv_disclosure_requests to nv_disclosure_requests_percent"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "disclosure_through_eiti_reporting_percent",
+    "expression": "grel:value.replace(\"%\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column disclosure_through_eiti_reporting_percent using expression grel:value.replace(\"%\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "disclosure_through_eiti_reporting_percent",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column disclosure_through_eiti_reporting_percent using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "na_disclosure_requests_percent",
+    "expression": "grel:value.replace(\"%\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column na_disclosure_requests_percent using expression grel:value.replace(\"%\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "na_disclosure_requests_percent",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column na_disclosure_requests_percent using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "nv_disclosure_requests_percent",
+    "expression": "grel:value.replace(\"%\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column nv_disclosure_requests_percent using expression grel:value.replace(\"%\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "nv_disclosure_requests_percent",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column nv_disclosure_requests_percent using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "dollar_to_currency_exchange_rate",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column dollar_to_currency_exchange_rate using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "dollar_to_currency_exchange_rate",
+          "expression": "value",
+          "columnName": "dollar_to_currency_exchange_rate",
+          "from": 0,
+          "to": 600,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "dollar_to_currency_exchange_rate",
+    "expression": "grel:value.replace(\",\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column dollar_to_currency_exchange_rate using expression grel:value.replace(\",\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "dollar_to_currency_exchange_rate",
+          "expression": "value",
+          "columnName": "dollar_to_currency_exchange_rate",
+          "from": 0,
+          "to": 600,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "dollar_to_currency_exchange_rate",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column dollar_to_currency_exchange_rate using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "number_reporting_companies",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column number_reporting_companies using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "number_reporting_gov_entities",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column number_reporting_gov_entities using expression value.toNumber()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "if_yes_sector_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Forestry/Agriculture"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Forestry;Agriculture"
+      }
+    ],
+    "description": "Mass edit cells in column if_yes_sector_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "if_yes_sector_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Forestry/Fisheries"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Forestry;Fisheries"
+      }
+    ],
+    "description": "Mass edit cells in column if_yes_sector_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "if_yes_sector_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Quarrying and Water"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Quarrying;Water"
+      }
+    ],
+    "description": "Mass edit cells in column if_yes_sector_name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "if_yes_sector_name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Transport pétrolier et Raffinage"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Transport pétrolier;Raffinage"
+      }
+    ],
+    "description": "Mass edit cells in column if_yes_sector_name"
+  }
+]
