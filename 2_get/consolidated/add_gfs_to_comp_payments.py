@@ -10,11 +10,15 @@ def _(mo):
         r"""
     # Executive Summary
 
-    This notebook explores how to link company payments to the government's financial categories (like `GFS codes` and `Sectors`) to enable reliable historical and cross-country comparisons. Our analysis found that a direct, naive join is not feasible due to significant inconsistencies in how data is reported. As a compromise, this notebook outlines two approaches to enrich the data while preserving its analytical integrity.
+    This notebook explores how to  link `GFS codes` and `Sector ID` data, found in government revenues tables, to individual company payments, found in the Company data tables. The goal is to enable reliable historical and cross-country comparisons. 
 
-    The first approach, for `GFS Classification`, uses automated text cleaning followed by a financial value reconciliation. For the more ambiguous `Sector` ID, we outline a multi-level matching process that prioritizes the most reliable evidence first. The primary recommendation is to enrich the company data and embed *onfidence metadata for each report. 
+    Our analysis found that a direct, naive join is not feasible due to significant inconsistencies in how data is reported. As a compromise, this notebook outlines two approaches to enrich the data while preserving its analytical integrity.
 
-    This metadata, including scores for name matching and value accuracy, allows analysts to filter for high-quality data suitable for their specific query. Further work will be needed to refine these methods and integrate them into the EITI data importer.
+    The first approach, for `GFS Classification`, focuses on matching revenue streams before tackling the reconciliation of financial value data. We then address issues with `Sector` ID and outline a multi-level matching process that prioritizes the most reliable evidence first. 
+
+    The primary finding and recommendation is that to achieve our goal it is essential to build reliability indicators that communicate to analysts when a specific report is relevant for a category of analyses. Building on this finding is a second recommandation to systematically categorise the quality of reports, both as a way to support the Secretariat's validation process and to pre-filter data for less sophisticated data users.
+
+    Also included are descriptions of the categories of analyses to consider, and suggestions for next steps, including how to integrate those findings into the EITI data importer.
     """
     )
     return
@@ -115,15 +119,13 @@ def _(mo, pl):
 
     mo.md(
         f"""
-    ## Feasibility assessment: adding GFS codes and mining id to company payments.
+    ## Feasibility assessment: adding GFS codes and sector id to company payments.
 
     This notebook analyzes the feasibility of enriching company payment data (Part 5) with information from government revenue data (Part 4) and Reporting entitites (Part 3). The overall goal is to facilitate comparisons across time and countries at the company payment level. Two data points are explored:
 
     1.  **GFS data**: The first section explores how to reliably assign GFS codes from Part 4 to Part 5. We start with an assessment of the limits of a direct join, before proposing a compromise approach to reach our goal, using confidence metadata.
 
     2.  **Sector ID**: The second section addresses the question of Sector ID, which presents a different set of challenges than GFS codes. Similarly we end up outlining a compromise method to generate confidence metadata in the support of future analyses.
-
-    The notebook concludes with a summary findings and suggestions on how to implement the proposed approaches in EITI's production database.
 
     **Dataset Overview:**
 
@@ -160,7 +162,6 @@ def _(
         for c in gov_cols_to_normalize
     )
 
-    # Create LazyFrame for company data and normalize values.
     comp_pay_normalized = company_payments_lazy.with_columns(
         normalize_text_column(pl.col(c)).alias(f"{c}_clean")
         for c in comp_cols_to_normalize
@@ -178,18 +179,6 @@ def _(
 @app.cell(hide_code=True)
 def _(mo):
     mo.md(r"""## Revenue stream name matching""")
-    return
-
-
-@app.cell(hide_code=True)
-def _(mo):
-    mo.md(r"""## Financial discrepancies between Parts 4 and 5""")
-    return
-
-
-@app.cell(hide_code=True)
-def _(mo):
-    mo.md(r"""## Confidence score analysis""")
     return
 
 
@@ -278,6 +267,12 @@ def _(match_rate, matched_streams, mo, total_unique_streams):
     2. Establish the confidence score system.
     """
     )
+    return
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""## Financial discrepancies between Parts 4 and 5""")
     return
 
 
@@ -609,6 +604,12 @@ def _(discrepancy_tiers_per_report, mo, pl, reconciliation_summary):
     """
     )
     return good_confidence_total_pct, low_confidence_total_pct
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""## Confidence score analysis""")
+    return
 
 
 @app.cell(hide_code=True)
@@ -1008,6 +1009,11 @@ def _(mo):
     return
 
 
+@app.cell
+def _():
+    return
+
+
 @app.cell(hide_code=True)
 def _(mo):
     mo.md(r"""# II. Sector data""")
@@ -1030,6 +1036,12 @@ def _(mo):
     * **Level 4: Company-Based Fallback** (Lowest Confidence)
     """
     )
+    return
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""## Initial exploration""")
     return
 
 
@@ -1178,6 +1190,12 @@ def _(normalize_text_column, pl, standardize_sector):
     print(f"Base payments dataframe has {sector_enrichment_df.height} rows.")
     print("Aggregated project and company maps are ready.")
     return agg_projects_df, company_sector_map, sector_enrichment_df
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""## Multi-level join approach""")
+    return
 
 
 @app.cell(hide_code=True)
